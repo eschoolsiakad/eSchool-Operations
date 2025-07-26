@@ -1,0 +1,12 @@
+{% extends "layout.html" %} {% block content %}
+<div class="book-langs-index">
+  <h1>Pilih Bahasa</h1>
+  <ul>
+    {% for lang in langs %}
+    <li>
+      <a href="{{ lang.path | resolveFile }}">{{ lang.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}

@@ -1,0 +1,24 @@
+{
+  "name": "id-gitbook",
+  "version": "1.0.0",
+  "description": "---\r icon: hand-wave\r cover: >-\r   https://yt3.googleusercontent.com/M_elzTgUIcEs_8vNDVv-0_a6Q-erJId9pccG7y0iZE3D25AlMbIyZ21EWI7a8elbpE6-xVeGgQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj\r coverY: 0\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaffaAzizG/Id-GitBook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaffaAzizG/Id-GitBook/issues"
+  },
+  "homepage": "https://github.com/DaffaAzizG/Id-GitBook#readme",
+  "dependencies": {
+    "gitbook-plugin-anchors": "^0.7.1",
+    "honkit": "^6.0.3"
+  }
+}

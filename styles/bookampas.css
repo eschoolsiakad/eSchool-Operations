@@ -1,0 +1,1782 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #2c3e50;
+  background-color: #f9f9f9;
+}
+
+.book.color-theme-2 body {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #2c3e50;
+  background-color: red;
+}
+
+.book-header h1,
+.book-header .title {
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: block !important;
+}
+
+.book-header {
+  background: #ffffff;
+  color: #000000;
+}
+
+.book.color-theme-2 .book-header {
+  background: #1d1d1d;
+  color: #ffffff;
+}
+
+.book-header h1,
+.book-header .title {
+  font-weight: bold;
+  font-size: 22px;
+  padding: 10px 15px;
+}
+
+.book-summary {
+  background: #ffffff;
+  color: #34495e;
+  border-right: 1px solid #bdc3c7;
+  padding-top: 1%;
+  padding-left: 1%;
+  margin-top: 80px;
+}
+
+.book-summary ul.summary li a {
+  color: #2c3e50;
+  padding: 5px 15px;
+  margin: 0px 3px;
+  display: block;
+  text-decoration: none;
+  border-radius: 10px;
+  width: 100%;
+  transition: background 0.3s, color 0.3s;
+}
+
+.book-summary ul.summary li a:hover {
+  background: #f0efef;
+  color: black;
+  text-decoration: none;
+}
+
+.book-summary ul.summary li.active > a {
+  background: white;
+  color: #3d73dc;
+  font-weight: bold;
+}
+
+.book-summary ul.summary li.active > a:hover {
+  background: #e8f0ff;
+  color: #7f93bb;
+}
+
+/* Untuk sidebar link aktif (baik yang punya parent atau tidak) */
+.chapter.active > a,
+.chapter.active > .chapter-title > a {
+  background: white;
+  color: #3d73dc;
+  font-weight: bold;
+}
+
+.chapter.active > a,
+.chapter.active > .chapter-title > a:hover {
+  background: #e8f0ff;
+  color: #7f93bb;
+}
+
+.book-body .page-wrapper .page-inner section.normal {
+  padding: 30px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #2c3e50;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+a {
+  color: #1abc9c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+pre {
+  background: #2d3436;
+  color: #ecf0f1;
+  padding: 12px;
+  overflow: auto;
+  border-radius: 5px;
+  font-family: "Courier New", monospace;
+}
+
+code {
+  background: #dfe6e9;
+  color: #2c3e50;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid #bdc3c7;
+}
+
+th {
+  background: #ecf0f1;
+  font-weight: bold;
+}
+
+blockquote {
+  border-left: 4px solid #1abc9c;
+  padding-left: 16px;
+  color: #555;
+  background: #f1f1f1;
+  margin: 20px 0;
+}
+
+.summary-group-header {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 12px 20px 4px 20px;
+  color: #6c757d;
+  background-color: #ffffff;
+  border-top: 1px solid #dee2e6;
+}
+
+/* Style untuk collapsible */
+.has-children > .chapter-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.toggle-btn {
+  font-size: 12px;
+  margin-left: auto;
+  padding-left: 10px;
+  color: #888;
+  transition: transform 0.2s ease;
+}
+
+.collapsible {
+  display: none;
+  padding-left: 20px;
+}
+
+.chapter.open > .collapsible {
+  display: block;
+}
+
+.chapter.open > .chapter-title .toggle-btn {
+  transform: rotate(90deg);
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(44, 62, 80, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.modal-content {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  width: 80%;
+  max-height: 80%;
+  overflow-y: auto;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  position: relative;
+  animation: fadeIn 0.2s ease-out;
+}
+
+.modal-close {
+  position: absolute;
+  top: 12px;
+  right: 20px;
+  font-size: 28px;
+  color: #888;
+  cursor: pointer;
+}
+
+.modal-close:hover {
+  color: #e74c3c;
+}
+
+#searchResultsList {
+  list-style: none;
+  padding: 0;
+}
+
+#searchResultsList li {
+  margin-bottom: 10px;
+}
+
+#searchResultsList li a {
+  color: #1abc9c;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#searchResultsList li a:hover {
+  text-decoration: underline;
+}
+
+@keyframes fadeIn {
+  from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.search-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+
+.search-modal-content {
+  background: white;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 600px;
+  max-height: 80vh;
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+}
+
+#modalSearchInput {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+#modalSearchResults {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#modalSearchResults li {
+  margin-bottom: 10px;
+}
+
+#modalSearchResults li a {
+  color: #1abc9c;
+  text-decoration: none;
+}
+
+#modalSearchResults li a:hover {
+  text-decoration: underline;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#book-search-input {
+  width: 100%;
+  max-width: 420px;
+  margin: 20px auto;
+  display: block;
+}
+
+/* Ini yang harus kamu kasih desain elegan */
+#book-search-input input[type="text"] {
+  width: 100%;
+  padding: 10px 16px;
+  font-size: 16px;
+  color: #333;
+
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  transition: all 0.25s ease;
+  font-family: "Segoe UI", sans-serif;
+}
+
+#book-search-input input[type="text"]:focus {
+  background-color: #fff;
+  border-color: #7f93bb;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 8px 16px rgba(26, 188, 156, 0.2);
+  outline: none;
+  transform: scale(1.02);
+}
+
+.search-box-with-icon {
+  position: relative;
+  max-width: 400px;
+  margin: 16px auto;
+}
+
+.search-box-with-icon i.fa-search {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+}
+
+.search-box-with-icon input {
+  width: 100%;
+  padding: 12px 16px 12px 40px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #f7f7f7;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  font-size: 16px;
+  color: #333;
+  transition: all 0.2s ease;
+}
+
+.search-box-with-icon input:focus {
+  background-color: #fff;
+  border: 1px solid rgb(136, 190, 255);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  outline: none;
+}
+
+.cover {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.book .navigation {
+  display: none !important;
+}
+.book .book-body .body-inner {
+  margin-right: 0 !important;
+}
+
+.book .book-body .body-inner {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Konten utama biar lebar penuh */
+.book .book-body .page-wrapper .page-inner {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 20px !important; /* atau ubah padding sesuai keinginan */
+  box-sizing: border-box;
+}
+
+/* Hapus background putih tengah kalau mau tampilan polos */
+.book .book-body {
+  background: none !important;
+}
+
+/* Style untuk ikon di sidebar summary */
+.summary-icon {
+  width: 1.25em; /* biar sejajar meski icon beda-beda */
+  min-width: 1.25em;
+  display: inline-block;
+  text-align: center;
+  margin-right: 0.5em; /* jarak antara ikon dan teks */
+  color: #555; /* atau sesuaikan warna ikon */
+  opacity: 0.9;
+}
+
+/* Rata kiri dan spacing stabil */
+.chapter-title {
+  display: flex;
+  align-items: center;
+}
+
+/* Wrapper logo + judul */
+.doc-title {
+  display: flex;
+  align-items: center;
+  padding: 20px 15px;
+  gap: 12px; /* jarak antara logo dan teks */
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 10px;
+}
+
+/* Logo */
+.doc-title .logo {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Judul */
+.doc-title h1 {
+  font-size: 20px;
+  margin: 0;
+  font-weight: 600;
+  color: #333;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.book-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  z-index: 999;
+}
+
+/* Perbaiki posisi dan warna tombol fontsetting */
+.book-header .font-settings {
+  display: flex;
+  align-items: left;
+  margin-right: auto;
+  color: #333;
+  z-index: 9999;
+}
+
+.book-header .font-settings button {
+  color: #333;
+  font-weight: 500;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.book-header .font-settings button:hover {
+  color: #1abc9c;
+}
+
+.book-header .font-settings * {
+  color: inherit !important;
+}
+
+.book-body {
+  margin-top: 80px;
+  padding: 24px;
+}
+
+body.with-summary .book-summary {
+  display: block;
+}
+
+body.with-summary .book-body {
+  margin-left: 240px;
+}
+
+body.without-summary .book-summary {
+  display: none !important;
+}
+
+body.without-summary .book-body {
+  margin-left: 0 !important;
+}
+
+iframe {
+  display: flex;
+  justify-content: center;
+}
+
+/* ============================= */
+/* SEARCH RESULTS STYLING - CARD */
+/* ============================= */
+
+.search-results {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.search-results-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #2c3e50;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+/* List hasil */
+.search-results-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr; /* Atau bisa 1fr 1fr untuk 2 kolom */
+  gap: 16px;
+}
+
+/* Kartu hasil */
+.search-results-list li {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 16px 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+  border-left: 4px solid #1abc9c; /* Aksen warna */
+}
+
+.search-results-list li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+/* Tautan hasil */
+.search-results-list li a {
+  color: #1abc9c;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.search-results-list li a:hover {
+  text-decoration: underline;
+}
+
+/* Deskripsi atau cuplikan isi */
+.search-results-list li p {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.5;
+}
+
+/* ===== SEPIA MODE ===== */
+.book.color-theme-1 body {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #4e3d28;
+  background-color: #f4ecd8;
+}
+
+.book.color-theme-1 .book.color-theme-2 body {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #4e3d28;
+  background-color: red;
+}
+
+.book-header h1,
+.book.color-theme-1 .book-header .title {
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: block !important;
+}
+
+.book.color-theme-1 .book-header {
+  background: #f7f0dc;
+  color: #000000;
+}
+
+.book.color-theme-1 .book.color-theme-2 .book-header {
+  background: #1d1d1d;
+  color: #f7f0dc;
+}
+
+.book-header h1,
+.book.color-theme-1 .book-header .title {
+  font-weight: bold;
+  font-size: 22px;
+  padding: 10px 15px;
+}
+
+.book.color-theme-1 .book-summary {
+  background: #f7f0dc;
+  color: #5b4b30;
+  border-right: 1px solid #c1b18a;
+  padding-top: 1%;
+  padding-left: 1%;
+  margin-top: 80px;
+}
+
+.book.color-theme-1 .book-summary ul.summary li a {
+  color: #4e3d28;
+  padding: 5px 15px;
+  margin: 0px 3px;
+  display: block;
+  text-decoration: none;
+  border-radius: 10px;
+  width: 100%;
+  transition: background 0.3s, color 0.3s;
+}
+
+.book.color-theme-1 .book-summary ul.summary li a:hover {
+  background: #efe3c5;
+  color: black;
+  text-decoration: none;
+}
+
+.book.color-theme-1 .book-summary ul.summary li.active > a {
+  background: white;
+  color: #9c7d42;
+  font-weight: bold;
+}
+
+.book.color-theme-1 .book-summary ul.summary li.active > a:hover {
+  background: #efe3c5;
+  color: #8a6f40;
+}
+
+/* Untuk sidebar link aktif (baik yang punya parent atau tidak) */
+.chapter.active > a,
+.book.color-theme-1 .chapter.active > .chapter-title > a {
+  background: white;
+  color: #9c7d42;
+  font-weight: bold;
+}
+
+.chapter.active > a,
+.book.color-theme-1 .chapter.active > .chapter-title > a:hover {
+  background: #efe3c5;
+  color: #8a6f40;
+}
+
+.book.color-theme-1 .book-body .page-wrapper .page-inner section.normal {
+  padding: 30px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.book.color-theme-1 h6 {
+  color: #4e3d28;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+.book.color-theme-1 a {
+  color: #ba8b2f;
+  text-decoration: none;
+}
+
+.book.color-theme-1 a:hover {
+  text-decoration: underline;
+}
+
+.book.color-theme-1 pre {
+  background: #d8cbb0;
+  color: #e5dcc4;
+  padding: 12px;
+  overflow: auto;
+  border-radius: 5px;
+  font-family: "Courier New", monospace;
+}
+
+.book.color-theme-1 code {
+  background: #dfe6e9;
+  color: #4e3d28;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+.book.color-theme-1 table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+.book.color-theme-1 td {
+  padding: 10px;
+  border: 1px solid #c1b18a;
+}
+
+.book.color-theme-1 th {
+  background: #e5dcc4;
+  font-weight: bold;
+}
+
+.book.color-theme-1 blockquote {
+  border-left: 4px solid #ba8b2f;
+  padding-left: 16px;
+  color: #555;
+  background: #f4e8cd;
+  margin: 20px 0;
+}
+
+.book.color-theme-1 .summary-group-header {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 12px 20px 4px 20px;
+  color: #6a533c;
+  background-color: #f7f0dc;
+  border-top: 1px solid #dee2e6;
+}
+
+/* Style untuk collapsible */
+.book.color-theme-1 .has-children > .chapter-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.book.color-theme-1 .toggle-btn {
+  font-size: 12px;
+  margin-left: auto;
+  padding-left: 10px;
+  color: #888;
+  transition: transform 0.2s ease;
+}
+
+.book.color-theme-1 .collapsible {
+  display: none;
+  padding-left: 20px;
+}
+
+.book.color-theme-1 .chapter.open > .collapsible {
+  display: block;
+}
+
+.book.color-theme-1 .chapter.open > .chapter-title .toggle-btn {
+  transform: rotate(90deg);
+}
+
+.book.color-theme-1 .modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(44, 62, 80, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.book.color-theme-1 .modal-content {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  width: 80%;
+  max-height: 80%;
+  overflow-y: auto;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  position: relative;
+  animation: fadeIn 0.2s ease-out;
+}
+
+.book.color-theme-1 .modal-close {
+  position: absolute;
+  top: 12px;
+  right: 20px;
+  font-size: 28px;
+  color: #888;
+  cursor: pointer;
+}
+
+.book.color-theme-1 .modal-close:hover {
+  color: #e74c3c;
+}
+
+.book.color-theme-1 #searchResultsList {
+  list-style: none;
+  padding: 0;
+}
+
+.book.color-theme-1 #searchResultsList li {
+  margin-bottom: 10px;
+}
+
+.book.color-theme-1 #searchResultsList li a {
+  color: #ba8b2f;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.book.color-theme-1 #searchResultsList li a:hover {
+  text-decoration: underline;
+}
+
+@keyframes fadeIn {
+  .book.color-theme-1 from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  .book.color-theme-1 to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.book.color-theme-1 .search-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+
+.book.color-theme-1 .search-modal-content {
+  background: white;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 600px;
+  max-height: 80vh;
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+}
+
+.book.color-theme-1 #modalSearchInput {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+.book.color-theme-1 #modalSearchResults {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.book.color-theme-1 #modalSearchResults li {
+  margin-bottom: 10px;
+}
+
+.book.color-theme-1 #modalSearchResults li a {
+  color: #ba8b2f;
+  text-decoration: none;
+}
+
+.book.color-theme-1 #modalSearchResults li a:hover {
+  text-decoration: underline;
+}
+
+.book.color-theme-1 .title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4e3d28;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.book.color-theme-1 #book-search-input {
+  width: 100%;
+  max-width: 420px;
+  margin: 20px auto;
+  display: block;
+}
+
+/* Ini yang harus kamu kasih desain elegan */
+.book.color-theme-1 #book-search-input input[type="text"] {
+  width: 100%;
+  padding: 10px 16px;
+  font-size: 16px;
+  color: #333;
+
+  background-color: #f4ecd8;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  transition: all 0.25s ease;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.book.color-theme-1 #book-search-input input[type="text"]:focus {
+  background-color: #fff;
+  border-color: #8a6f40;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 8px 16px rgba(26, 188, 156, 0.2);
+  outline: none;
+  transform: scale(1.02);
+}
+
+.book.color-theme-1 .search-box-with-icon {
+  position: relative;
+  max-width: 400px;
+  margin: 16px auto;
+}
+
+.book.color-theme-1 .search-box-with-icon i.fa-search {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+}
+
+.book.color-theme-1 .search-box-with-icon input {
+  width: 100%;
+  padding: 12px 16px 12px 40px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #f7f7f7;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  font-size: 16px;
+  color: #333;
+  transition: all 0.2s ease;
+}
+
+.book.color-theme-1 .search-box-with-icon input:focus {
+  background-color: #fff;
+  border: 1px solid rgb(136, 190, 255);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  outline: none;
+}
+
+.book.color-theme-1 .cover {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.book.color-theme-1 .book .navigation {
+  display: none !important;
+}
+.book.color-theme-1 .book .book-body .body-inner {
+  margin-right: 0 !important;
+}
+
+.book.color-theme-1 .book .book-body .body-inner {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Konten utama biar lebar penuh */
+.book.color-theme-1 .book .book-body .page-wrapper .page-inner {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 20px !important; /* atau ubah padding sesuai keinginan */
+  box-sizing: border-box;
+}
+
+/* Hapus background putih tengah kalau mau tampilan polos */
+.book.color-theme-1 .book .book-body {
+  background: none !important;
+}
+
+/* Style untuk ikon di sidebar summary */
+.book.color-theme-1 .summary-icon {
+  width: 1.25em; /* biar sejajar meski icon beda-beda */
+  min-width: 1.25em;
+  display: inline-block;
+  text-align: center;
+  margin-right: 0.5em; /* jarak antara ikon dan teks */
+  color: #555; /* atau sesuaikan warna ikon */
+  opacity: 0.9;
+}
+
+/* Rata kiri dan spacing stabil */
+.book.color-theme-1 .chapter-title {
+  display: flex;
+  align-items: center;
+}
+
+/* Wrapper logo + judul */
+.book.color-theme-1 .doc-title {
+  display: flex;
+  align-items: center;
+  padding: 20px 15px;
+  gap: 12px; /* jarak antara logo dan teks */
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 10px;
+}
+
+/* Logo */
+.book.color-theme-1 .doc-title .logo {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Judul */
+.book.color-theme-1 .doc-title h1 {
+  font-size: 20px;
+  margin: 0;
+  font-weight: 600;
+  color: #333;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.book.color-theme-1 .book-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  z-index: 999;
+}
+
+/* Perbaiki posisi dan warna tombol fontsetting */
+.book.color-theme-1 .book-header .font-settings {
+  display: flex;
+  align-items: left;
+  margin-right: auto;
+  color: #333;
+  z-index: 9999;
+}
+
+.book.color-theme-1 .book-header .font-settings button {
+  color: #333;
+  font-weight: 500;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.book.color-theme-1 .book-header .font-settings button:hover {
+  color: #ba8b2f;
+}
+
+.book.color-theme-1 .book-header .font-settings * {
+  color: inherit !important;
+}
+
+.book.color-theme-1 .book-body {
+  margin-top: 80px;
+  padding: 24px;
+}
+
+.book.color-theme-1 body.with-summary .book-summary {
+  display: block;
+}
+
+.book.color-theme-1 body.with-summary .book-body {
+  margin-left: 240px;
+}
+
+.book.color-theme-1 body.without-summary .book-summary {
+  display: none !important;
+}
+
+.book.color-theme-1 body.without-summary .book-body {
+  margin-left: 0 !important;
+}
+
+.book.color-theme-1 iframe {
+  display: flex;
+  justify-content: center;
+}
+
+/* ============================= */
+/* SEARCH RESULTS STYLING - CARD */
+/* ============================= */
+
+.book.color-theme-1 .search-results {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.book.color-theme-1 .search-results-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #4e3d28;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+/* List hasil */
+.book.color-theme-1 .search-results-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr; /* Atau bisa 1fr 1fr untuk 2 kolom */
+  gap: 16px;
+}
+
+/* Kartu hasil */
+.book.color-theme-1 .search-results-list li {
+  background: #f7f0dc;
+  border-radius: 10px;
+  padding: 16px 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+  border-left: 4px solid #ba8b2f; /* Aksen warna */
+}
+
+.book.color-theme-1 .search-results-list li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+/* Tautan hasil */
+.book.color-theme-1 .search-results-list li a {
+  color: #ba8b2f;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.book.color-theme-1 .search-results-list li a:hover {
+  text-decoration: underline;
+}
+
+/* Deskripsi atau cuplikan isi */
+.book.color-theme-1 .search-results-list li p {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.5;
+}
+
+/* ===== NIGHT MODE ===== */
+.book.color-theme-2 body {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #f0f0f0;
+  background-color: #1d1d1d;
+}
+
+.book-header h1,
+.book.color-theme-2 .book-header .title {
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: block !important;
+}
+
+.book.color-theme-2 .book-header {
+  background: #1a1a1a;
+  color: #fcfcfc;
+}
+
+.book-header h1,
+.book.color-theme-2 .book-header .title {
+  font-weight: bold;
+  font-size: 22px;
+  padding: 10px 15px;
+}
+
+.book.color-theme-2 .book-summary {
+  background: #2a2a2a;
+  color: #cccccc;
+  border-right: 1px solid #555555;
+  padding-top: 1%;
+  padding-left: 1%;
+  margin-top: 80px;
+}
+
+.book.color-theme-2 .book-summary ul.summary li a {
+  color: #f0f0f0;
+  padding: 5px 15px;
+  margin: 0px 3px;
+  display: block;
+  text-decoration: none;
+  border-radius: 10px;
+  width: 100%;
+  transition: background 0.3s, color 0.3s;
+}
+
+.book.color-theme-2 .book-summary ul.summary li a:hover {
+  background: #3a3a3a;
+  color: black;
+  text-decoration: none;
+}
+
+.book.color-theme-2 .book-summary ul.summary li.active > a {
+  background: #2a2a2a;
+  color: #002931;
+  font-weight: bold;
+}
+
+.book.color-theme-2 .book-summary ul.summary li.active > a:hover {
+  background: #3a3a3a;
+  color: #002542;
+}
+
+/* Untuk sidebar link aktif (baik yang punya parent atau tidak) */
+.chapter.active > a,
+.book.color-theme-2 .chapter.active > .chapter-title > a {
+  background: #2a2a2a;
+  color: #004f5f;
+  font-weight: bold;
+}
+
+.chapter.active > a,
+.book.color-theme-2 .chapter.active > .chapter-title > a:hover {
+  background: #2a2a2a;
+  color: #005494;
+}
+
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal {
+  padding: 30px;
+  background: #2a2a2a;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.book.color-theme-2 h6 {
+  color: #f0f0f0;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+.book.color-theme-2 a {
+  color: #00ffd2;
+  text-decoration: none;
+}
+
+.book.color-theme-2 a:hover {
+  text-decoration: underline;
+}
+
+.book.color-theme-2 pre {
+  background: #272822;
+  color: #dddddd;
+  padding: 12px;
+  overflow: auto;
+  border-radius: 5px;
+  font-family: "Courier New", monospace;
+}
+
+.book.color-theme-2 code {
+  background: #2a2a2a;
+  color: #f0f0f0;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+.book.color-theme-2 table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+.book.color-theme-2 td {
+  padding: 10px;
+  border: 1px solid #555555;
+}
+
+.book.color-theme-2 th {
+  background: #2a2a2a;
+  font-weight: bold;
+}
+
+.book.color-theme-2 blockquote {
+  border-left: 4px solid #00ffd2;
+  padding-left: 16px;
+  color: #555;
+  background: #2d2d2d;
+  margin: 20px 0;
+}
+
+.book.color-theme-2 .summary-group-header {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 12px 20px 4px 20px;
+  color: #aaaaaa;
+  background-color: #2a2a2a;
+  border-top: 1px solid #dee2e6;
+}
+
+/* Style untuk collapsible */
+.book.color-theme-2 .has-children > .chapter-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.book.color-theme-2 .toggle-btn {
+  font-size: 12px;
+  margin-left: auto;
+  padding-left: 10px;
+  color: #888;
+  transition: transform 0.2s ease;
+}
+
+.book.color-theme-2 .collapsible {
+  display: none;
+  padding-left: 20px;
+}
+
+.book.color-theme-2 .chapter.open > .collapsible {
+  display: block;
+}
+
+.book.color-theme-2 .chapter.open > .chapter-title .toggle-btn {
+  transform: rotate(90deg);
+}
+
+.book.color-theme-2 .modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(44, 62, 80, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.book.color-theme-2 .modal-content {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  width: 80%;
+  max-height: 80%;
+  overflow-y: auto;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  position: relative;
+  animation: fadeIn 0.2s ease-out;
+}
+
+.book.color-theme-2 .modal-close {
+  position: absolute;
+  top: 12px;
+  right: 20px;
+  font-size: 28px;
+  color: #888;
+  cursor: pointer;
+}
+
+.book.color-theme-2 .modal-close:hover {
+  color: #e74c3c;
+}
+
+.book.color-theme-2 #searchResultsList {
+  list-style: none;
+  padding: 0;
+}
+
+.book.color-theme-2 #searchResultsList li {
+  margin-bottom: 10px;
+}
+
+.book.color-theme-2 #searchResultsList li a {
+  color: #00ffd2;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.book.color-theme-2 #searchResultsList li a:hover {
+  text-decoration: underline;
+}
+
+@keyframes fadeIn {
+  .book.color-theme-2 from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  .book.color-theme-2 to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.book.color-theme-2 .search-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+
+.book.color-theme-2 .search-modal-content {
+  background: white;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 600px;
+  max-height: 80vh;
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+}
+
+.book.color-theme-2 #modalSearchInput {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+.book.color-theme-2 #modalSearchResults {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.book.color-theme-2 #modalSearchResults li {
+  margin-bottom: 10px;
+}
+
+.book.color-theme-2 #modalSearchResults li a {
+  color: #00ffd2;
+  text-decoration: none;
+}
+
+.book.color-theme-2 #modalSearchResults li a:hover {
+  text-decoration: underline;
+}
+
+.book.color-theme-2 .title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f0f0f0;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.book.color-theme-2 #book-search-input {
+  width: 100%;
+  max-width: 420px;
+  margin: 20px auto;
+  display: block;
+}
+
+/* Ini yang harus kamu kasih desain elegan */
+.book.color-theme-2 #book-search-input input[type="text"] {
+  width: 100%;
+  padding: 10px 16px;
+  font-size: 16px;
+  color: #333;
+
+  background-color: #1d1d1d;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  transition: all 0.25s ease;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.book.color-theme-2 #book-search-input input[type="text"]:focus {
+  background-color: #fff;
+  border-color: #a1d6ff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 8px 16px rgba(26, 188, 156, 0.2);
+  outline: none;
+  transform: scale(1.02);
+}
+
+.book.color-theme-2 .search-box-with-icon {
+  position: relative;
+  max-width: 400px;
+  margin: 16px auto;
+}
+
+.book.color-theme-2 .search-box-with-icon i.fa-search {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+}
+
+.book.color-theme-2 .search-box-with-icon input {
+  width: 100%;
+  padding: 12px 16px 12px 40px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #f7f7f7;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  font-size: 16px;
+  color: #333;
+  transition: all 0.2s ease;
+}
+
+.book.color-theme-2 .search-box-with-icon input:focus {
+  background-color: #fff;
+  border: 1px solid rgb(136, 190, 255);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  outline: none;
+}
+
+.book.color-theme-2 .cover {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.book.color-theme-2 .book .navigation {
+  display: none !important;
+}
+.book.color-theme-2 .book .book-body .body-inner {
+  margin-right: 0 !important;
+}
+
+.book.color-theme-2 .book .book-body .body-inner {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Konten utama biar lebar penuh */
+.book.color-theme-2 .book .book-body .page-wrapper .page-inner {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 20px !important; /* atau ubah padding sesuai keinginan */
+  box-sizing: border-box;
+}
+
+/* Hapus background putih tengah kalau mau tampilan polos */
+.book.color-theme-2 .book .book-body {
+  background: none !important;
+}
+
+/* Style untuk ikon di sidebar summary */
+.book.color-theme-2 .summary-icon {
+  width: 1.25em; /* biar sejajar meski icon beda-beda */
+  min-width: 1.25em;
+  display: inline-block;
+  text-align: center;
+  margin-right: 0.5em; /* jarak antara ikon dan teks */
+  color: #555; /* atau sesuaikan warna ikon */
+  opacity: 0.9;
+}
+
+/* Rata kiri dan spacing stabil */
+.book.color-theme-2 .chapter-title {
+  display: flex;
+  align-items: center;
+}
+
+/* Wrapper logo + judul */
+.book.color-theme-2 .doc-title {
+  display: flex;
+  align-items: center;
+  padding: 20px 15px;
+  gap: 12px; /* jarak antara logo dan teks */
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 10px;
+}
+
+/* Logo */
+.book.color-theme-2 .doc-title .logo {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Judul */
+.book.color-theme-2 .doc-title h1 {
+  font-size: 20px;
+  margin: 0;
+  font-weight: 600;
+  color: #333;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.book.color-theme-2 .book-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  z-index: 999;
+}
+
+/* Perbaiki posisi dan warna tombol fontsetting */
+.book.color-theme-2 .book-header .font-settings {
+  display: flex;
+  align-items: left;
+  margin-right: auto;
+  color: white;
+  z-index: 9999;
+}
+
+.book.color-theme-2 .book-header .font-settings button {
+  color: white;
+  font-weight: 500;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.book.color-theme-2 .book-header .font-settings button:hover {
+  color: #00ffd2;
+}
+
+.book.color-theme-2 .book-header .font-settings * {
+  color: inherit !important;
+}
+
+.book.color-theme-2 .book-body {
+  margin-top: 80px;
+  padding: 24px;
+}
+
+.book.color-theme-2 body.with-summary .book-summary {
+  display: block;
+}
+
+.book.color-theme-2 body.with-summary .book-body {
+  margin-left: 240px;
+}
+
+.book.color-theme-2 body.without-summary .book-summary {
+  display: none !important;
+}
+
+.book.color-theme-2 body.without-summary .book-body {
+  margin-left: 0 !important;
+}
+
+.book.color-theme-2 iframe {
+  display: flex;
+  justify-content: center;
+}
+
+/* ============================= */
+/* SEARCH RESULTS STYLING - CARD */
+/* ============================= */
+
+.book.color-theme-2 .search-results {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.book.color-theme-2 .search-results-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #f0f0f0;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+/* List hasil */
+.book.color-theme-2 .search-results-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr; /* Atau bisa 1fr 1fr untuk 2 kolom */
+  gap: 16px;
+}
+
+/* Kartu hasil */
+.book.color-theme-2 .search-results-list li {
+  background: #2a2a2a;
+  border-radius: 10px;
+  padding: 16px 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+  border-left: 4px solid #00ffd2; /* Aksen warna */
+}
+
+.book.color-theme-2 .search-results-list li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+/* Tautan hasil */
+.book.color-theme-2 .search-results-list li a {
+  color: #00ffd2;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.book.color-theme-2 .search-results-list li a:hover {
+  text-decoration: underline;
+}
+
+/* Deskripsi atau cuplikan isi */
+.book.color-theme-2 .search-results-list li p {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.5;
+}
