@@ -4,7 +4,7 @@ icon: layer-group
 
 # Kurikulum
 
-Kategori Produk adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan produk. sdadadad
+Kategori Produk adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan produk.
 
 <figure><img src="../.gitbook/assets/Kategori Produk.png" alt=""><figcaption></figcaption></figure>
 
