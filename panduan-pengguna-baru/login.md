@@ -4,7 +4,7 @@ icon: square-user
 
 # Login
 
-<figure><img src="../../.gitbook/assets/Login eSchool.png" alt="Tampilan Halaman Login eSchool"><figcaption><p><em>Tampilan Halaman Login eSchool</em></p></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/login switch (2).jpg" alt="Tampilan Halaman Login eSchool" width="270"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/login ortu (2).jpg" alt="" width="270"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/login siswa (2).jpg" alt="" width="270"><figcaption></figcaption></figure></div>
 
 Kunjungi website eSchool dan masuk menggunakan akun Anda. Pastikan Anda sudah memiliki akun yang terdaftar dari pihak sekolah atau admin.
 

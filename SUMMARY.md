@@ -11,7 +11,7 @@
 ## Panduan Pengguna Baru
 
 * [Pendaftaran](panduan-pengguna-baru/registrasi.md)
-* [Login](panduan-pengguna-baru/login/README.md)
+* [Login](panduan-pengguna-baru/login.md)
   * [Orang Tua](panduan-pengguna-baru/login/orang-tua.md)
   * [Siswa](panduan-pengguna-baru/login/siswa.md)
 
@@ -32,6 +32,12 @@
 * [Hari Libur](menu-siswa/hari-libur.md)
 * [Galeri](menu-siswa/galeri.md)
 * [Pengaturan](menu-siswa/pengaturan.md)
+
+***
+
+* [PENGATURAN PERSONAL](pengaturan-personal/README.md)
+  * [Ubah Password](pengaturan-personal/ubah-password.md)
+  * [Page 1](pengaturan-personal/page-1.md)
 
 ## Penyelesaian Masalah
 
