@@ -16,7 +16,7 @@
 ***
 
 * [Guru](crm/README.md)
-  * [Kurikulum](crm/kategori-produk/README.md)
+  * [Kurikulum](crm/kategori-produk.md)
     * [Jadwal Pelajaran](crm/kategori-produk/jadwal-pelajaran.md)
     * [Tugas Siswa](crm/kategori-produk/tugas-siswa/README.md)
       * [Buat Tugas](crm/kategori-produk/tugas-siswa/buat-tugas.md)
