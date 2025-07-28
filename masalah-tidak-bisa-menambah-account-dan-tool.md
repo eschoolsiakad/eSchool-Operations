@@ -11,11 +11,14 @@ Sebagaimana aplikasi pada umumnya, ada beberapa masalah yang mungkin terjadi ket
 <figure><img src=".gitbook/assets/Edit Account..png" alt=""><figcaption></figcaption></figure>
 
 1. Pastikan Anda menggunakan akun yang Anda buat di web [id.nobox.ai](https://nobox.ai/)
-2. Pastikan form2 \[Add Account] dan \[Add Tools] terisi dengan benar&#x20;
+2. Pastikan form2 \[Add Account] dan \[Add Tools] terisi dengan benar
 3. Jika berhasil, Account / Tools yang Anda buat akan muncul di menu \[Accounts] web [id.nobox.ai](https://nobox.ai/)
 
 ## **Integrasi API Telegram**
 
 * Form API hanya diisi untuk Integrasi account Telegram, jika Anda belum mempunyai akun API Telegram silahkan ikuti panduan [cara setting API Telegram](https://crm.nobox.ai/knowledge-base/article/konfigurasi-api-telegram).
+*
 
-Jika ada masalah atau kesulitan terkait NoBox, silahkan hubungi kami melalui [Support Ticket](https://crm.nobox.ai/clients/tickets)
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us)
