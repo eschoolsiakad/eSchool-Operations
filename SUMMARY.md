@@ -18,7 +18,7 @@
 * [Guru](crm/README.md)
   * [Kurikulum](crm/kategori-produk.md)
   * [Kesiswaan](crm/perusahaan/README.md)
-    * [Page 1](crm/perusahaan/page-1.md)
+    * [Dashboard Kesiswaan](crm/perusahaan/dashboard-kesiswaan.md)
   * [Aplikasi Mobile](crm/tag-produk/README.md)
     * [Absensi](crm/tag-produk/laporan-umum.md)
     * [Laporan Absensi](crm/tag-produk/laporan-target.md)
