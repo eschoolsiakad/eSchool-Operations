@@ -6,18 +6,16 @@ icon: square-xmark
 
 ## **Akun Yang Belum Terdaftar**
 
-Pastikan Anda sudah membuat akun di web eschool.ac.id
+Pastikan Anda sudah membuat akun di web [eschool.ac.id](masalah-user-tidak-bisa-login.md#akun-yang-belum-terdaftar)
 
-* Klik login di web [https://nobox.ai/](https://nobox.ai/)
+* Klik login di web [eschool.ac.id](masalah-user-tidak-bisa-login.md#user-tidak-bisa-login)
 * Pilih lokasi sesuai server terdekat Anda
 * Jika sudah, Anda pilih Sign Up, isi form create new tenant
 * Tunggu email verifikasi, klik link untuk memverifikasi akun Anda
 
-<figure><img src="../.gitbook/assets/New Akun Web.png" alt=""><figcaption></figcaption></figure>
-
 ## **User Tidak Bisa Login**
 
-* Jika email sudah terverifikasi, login menggunakan akun yang sudah Anda buat, di web [id.nobox.ai](https://nobox.ai/) Anda bisa memonitoring data2 Anda
+* Jika email sudah terverifikasi, login menggunakan akun yang sudah Anda buat, di web eschool.ac.id Anda bisa memonitoring data  Anda
 * Untuk memastikan akun Anda sudah terbuat, buka aplikasi Nobox Desktop dan coba login kembali dengan akun yang sama
 
-Jika ada masalah atau kesulitan terkait NoBox, silahkan hubungi kami melalui [Support Ticket](https://crm.nobox.ai/clients/tickets)
+Jika ada masalah atau kesulitan terkait NoBox, silahkan hubungi kami melalui ...
