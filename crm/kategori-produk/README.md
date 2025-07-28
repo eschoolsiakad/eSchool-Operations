@@ -6,13 +6,13 @@ icon: layer-group
 
 Kategori Produk adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan produk.
 
-<figure><img src="../.gitbook/assets/Kategori Produk.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Kategori Produk.png" alt=""><figcaption></figcaption></figure>
 
 ## **Tambah Kategori Produk**
 
 Untuk menambah data kategori produk, silahkan klik menu **\[Produk]➔\[Kategori Produk]➔\[Tambah Kategori Produk]** maka akan tampil dialog **\[Tambah Kategori Produk].**
 
-<figure><img src="../.gitbook/assets/Tambah Kategori Produk.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tambah Kategori Produk.png" alt=""><figcaption></figcaption></figure>
 
 Lengkapi isian yang diperlukan, sebagai contoh seperti berikut :
 
@@ -36,7 +36,7 @@ Untuk menghapus suatu data kategori produk adalah dengan pilih data mana yang ak
 
 3\. Pilih salah satu dari data kategori tersebut dan klik **\[Simpan]** untuk menyiapkan kembali data produk.
 
-<figure><img src="../.gitbook/assets/ProdukCaraKategori.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ProdukCaraKategori.PNG" alt=""><figcaption></figcaption></figure>
 
 ***
 
