@@ -54,6 +54,6 @@ Profil pengguna & sekolah, file, dan akses modul.
 
 Tabel Keunggulan
 
-<table><thead><tr><th width="78">No</th><th>Keunggulan</th><th>Keterangan</th></tr></thead><tbody><tr><td>1</td><td>Menu Berdasarkan Peran</td><td>Antarmuka menyesuaikan jenis pengguna</td></tr><tr><td>2</td><td>Tampilan Fleksibel</td><td>Disesuaikan sesuai preferensi sekolah</td></tr><tr><td>3</td><td>Tracking Aktivitas</td><td>Rekam interaksi pengguna seperti tugas, penilaian, dll</td></tr><tr><td>4</td><td>Monitoring</td><td>Memonitoring guru yang sedang mengajar</td></tr></tbody></table>
+<table><thead><tr><th width="78">No</th><th>Keunggulan</th><th>Keterangan</th></tr></thead><tbody><tr><td>1</td><td>Menu Berdasarkan Peran</td><td>Antarmuka menyesuaikan jenis pengguna</td></tr><tr><td>2</td><td>Tampilan Dinamis </td><td>Disesuaikan sesuai preferensi sekolah</td></tr><tr><td>3</td><td>Tracking Aktivitas</td><td>Rekam interaksi pengguna seperti tugas, penilaian, dll</td></tr><tr><td>4</td><td>Monitoring</td><td>Memonitoring guru yang sedang mengajar</td></tr></tbody></table>
 
 Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
