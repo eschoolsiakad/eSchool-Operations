@@ -2,29 +2,42 @@
 icon: box-archive
 ---
 
-# Produk
+# Kehadiran Kegiatan Khusus
 
-Produk adalah salah satu menu pada NoBox.Ai yang digunakan untuk manajemen data produk yang dijual.
+### Menu Kehadiran Siswa
 
-<iframe width="742" height="418" src="https://www.youtube.com/embed/DIHmqinxNEc" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Catat, Pantau, dan Laporkan Kehadiran Secara Real-Time**
 
-<figure><img src="../../.gitbook/assets/Produk.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/Screenshot_2025-07-28-11-16-40-942_id.ac.eschool.guru.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_2025-07-28-11-16-49-364_id.ac.eschool.guru (1).jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-## **Tambah Produk**
+Fitur **Kehadiran Siswa** di eSchool Mobile memungkinkan guru dan wali kelas untuk mencatat kehadiran harian peserta didik secara digital, cepat, dan akurat. Sistem ini dirancang agar efisien digunakan dalam kegiatan belajar maupun kegiatan sekolah lainnya langsung dari perangkat mobile.
 
-Untuk membuat data produk, silahkan klik menu **\[Produk] ➔ \[Tambah Produk]**. Maka akan tampil dialog **\[Tambah Produk]**, kemudian lengkapi isian-isian yang terdapat pada dialog tersebut.
+#### Fitur Utama:
 
-<figure><img src="../../.gitbook/assets/ProdukTambah.PNG" alt=""><figcaption></figcaption></figure>
+* **Filter Berdasarkan Tanggal & Kelas**\
+  Guru dapat memilih tanggal dan kelas yang diampu sebelum melakukan pencatatan kehadiran.
+* **Ringkasan Kehadiran Otomatis**\
+  Tersedia visualisasi statistik kehadiran dalam bentuk progress bar dan jumlah masing-masing status:
+  * &#x20;Hadir
+  * &#x20;Sakit
+  * &#x20;Izin
+  * &#x20;Alpa
+* **Input Kehadiran Individual**\
+  Setiap siswa ditampilkan dalam daftar dengan pilihan status kehadiran yang bisa dipilih langsung (S/I/A) hanya dengan satu ketukan.
+* **Tombol “Kirim”**\
+  Data yang telah dicatat dapat langsung disimpan dan dikirim ke sistem pusat untuk pelaporan dan rekap otomatis.
 
-<table data-header-hidden><thead><tr><th width="215">Nama</th><th width="259.60009765625">Nama Produk</th><th>Lampu Hias</th></tr></thead><tbody><tr><td>Nama</td><td>Nama Produk</td><td>Lampu Hias</td></tr><tr><td>Kode Produk</td><td>Kode Produk</td><td>00010</td></tr><tr><td>Unit</td><td>Satuan Produk</td><td>Pcs</td></tr><tr><td>Mata Uang</td><td>Mata Uang dan Nominal Harga</td><td>Rp.15.000</td></tr><tr><td>Diskon</td><td>Diskon untuk produk</td><td>15</td></tr><tr><td>Harga Jual</td><td>Hasil dari harga yang di diskon</td><td>12.750</td></tr><tr><td>Manufaktur</td><td>Nama Industri Produk</td><td></td></tr><tr><td>Tag</td><td>Tag Produk</td><td>Elektronik</td></tr><tr><td>Kategori</td><td>Kategori Produk</td><td>Perlengkapan Natal</td></tr><tr><td>Deskripsi</td><td>Deskripsi Produk</td><td>Lampu Hias Yang Indah</td></tr><tr><td>Tampilkan dalam pesanan multi produk? </td><td>Mengaktifkan/Menonaktifkan tampilan pesanan multi produk</td><td>Aktif</td></tr><tr><td>Gambar</td><td>Gambar Produk</td><td></td></tr></tbody></table>
+#### Tujuan dan Manfaat:
 
-\
-Jika Anda sudah melengkapi isian-isian yang ada, klik **\[Simpan]** untuk menyimpan data produk yang baru saja Anda buat.
+* Mempermudah pencatatan kehadiran secara digital tanpa kertas
+* Meningkatkan kecepatan pelaporan kehadiran harian
+* Memastikan transparansi dan akurasi data yang terkoneksi dengan admin sekolah dan orang tua
 
-## **Edit dan Hapus Data Produk**
+#### Tips Penggunaan:
 
-Untuk mengedit suatu data produk, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data Anda dan klik **\[Simpan]** untuk menyimpan perubahan tersebut. Untuk menghapus suatu data produk adalah dengan pilih data produk yang akan dihapus, kemudian klik **\[Hapus]** maka akan tampil dialog konfirmasi apakah Anda ingin menghapus data tersebut. Jika ya, klik **\[Ya]** jika tidak klik **\[Tidak]**.
+* Lakukan pencatatan tepat setelah siswa hadir di kelas atau kegiatan dimulai
+* Gunakan fitur ringkasan untuk mengevaluasi kehadiran harian secara cepat
 
----
+***
 
-Jika ada masalah atau kesulitan terkait NoBox.Ai, silahkan hubungi kami melalui [Support Ticket](https://crm.nobox.ai/clients/tickets)
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

@@ -2,18 +2,38 @@
 icon: gauge-min
 ---
 
-# Dasbor Pesan
+# Jadwal Guru
 
-Menampilkan semua informasi terkait dengan menu Pesan yang dirangkum secara lebih singkat dan beberapa grafik informasi tentang agen.
+\
+Menu **"Jadwal Guru"** di aplikasi eSchool Mobile adalah fitur khusus bagi guru untuk melihat dan mengelola jadwal mengajar harian secara real-time, langsung dari genggaman.
 
-<iframe width="742" height="418" src="https://www.youtube.com/embed/noHtYBEBoSM" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div><figure><img src="../../.gitbook/assets/Screenshot_2025_07_28_11_01_36_43_6654e424b14dcf255cefd68df05e6ad2.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_20250728_110005.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/Dasbor Pesan (1).png" alt=""><figcaption></figcaption></figure>
+#### Fitur Utama:
 
-Pada tampilan tersebut, terdapat beberapa bagian yang mempunyai fungsi masing-masing. Penjelasan dari fungsi tersebut adalah sebagai berikut :
+* **Navigasi Harian**:\
+  Pilih hari aktif (Senin–Jumat) untuk menampilkan jadwal mengajar pada hari tersebut.
+* **Rangkaian Waktu yang Jelas**:\
+  Jadwal ditampilkan secara vertikal berdasarkan jam, sehingga mudah dibaca dan diikuti.
+* **Informasi Lengkap per Sesi**:
+  * **Jam Pelajaran** (misal: 07.15 WIB)
+  * **Mata Pelajaran** (misal: PJOK – Teori)
+  * **Nama Kelas** (misal: X ELIN B atau X METRO B)
 
-<table><thead><tr><th width="185.79998779296875">Fitur/Tombol</th><th>Fungsi</th></tr></thead><tbody><tr><td>Baru</td><td>Total dari semua percakapan yang belum ditugaskan ke agen</td></tr><tr><td>Proses</td><td>Total dari semua percakapan yang sudah ditugaskan ke agen</td></tr><tr><td>Selesai</td><td>Total dari semua percakapan yang sudah dijawab dan agen ingin menutup percakapan</td></tr><tr><td>Arsip</td><td>Total dari semua percakapan yang diarsipkan</td></tr><tr><td>Percakapan dibuat</td><td>Informasi grafik dari semua percakapan yang diterima dan terkirim (per jam atau per hari)</td></tr><tr><td>Agen &#x26; Supervisor</td><td>Informasi grafik dari total anggota perusahaan</td></tr><tr><td>Tag Percakapan</td><td>Informasi grafik percakapan berdasarkan tag</td></tr><tr><td>Status Online Agen</td><td>Informasi grafik agen berdasarkan status online</td></tr><tr><td>Funnel Percakapan</td><td>Informasi grafik percakapan berdasarkan funnel</td></tr></tbody></table>
+#### Manfaat untuk Guru:
 
----
+* **Akses cepat ke jadwal hari ini dan hari lainnya**
+* **Tidak perlu cetak manual atau cek ke papan jadwal sekolah**
+* **Selalu siap saat berpindah kelas, bahkan di tengah kegiatan**
+* **Membantu manajemen waktu dan persiapan materi ajar**
 
-Jika ada masalah atau kesulitan terkait Nobox.Ai, silahkan hubungi kami melalui [Support Ticket](https://crm.nobox.ai/clients/tickets)
+\
+Saran Penggunaan:
+
+* Gunakan fitur ini setiap pagi untuk melihat urutan kelas hari ini.
+* Cocok dipasangkan dengan fitur "Tugas & Penilaian" untuk memberi tugas langsung ke kelas setelah sesi selesai.
+* Pastikan aplikasi Anda selalu terhubung agar jadwal bisa diperbarui secara otomatis oleh admin sekolah.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

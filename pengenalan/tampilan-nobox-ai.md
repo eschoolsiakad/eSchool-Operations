@@ -47,4 +47,4 @@ Digunakan saat pengguna ingin **menambahkan** atau **mengubah data** secara lang
 
 ***
 
-Jika Anda mengalami kendala atau membutuhkan bantuan terkait penggunaan eSchool, silakan hubungi kami melalui [Bantuan](https://esbeta.deanry.my.id/#contact-us)
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
