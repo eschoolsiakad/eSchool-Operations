@@ -48,3 +48,4 @@ Dengan data ini, sekolah dapat mengatur alokasi sumber daya pendidikan, jadwal p
 
 ***
 
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
