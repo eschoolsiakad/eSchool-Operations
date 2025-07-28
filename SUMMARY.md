@@ -11,7 +11,9 @@
 ## Panduan Pengguna Baru
 
 * [Pendaftaran](panduan-pengguna-baru/registrasi.md)
-* [Login](panduan-pengguna-baru/login.md)
+* [Login](panduan-pengguna-baru/login/README.md)
+  * [Orang Tua](panduan-pengguna-baru/login/orang-tua.md)
+  * [Siswa](panduan-pengguna-baru/login/siswa.md)
 
 ## Menu Siswa
 
