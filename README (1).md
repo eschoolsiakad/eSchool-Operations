@@ -2,21 +2,14 @@
 icon: hand-wave
 ---
 
-<p align="center">
-  <img src="Banner eSchool.png" class="cover"/>
-</p>
+# Selamat Datang di eSchool
 
-# <i class="fa-solid fa-hands"></i> Selamat Datang di eSchool Siakad
+<div align="center"><img src="Banner eSchool.png" alt=""></div>
 
-Di sini, Anda akan menemukan semua informasi tentang fitur-fitur unggulan eSchool yang dirancang untuk mendukung proses belajar-mengajar secara digital, efisien, dan terintegrasi.
+## <i class="fa-solid">:solid:</i>Selamat Datang di Mobile Apps eSchool Guru & Staff
 
-Jelajahi berbagai kemampuan platform ini — mulai dari pengelolaan akademik, komunikasi antara sekolah dan orangtua, hingga akses pembelajaran yang mudah melalui aplikasi web dan mobile. Kami siap membantu Anda memaksimalkan penggunaan eSchool sesuai dengan peran Anda, baik sebagai staf, guru, siswa, maupun orangtua!
+Di sini, Anda akan menemukan semua informasi penting tentang fitur-fitur utama **eSchool Mobile** yang dirancang khusus untuk mendukung peran Anda sebagai **guru dan staf sekolah**. Aplikasi ini hadir untuk mempermudah kegiatan akademik dan administrasi secara digital, efisien, dan terintegrasi dalam genggaman Anda.
 
-<iframe width="742" height="418"
-    src="https://www.youtube.com/embed/2iZ1-l0GkNo"
-    title="Video YouTube"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-</iframe>
+Telusuri beragam kapabilitas platform ini — mulai dari **pengelolaan jadwal dan absensi siswa**, **penilaian dan pelaporan hasil belajar**, hingga **komunikasi efektif dengan orang tua**. Semua fitur dikemas dalam antarmuka aplikasi mobile yang intuitif dan praktis, sehingga Anda dapat menjalankan tanggung jawab sehari-hari dengan lebih mudah, cepat, dan profesional.
+
+**eSchool Mobile** siap menjadi asisten digital Anda dalam menciptakan lingkungan pendidikan yang modern dan terkoneksi. Maksimalkan manfaatnya sesuai peran Anda sebagai pendidik maupun tenaga kependidikan!
