@@ -31,6 +31,7 @@
       * [Bank Soal](crm/kategori-produk/ujian-online/bank-soal.md)
   * [Kesiswaan](crm/perusahaan/README.md)
     * [Dashboard Kesiswaan](crm/perusahaan/dashboard-kesiswaan.md)
+    * [Kelola Siswa](crm/perusahaan/kelola-siswa.md)
   * [Aplikasi Mobile](crm/tag-produk/README.md)
     * [Absensi](crm/tag-produk/laporan-umum.md)
     * [Laporan Absensi](crm/tag-produk/laporan-target.md)
