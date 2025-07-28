@@ -2,51 +2,39 @@
 icon: pan-frying
 ---
 
-# Tampilan eSchool
+# Tampilan eSchool Mobile
 
-<iframe width="742" height="418"
-    src="https://www.youtube.com/embed/xn9R8ZX1VfA"
-    title="Video YouTube"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-</iframe>
+**Akses Cepat, Navigasi Ringan, dan Informasi Akademik dalam Genggaman**
 
-Pada website eSchool, terdapat beberapa tampilan utama yang dirancang untuk memudahkan navigasi pengguna, yaitu:
+## 📱 Navigasi Sederhana & Fokus pada Pembelajaran
 
-## **Fungsi Utama dalam Dasbor:**
-Halaman Dasbor menyajikan ringkasan informasi penting secara real-time, seperti jumlah guru, siswa aktif, siswa nonaktif, wali siswa, kelas, dan jurusan.
-<figure><img src="../.gitbook/assets/Dasbor Kirim Pesan (2).png" alt=""><figcaption></figcaption></figure>
+Aplikasi **eSchool Mobile untuk Siswa** dirancang dengan antarmuka yang **ringkas, intuitif, dan ramah pengguna**. Semua fitur utama ditampilkan secara terstruktur sesuai kebutuhan siswa, sehingga memudahkan dalam mengakses materi, jadwal, tugas, dan nilai — kapan pun dan di mana pun.
 
-Tampilan ini memudahkan pihak sekolah untuk memantau aktivitas terkini dan mendukung pengambilan keputusan yang cepat dan akurat.
+<figure><img src="../.gitbook/assets/Dasbor%20Kirim%20Pesan%20(2).png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="133">Fungsi Utama</th><th>Fungsi</th></tr></thead><tbody><tr><td>Pengumuman Sekolah</td><td>Menampilkan daftar pengumuman penting secara kronologis</td></tr><tr><td>Tahun Ajaran Aktif</td><td>Menampilkan tahun ajaran yang sedang berjalan</td></tr><tr><td>Data Statistik Cepat</td><td>Memberikan ringkasan instan jumlah guru, siswa aktif/nonaktif, wali, dll</td></tr><tr><td>Grafik Absensi</td><td>Menampilkan data grafik secara fullscreen</td></tr></tbody></table>
+## 🧭 Fungsi Utama pada Tampilan Dasbor
 
-## **Tampilan Data dalam Menu-menu Lain**
+Halaman dasbor menyajikan informasi real-time yang relevan dan mendukung aktivitas belajar siswa setiap hari, seperti:
 
-eSchool memiliki berbagai jenis tampilan data tergantung dari modul yang dibuka, seperti pada menu Siswa, Absensi, Akademik, Ujian, TU, Bendahara, dan lainnya. Berikut penyesuaian dari tipe-tipe tampilan tersebut:
+* 📌 Jadwal pelajaran hari ini
+* 📝 Tugas yang belum dikumpulkan
+* 🎯 Nilai terbaru dari tugas atau ujian
+* 🔔 Notifikasi penting dan pengumuman dari sekolah
+
+Dengan tampilan ini, siswa dapat langsung melihat aktivitas harian tanpa perlu membuka setiap menu secara manual.
 
 <figure><img src="../.gitbook/assets/PenawaranTampilan.PNG" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="161.79998779296875">Fitur/Tombol</th><th>Fungsi</th></tr></thead><tbody><tr><td>Filter Data</td><td>Menyaring data berdasarkan kolom seperti kelas, tanggal, jurusan, dll</td></tr><tr><td>Export ke Excel / PDF</td><td>Mengunduh data untuk keperluan arsip atau laporan</td></tr><tr><td>Cari</td><td>Pencarian data sesuai dengan kata kunci</td></tr><tr><td>Scroll Horizontal</td><td>Navigasi tabel yang berisi banyak kolom
-</td></tr></tbody></table>
+## 📊 Tampilan Data dalam Menu Mobile
 
-## **Tampilan Formulir (Form Input/Edit)**
+Setiap menu dalam aplikasi siswa (Tugas, Nilai, Jadwal, dan Absensi) telah disesuaikan untuk perangkat seluler. Tampilan bersifat **mudah dibaca**, **ringan**, dan **responsif**, tanpa mengurangi fungsi inti dari setiap modul.
 
-Digunakan untuk menambah atau mengubah data, seperti pendaftaran siswa, tambah guru, data keuangan, dan pengaturan akademik.
-
-<table><thead><tr><th width="141.79998779296875">Fitur/Tombol</th><th>Fungsi</th></tr></thead><tbody><tr><td>Grup Isian</td><td>Mengelompokkan input berdasarkan kategori (data diri, akademik, dll)
-</td></tr><tr><td>Simpan<br></td><td>Menyimpan data baru atau perubahan data</td></tr><tr><td>Hapus/Reset<br></td><td>Menghapus data lama atau mengosongkan form</td></tr><tr><td>Validasi Otomatis	<br></td><td>Sistem akan memberi tanda jika ada input yang belum lengkap/valid</td></tr><tr><</tr></tbody></table>
-
-## **Contoh Modul & Tampilan Terkait**
+## 📋 Ringkasan Tampilan & Fungsi eSchool Mobile – Portal Siswa
 
 <figure><img src="../.gitbook/assets/PengaturanFormulirTampilan.PNG" alt=""><figcaption></figcaption></figure>
 
+<table><thead><tr><th width="135.4000244140625">Fitur/Menu</th><th>Tampilan / Komponen</th><th>Fungsi</th></tr></thead><tbody><tr><td>Dasbor</td><td><p></p><ul><li>Jadwal hari ini</li><li>Notifikasi tugas</li><li>Nilai terbaru</li><li>Pengumuman sekolah</li></ul></td><td>Menyajikan ringkasan harian aktivitas belajar siswa secara real-time</td></tr><tr><td>Tugas</td><td><p></p><ul><li>Daftar tugas</li><li>Status tugas (Belum, Terkumpul, Dinilai)</li><li>Deadline &#x26; detail</li></ul></td><td>Melihat, mengumpulkan, dan melacak status tugas dari guru</td></tr><tr><td>Nilai</td><td><p></p><ul><li>Riwayat nilai</li><li>Per mata pelajaran</li><li>Grafik perkembangan (opsional)</li></ul></td><td>Memberikan transparansi hasil evaluasi dan perkembangan akademik siswa</td></tr><tr><td>Jadwal Pelajaran</td><td><p></p><ul><li>Daftar pelajaran harian</li><li>Jam &#x26; nama mapel</li><li>Nama guru</li></ul></td><td>Informasi pelajaran harian dalam tampilan kronologis yang mudah diakses</td></tr><tr><td>Absensi</td><td><p></p><ul><li>Tabel kehadiran per hari</li><li>Keterangan: Hadir/Izin/Sakit/Alpa</li></ul></td><td>Memantau kehadiran secara historis dan status kehadiran setiap hari</td></tr><tr><td>Form Upload Tugas</td><td><p></p><ul><li>Input file (PDF/DOC/Gambar)</li><li>Catatan opsional</li><li>Tombol Kirim</li></ul></td><td>Form sederhana untuk menyerahkan tugas langsung melalui aplikasi</td></tr></tbody></table>
 
+***
 
-<table><thead><tr><th width="135.4000244140625">Fitur/Tombol</th><th>Fungsi</th></tr></thead><tbody><tr><td>Kesiswaan > Siswa</td><td>Mengelompokan beberapa isian sesuai bagiannya</td></tr><tr><td>Absensi</td><td>Daftar kehadiran, laporan absensi, izin, kegiatan khusus</td></tr><tr><td>Akademik</td><td>Pengaturan jurusan, kelas, mata pelajaran, guru kelas</td></tr></tbody></table>
-
----
-
-Jika Anda mengalami kendala atau membutuhkan bantuan terkait penggunaan eSchool, silakan hubungi kami melalui [Bantuan](https://esbeta.deanry.my.id/#contact-us)
+Jika Anda mengalami kendala atau membutuhkan bantuan terkait penggunaan eSchool, silakan hubungi kami melalui [Bantuan](https://eschool.ac.id/#contact-us)

@@ -6,7 +6,7 @@
 ## Pengenalan
 
 * [Gambaran Umum](pengenalan/gambaran-umum.md)
-* [Tampilan eSchool](pengenalan/tampilan-nobox-ai.md)
+* [Tampilan eSchool Mobile](pengenalan/tampilan-nobox-ai.md)
 
 ## Panduan Pengguna Baru
 
