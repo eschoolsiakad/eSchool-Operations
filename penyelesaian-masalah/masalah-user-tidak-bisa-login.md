@@ -6,9 +6,9 @@ icon: square-xmark
 
 ## **Akun Yang Belum Terdaftar**
 
-Pastikan Anda sudah membuat akun di web [id.nobox.ai](https://nobox.ai/)
+Pastikan Anda sudah membuat akun di web eschool.ac.id
 
-* Klik login di web [https://nobox.ai/](https://nobox.ai/)&#x20;
+* Klik login di web [https://nobox.ai/](https://nobox.ai/)
 * Pilih lokasi sesuai server terdekat Anda
 * Jika sudah, Anda pilih Sign Up, isi form create new tenant
 * Tunggu email verifikasi, klik link untuk memverifikasi akun Anda

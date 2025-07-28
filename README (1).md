@@ -2,21 +2,16 @@
 icon: hand-wave
 ---
 
-<p align="center">
-  <img src="Banner eSchool.png" class="cover"/>
-</p>
+# Selamat Datang di eSchool
 
-# <i class="fa-solid fa-hands"></i> Selamat Datang di eSchool Siakad
+<div align="center"><img src="Banner eSchool.png" alt=""></div>
 
-Di sini, Anda akan menemukan semua informasi tentang fitur-fitur unggulan eSchool yang dirancang untuk mendukung proses belajar-mengajar secara digital, efisien, dan terintegrasi.
+## <i class="fa-solid">:solid:</i>Selamat Datang di eSchool Siakad Mobile Siswa & Wali
 
-Jelajahi berbagai kemampuan platform ini — mulai dari pengelolaan akademik, komunikasi antara sekolah dan orangtua, hingga akses pembelajaran yang mudah melalui aplikasi web dan mobile. Kami siap membantu Anda memaksimalkan penggunaan eSchool sesuai dengan peran Anda, baik sebagai staf, guru, siswa, maupun orangtua!
+Selamat datang di **eSchool Siakad Mobile**, aplikasi pembelajaran digital yang dirancang khusus untuk memberikan kemudahan dan kenyamanan bagi **siswa** dan **orang tua/wali** dalam mengikuti serta memantau kegiatan belajar secara langsung dari perangkat mobile.
 
-<iframe width="742" height="418"
-    src="https://www.youtube.com/embed/2iZ1-l0GkNo"
-    title="Video YouTube"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-</iframe>
+Di dalam aplikasi ini, Anda dapat mengakses berbagai fitur penting — mulai dari **jadwal pelajaran, tugas, dan nilai** bagi siswa, hingga **monitoring perkembangan akademik dan kehadiran anak** bagi orang tua.
+
+Kami hadir untuk membantu Anda memaksimalkan penggunaan eSchool sesuai peran Anda, baik sebagai **pelajar yang aktif belajar**, maupun sebagai **wali yang peduli terhadap pendidikan anak**.
+
+Mari bersama wujudkan pengalaman belajar yang lebih **cerdas, terarah, dan terhubung** melalui eSchool Mobile.
