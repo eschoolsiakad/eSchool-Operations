@@ -45,3 +45,6 @@ Dengan data ini, sekolah dapat mengatur alokasi sumber daya pendidikan, jadwal p
 * **Wakil Kepala Sekolah**: Untuk analisis strategis keaktifan dan distribusi siswa.
 * **Guru BK & Wali Kelas**: Untuk merancang intervensi berdasarkan data demografi dan status keaktifan.
 * **Kepala Sekolah**: Sebagai bahan laporan dan evaluasi kebijakan.
+
+***
+
