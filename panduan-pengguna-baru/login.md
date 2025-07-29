@@ -6,12 +6,52 @@ icon: square-user
 
 <div><figure><img src="../.gitbook/assets/login switch (2).jpg" alt="Tampilan Halaman Login eSchool" width="270"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/login ortu (2).jpg" alt="" width="270"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/login siswa (2).jpg" alt="" width="270"><figcaption></figcaption></figure></div>
 
-Kunjungi website eSchool dan masuk menggunakan akun Anda. Pastikan Anda sudah memiliki akun yang terdaftar dari pihak sekolah atau admin.
+Untuk menggunakan aplikasi **eSchool Mobile**, pastikan Anda telah memiliki akun resmi yang didaftarkan oleh pihak sekolah atau admin eSchool.
 
-Pilih menu \[Masuk / Login], lalu masukkan username dan password sesuai dengan informasi akun Anda. Jika ini adalah login pertama kali, Anda mungkin akan diminta untuk mengganti password atau memverifikasi data.
+### 1. Unduh Aplikasi
 
-Untuk pengguna mobile, unduh aplikasi eSchool Mobile melalui Google Play Store atau Apple App Store sesuai dengan perangkat Anda, lalu login menggunakan akun yang sama.
+Unduh aplikasi **eSchool Mobile** melalui:
+
+* [Google Play Store](https://play.google.com/store/apps/details?id=id.ac.eschool.GuruStaff.android\&hl=id) untuk perangkat Android
+* [Apple App Store](https://play.google.com/store/apps/details?id=id.ac.eschool.GuruStaff.android\&hl=id) untuk perangkat iOS
+
+Cari dengan kata kunci: **"eSchool Siswa & Wali"**
+
+### 2.  Login dengan Akun Resmi
+
+Setelah aplikasi **eSchool Mobile** terinstal, ikuti langkah berikut untuk login sesuai peran Anda:
+
+#### 👨‍🎓 Login sebagai **Siswa**
+
+1. Buka aplikasi **eSchool Mobile**.
+2. Pilih opsi **"Login sebagai Siswa"**.
+3. Masukkan data login yang Anda dapatkan dari sekolah:
+   * **Kode Sekolah**
+   * **Nomor Pendaftaran**
+   * **Password**
+4. Setelah berhasil login, Anda akan langsung diarahkan ke halaman dasbor siswa.
+
+#### 👨‍👩‍👧 Login sebagai **Orang Tua / Wali**
+
+1. Buka aplikasi **eSchool Mobile**.
+2. Pilih opsi **"Login sebagai Orang Tua"**.
+3. Masukkan:
+   * **Email** (yang terdaftar di sekolah)
+   * **Password**
+4. Setelah login, sistem akan menampilkan daftar siswa yang terhubung dengan akun Anda. Pilih salah satu untuk mulai memantau aktivitas akademik.
+
+> Akun login hanya dapat digunakan jika telah **diaktifkan oleh admin sekolah atau operator eSchool**.
 
 ***
 
-Jika Anda mengalami kendala dalam proses login atau tidak dapat mengakses akun, silakan hubungi tim bantuan kami melalui [Support eSchool](https://support.eschool.id/ticket) atau hubungi admin sekolah Anda. Jika Anda lupa password, gunakan fitur Lupa Password pada halaman login untuk mengatur ulang password Anda. Pastikan untuk mengikuti petunjuk yang diberikan melalui email atau SMS yang terdaftar pada akun Anda.
+#### Kendala Login?
+
+Jika Anda mengalami masalah saat login, berikut langkah yang dapat dilakukan:
+
+* [**Lupa Password?**](../lupa-password.md)\
+  Gunakan fitur **"Lupa Password"** di halaman login aplikasi.\
+  Ikuti petunjuk reset yang akan dikirimkan melalui **email** yang terdaftar.
+* **Tidak Bisa Akses Akun?**\
+  Hubungi langsung:
+  * **Admin sekolah** (untuk cek status akun Anda)
+  * Atau hubungi **Tim Support eSchool** melalui menu [**Bantuan**](https://www.eschool.ac.id/#contact-us)&#x20;

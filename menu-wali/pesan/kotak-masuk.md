@@ -2,5 +2,5 @@
 icon: inbox
 ---
 
-# Dikumpulkan
+# Pengumpulan Tugas
 

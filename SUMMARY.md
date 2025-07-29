@@ -12,14 +12,13 @@
 
 * [Pendaftaran](panduan-pengguna-baru/registrasi.md)
 * [Login](panduan-pengguna-baru/login.md)
-  * [Orang Tua](panduan-pengguna-baru/login/orang-tua.md)
-  * [Siswa](panduan-pengguna-baru/login/siswa.md)
 
 ## Menu Siswa
 
 * [Tugas](menu-siswa/pesan/README.md)
-  * [Penugasan](menu-siswa/pesan/dasbor-pesan.md)
-  * [Pengumpulan Tugas](menu-siswa/pesan/kotak-masuk.md)
+  * [Ditugaskan](menu-siswa/pesan/dasbor-pesan/README.md)
+    * [Penugasan](menu-siswa/pesan/dasbor-pesan/penugasan.md)
+  * [Dikumpulkan](menu-siswa/pesan/kotak-masuk.md)
 * [Siswa](menu-siswa/formulir.md)
 * [Kehadiran](menu-siswa/kehadiran.md)
 * [Jadwal](menu-siswa/jadwal.md)
@@ -32,6 +31,25 @@
 * [Hari Libur](menu-siswa/hari-libur.md)
 * [Galeri](menu-siswa/galeri.md)
 * [Pengaturan](menu-siswa/pengaturan.md)
+
+## Menu Wali
+
+* [Tugas](menu-wali/pesan/README.md)
+  * [Penugasan](menu-wali/pesan/dasbor-pesan.md)
+  * [Pengumpulan Tugas](menu-wali/pesan/kotak-masuk.md)
+* [Siswa](menu-wali/formulir.md)
+* [Kehadiran](menu-wali/kehadiran.md)
+* [Guru](menu-wali/guru.md)
+* [Jadwal](menu-wali/jadwal.md)
+* [Absen Mapel](menu-wali/absen-mapel.md)
+* [Pengumuman](menu-wali/pengumuman.md)
+* [Ujian](menu-wali/ujian.md)
+* [Hasil](menu-wali/hasil.md)
+* [Laporan](menu-wali/laporan.md)
+* [Detail Wali](menu-wali/detail-wali.md)
+* [Hari Libur](menu-wali/hari-libur.md)
+* [Galeri](menu-wali/galeri.md)
+* [Pengaturan](menu-wali/pengaturan.md)
 
 ***
 
