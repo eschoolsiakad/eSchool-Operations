@@ -4,38 +4,63 @@ icon: hand-holding-box
 
 # Syarat dan Ketentuan Layanan
 
-## **Bagian dari Perjanjian ini**
+### **Ketentuan Umum Penggunaan eSchool**
 
-Perjanjian ini terdiri dari syarat dan ketentuan berikut (selanjutnya disebut "Ketentuan Umum") dan syarat dan ketentuan, jika ada, khusus untuk penggunaan Layanan individu (selanjutnya disebut "Ketentuan Khusus Layanan"). Jika terjadi pertentangan antara Ketentuan Umum dan Ketentuan Khusus Layanan, Ketentuan Khusus Layanan yang akan berlaku.
+#### 1. Bagian dari Perjanjian ini
 
-## **Penerimaan Perjanjian**
+Perjanjian Penggunaan ini mencakup **Ketentuan Umum** serta **Ketentuan Khusus Layanan** apabila berlaku untuk fitur-fitur tertentu dalam ekosistem eSchool (misalnya eSchool Mobile, Siakad, Dashboard Admin, dan lainnya). Jika terdapat perbedaan antara keduanya, maka **Ketentuan Khusus Layanan** akan lebih diutamakan dalam pelaksanaannya.
 
-Anda harus cukup umur untuk membuat perjanjian yang mengikat untuk menerima Perjanjian. Jika Anda tidak menyetujui Ketentuan Umum, jangan gunakan Layanan kami. Jika Anda menyetujui Ketentuan Umum dan tidak menyetujui Ketentuan Khusus Layanan apa pun, jangan gunakan Layanan terkait. Anda dapat menerima Perjanjian dengan mencentang kotak atau mengklik tombol yang menunjukkan penerimaan Anda terhadap Perjanjian atau dengan benar-benar menggunakan Layanan.
+#### 2. Persetujuan dan Penerimaan
 
-## **Deskripsi Layanan**
+Dengan menggunakan layanan eSchool, Anda menyatakan bahwa:
 
-Anda dapat menggunakan Layanan untuk penggunaan pribadi dan bisnis Anda atau untuk tujuan bisnis internal dalam organisasi yang Anda wakili. Anda dapat terhubung ke Layanan menggunakan browser Internet apa pun yang didukung oleh Layanan. Anda bertanggung jawab untuk mendapatkan akses ke Internet dan peralatan yang diperlukan untuk menggunakan Layanan. Anda dapat membuat dan mengedit konten dengan akun pengguna Anda dan jika Anda memilih untuk melakukannya, Anda dapat mempublikasikan dan membagikan konten tersebut.
+* Anda cukup umur dan berwenang secara hukum untuk menyetujui perjanjian ini.
+* Anda menerima seluruh syarat dan ketentuan yang berlaku.
 
-## **Layanan Beta**
+Jika Anda tidak menyetujui syarat dan ketentuan yang dimaksud, **harap tidak menggunakan layanan eSchool**.
 
-Kami dapat menawarkan Layanan tertentu sebagai layanan beta tertutup atau terbuka ("Layanan Beta" atau "Layanan Beta") untuk tujuan pengujian dan evaluasi. Anda setuju bahwa kami memiliki wewenang dan kebijaksanaan tunggal untuk menentukan jangka waktu pengujian dan evaluasi Layanan Beta. Kami akan menjadi satu-satunya hakim atas keberhasilan pengujian tersebut dan keputusan, jika ada, untuk menawarkan Layanan Beta sebagai layanan komersial. Anda tidak berkewajiban untuk memperoleh langganan untuk menggunakan Layanan berbayar apa pun sebagai hasil dari langganan Anda ke Layanan Beta apa pun. Kami berhak untuk menghentikan sepenuhnya atau sebagian, setiap saat dan dari waktu ke waktu, untuk sementara atau selamanya, salah satu Layanan Beta dengan atau tanpa pemberitahuan kepada Anda. Anda setuju bahwa NoBox tidak akan bertanggung jawab kepada Anda atau pihak ketiga mana pun atas kerugian apa pun yang terkait dengan, yang timbul dari, atau disebabkan oleh modifikasi, penangguhan, atau penghentian Layanan Beta apa pun karena alasan apa pun.
+#### 3. Deskripsi Layanan
 
-## **Uji Coba Gratis**
+eSchool adalah sistem informasi akademik digital berbasis SaaS yang digunakan oleh sekolah-sekolah untuk mengelola proses belajar mengajar, komunikasi, hingga administrasi akademik. Pengguna yang berwenang (admin sekolah, guru, siswa, dan orang tua) akan mendapatkan akses sesuai dengan hak perannya.
 
-Jika Anda mendaftar untuk uji coba gratis, NoBox akan menyediakan Layanan yang berlaku untuk Anda berdasarkan uji coba gratis hingga yang lebih awal dari (i) akhir periode uji coba gratis Layanan yang berlaku (kecuali dihentikan sebelumnya oleh Anda), (ii) tanggal mulai periode berlangganan berbayar untuk Layanan yang berlaku, atau (iii) penghentian oleh NoBox atas kebijaksanaannya sendiri. Setiap data yang Anda masukkan ke dalam Layanan, dan setiap penyesuaian yang dilakukan pada Layanan selama uji coba gratis akan hilang secara permanen kecuali jika Anda (i) membeli paket langganan berbayar yang sesuai untuk akun tersebut, (ii) membeli peningkatan Layanan yang berlaku, atau (iii ) mengekspor data tersebut sebelum akhir masa percobaan. Terlepas dari apa pun yang terkandung dalam Bagian ini, Layanan ditawarkan apa adanya selama uji coba gratis, tanpa jaminan, perjanjian, dukungan, atau kewajiban apa pun, sejauh diizinkan oleh hukum.
+Layanan eSchool dapat diakses melalui browser atau aplikasi mobile resmi yang tersedia di Play Store dan App Store. Akses layanan memerlukan akun aktif yang dibuat oleh sekolah atau admin institusi resmi.
 
-## **Kewajiban Mendaftar Pengguna**
+#### 4. Pendaftaran Pengguna
 
-Anda perlu mendaftar untuk akun pengguna dengan memberikan semua informasi yang diperlukan untuk mengakses atau menggunakan Layanan. Jika Anda mewakili sebuah organisasi dan ingin menggunakan Layanan untuk penggunaan internal perusahaan, kami menyarankan Anda, dan semua pengguna lain dari organisasi Anda, mendaftar akun pengguna dengan memberikan informasi kontak perusahaan Anda. Secara khusus, kami menyarankan Anda menggunakan alamat email perusahaan Anda. Anda setuju untuk: (i) memberikan informasi yang benar, akurat, terkini, dan lengkap tentang diri Anda sebagaimana diminta oleh proses pendaftaran; dan (ii) memelihara dan segera memperbarui informasi yang diberikan selama pendaftaran agar tetap benar, akurat, terkini, dan lengkap. Jika Anda memberikan informasi yang tidak benar, tidak akurat, kedaluwarsa, atau tidak lengkap, atau jika NoBox memiliki alasan yang masuk akal untuk mencurigai bahwa informasi tersebut tidak benar, tidak akurat, kedaluwarsa, atau tidak lengkap, NoBox dapat menghentikan akun pengguna Anda dan menolak penggunaan saat ini atau di masa mendatang. salah satu atau semua Layanan.
+Akun pengguna hanya dapat dibuat oleh pihak sekolah atau admin yang ditunjuk. Anda setuju untuk:
 
-## **Pembatasan Penggunaan**
+* Memberikan informasi yang akurat dan terbaru kepada admin sekolah saat pendaftaran.
+* Tidak menggunakan akun orang lain tanpa izin resmi.
 
-Selain semua syarat dan ketentuan lain dari Perjanjian ini, Anda tidak boleh: (i) mengalihkan Layanan atau menyediakannya kepada pihak ketiga mana pun; (ii) menyediakan layanan apa pun berdasarkan Layanan tanpa izin tertulis sebelumnya; (iii) mengizinkan lisensi pengguna untuk dibagikan atau digunakan oleh lebih dari satu individu selain dengan cara menetapkan ulang lisensi pengguna kepada pengguna baru; (iv) kecuali jika diizinkan berdasarkan hukum yang berlaku, berupaya membongkar, merekayasa balik, atau mendekompilasi Layanan; (v) menggunakan tautan pihak ketiga ke situs tanpa menyetujui syarat & ketentuan situs web mereka; (vi) memposting tautan ke situs pihak ketiga atau menggunakan logo, nama perusahaan, dll. tanpa izin tertulis sebelumnya dari mereka; (vii) mencoba untuk mendapatkan akses tidak sah ke Layanan atau sistem atau jaringan terkait; (viii) menggunakan Layanan dengan cara apa pun yang dapat merusak, menonaktifkan, membebani, merusak, atau membahayakan server, jaringan, sistem komputer, sumber daya NoBox; (ix) menggunakan Layanan untuk mengirim atau menyimpan materi yang mengandung virus perangkat lunak, worm, atau kode, file, skrip, atau program komputer berbahaya lainnya; (x) menggunakan Layanan dengan cara apa pun yang mengganggu atau mengganggu integritas, keamanan, atau kinerja Layanan, komponennya, dan data yang terkandung di dalamnya; (xi) membuat identitas palsu untuk menyesatkan siapa pun mengenai identitas atau asal komunikasi apa pun; (xii) menghosting, menampilkan, mengunggah, memodifikasi, menerbitkan, mengirimkan, menyimpan, memperbarui, atau membagikan informasi apa pun yang dimiliki oleh orang atau entitas lain dan di mana Anda tidak memiliki hak apa pun, termasuk informasi pribadi atau rahasia dari orang atau entitas mana pun dengan sehubungan dengan mana Anda tidak memiliki persetujuan atau izin dari orang atau entitas tersebut; (xiii) menggunakan Layanan untuk mengirimkan informasi yang salah dan tidak benar, dan ditulis atau dipublikasikan dalam bentuk apa pun, dengan maksud untuk menyesatkan atau melecehkan seseorang, entitas, atau agensi untuk mendapatkan keuntungan finansial atau menyebabkan kerugian bagi siapa pun; (xiv) melanggar hukum lokal, negara bagian, nasional atau internasional yang berlaku; (xv) menggunakan Layanan untuk segala bentuk tujuan persaingan atau pembandingan; dan (xvi) menghapus atau mengaburkan pemberitahuan kepemilikan atau pemberitahuan lainnya yang terkandung dalam Layanan.
+Kami berhak menghentikan akun Anda jika ditemukan data palsu atau pelanggaran terhadap kebijakan penggunaan.
 
-## **Spamming dan Aktivitas Ilegal**
+#### 5. Pembatasan Penggunaan
 
-Anda setuju untuk bertanggung jawab penuh atas konten transmisi Anda melalui Layanan. Anda setuju untuk tidak menggunakan Layanan untuk tujuan ilegal atau untuk transmisi materi yang melanggar hukum, memfitnah, melecehkan, memfitnah, mengganggu privasi orang lain, kasar, mengancam, berbahaya, vulgar, pornografi, cabul, atau tidak pantas, menyinggung agama sentimen, mempromosikan rasisme, berisi virus atau kode berbahaya, atau yang melanggar atau mungkin melanggar kekayaan intelektual atau hak lain orang lain. Anda setuju untuk tidak menggunakan Layanan untuk pengiriman "surat sampah", "spam", "surat berantai", "phishing" atau distribusi email massal yang tidak diminta. Kami berhak untuk menghentikan akses Anda ke Layanan jika ada alasan yang masuk akal untuk meyakini bahwa Anda telah menggunakan Layanan untuk aktivitas ilegal atau tidak sah.
+Pengguna layanan **tidak diperkenankan** untuk:
 
-## **Aplikasi Pihak Ketiga**
+* Membagikan akses ke akun ke pihak lain tanpa izin sekolah.
+* Mencoba meretas, membongkar, atau menyalahgunakan sistem.
+* Mengunggah konten yang mengandung unsur SARA, kekerasan, pornografi, spam, atau virus.
+* Menggunakan layanan untuk aktivitas politik, kampanye, atau tujuan komersial ilegal.
 
-Layanan NoBox terintegrasi dengan banyak aplikasi pihak ketiga (selanjutnya disebut "Aplikasi Pihak Ketiga"). Akses dan penggunaan Aplikasi Pihak Ketiga mungkin memerlukan penerimaan persyaratan layanan dan kebijakan privasi yang berlaku untuk Aplikasi Pihak Ketiga tersebut (selanjutnya disebut "Ketentuan Pihak Ketiga"). Anda bertanggung jawab untuk membaca dan memahami Ketentuan Pihak Ketiga sebelum mengakses atau menggunakan Aplikasi Pihak Ketiga. Anda mengakui dan setuju bahwa NoBox tidak bertanggung jawab atas Aplikasi Pihak Ketiga mana pun. Meskipun kami akan mencoba memberi Anda pemberitahuan sebelumnya, jika memungkinkan secara wajar, Anda mengakui dan menyetujui bahwa NoBox dapat, kapan saja dan atas kebijakan kami sendiri, dan tanpa pemberitahuan apa pun kepada Anda, menangguhkan, membatasi, atau menonaktifkan akses ke atau menghapus dari NoBox Layanan, Aplikasi Pihak Ketiga mana pun, tanpa kewajiban apa pun kepada Anda, termasuk namun tidak terbatas pada hilangnya keuntungan, pendapatan, data, niat baik, atau kerugian tidak berwujud lainnya.
+#### 6. Aktivitas Terlarang dan Spam
+
+Kami melarang penggunaan eSchool untuk:
+
+* Mengirim spam, hoax, atau informasi menyesatkan.
+* Mengganggu kenyamanan dan privasi pengguna lain.
+* Menyebarkan materi atau konten yang melanggar hukum atau norma kesusilaan.
+
+Kami berhak memutus akses pengguna jika terindikasi melakukan aktivitas yang melanggar hukum atau kebijakan internal eSchool.
+
+#### 7. Integrasi Aplikasi Pihak Ketiga
+
+eSchool dapat terhubung dengan **aplikasi pihak ketiga**, seperti penyedia video conference, sistem pembayaran, atau layanan integrasi lainnya. Anda perlu membaca dan menyetujui **kebijakan masing-masing aplikasi pihak ketiga** tersebut sebelum menggunakannya.
+
+Kami tidak bertanggung jawab atas kebijakan, fitur, atau gangguan yang berasal dari aplikasi eksternal.
+
+#### Penutup
+
+Perjanjian ini tunduk pada hukum yang berlaku di wilayah Republik Indonesia. Kami berhak memperbarui syarat & ketentuan ini kapan pun untuk menyesuaikan dengan pengembangan sistem, regulasi pendidikan, dan kebutuhan institusi pengguna.
+
+Untuk bantuan atau klarifikasi, silakan hubungi tim eSchool melalui halaman [Pusat Bantuan eSchool](https://www.eschool.ac.id/#contact-us) atau kontak resmi dari admin sekolah Anda.

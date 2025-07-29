@@ -4,24 +4,30 @@ icon: shield
 
 # Keamanan
 
-## **Keamanan**
+### Keamanan Sistem eSchool
 
-NoBox menyediakan produk Software as a Service (SaaS) kepada jutaan orang untuk menyelesaikan masalah bisnis mereka. Keamanan adalah komponen utama dalam penawaran kami, dan tercermin dalam karyawan, proses, dan produk kami. Halaman ini mencakup topik seperti keamanan data, keamanan operasional, dan keamanan fisik untuk menjelaskan bagaimana kami menawarkan keamanan kepada pelanggan kami.
+#### Komitmen Kami terhadap Keamanan Data Pendidikan
 
-## **Keamanan organisasi**
+**eSchool** adalah platform terpadu berbasis Software as a Service (SaaS) yang digunakan oleh ribuan sekolah untuk mengelola kegiatan akademik, administrasi, dan komunikasi. Keamanan menjadi prinsip utama dalam pengembangan seluruh layanan kami — mulai dari sistem, sumber daya manusia, hingga proses operasional.
 
-Kami memiliki Sistem Manajemen Keamanan Informasi yang memperhitungkan tujuan keamanan kami dan risiko serta mitigasi terkait semua pihak yang berkepentingan. Kami menerapkan kebijakan dan prosedur ketat yang mencakup keamanan, ketersediaan, pemrosesan, integritas, dan kerahasiaan data pelanggan.
+#### Keamanan Organisasi
 
-## **Pemeriksaan latar belakang karyawan**
+Kami menerapkan **Sistem Manajemen Keamanan Informasi (ISMS)** yang mengacu pada praktik terbaik dalam industri teknologi pendidikan. Sistem ini mempertimbangkan tujuan keamanan kami serta risiko yang mungkin berdampak terhadap sekolah, guru, siswa, dan orang tua yang menjadi pengguna aktif eSchool.
 
-Setiap karyawan menjalani proses verifikasi latar belakang. Kami melakukan ini untuk memverifikasi catatan kriminal mereka, catatan pekerjaan sebelumnya jika ada, dan latar belakang pendidikan. Sampai pemeriksaan ini dilakukan, karyawan tidak diberikan tugas yang dapat menimbulkan risiko bagi pengguna.
+Beberapa prinsip dasar yang kami pegang:
 
-## **Kesadaran Keamanan**
+* **Kerahasiaan data**: Informasi pribadi pengguna tidak akan dibagikan ke pihak ketiga tanpa izin.
+* **Integritas data**: Semua data akademik dan administrasi dijaga dari manipulasi atau akses yang tidak sah.
+* **Ketersediaan sistem**: eSchool beroperasi dengan uptime tinggi dan sistem pencadangan yang andal.
 
-Setiap karyawan, ketika dilantik, menandatangani perjanjian kerahasiaan dan kebijakan penggunaan yang dapat diterima, setelah itu mereka menjalani pelatihan dalam keamanan informasi, privasi, dan kepatuhan. Selanjutnya, kami mengevaluasi pemahaman mereka melalui tes dan kuis untuk menentukan topik mana yang mereka perlukan untuk pelatihan lebih lanjut. Kami memberikan pelatihan tentang aspek keamanan tertentu, yang mungkin mereka perlukan berdasarkan peran mereka.
+#### Pemeriksaan Latar Belakang Tim Kami
 
-Kami mendidik karyawan kami terus-menerus tentang keamanan informasi, privasi, dan kepatuhan dalam komunitas internal kami di mana karyawan kami check-in secara teratur, untuk membuat mereka diperbarui mengenai praktik keamanan organisasi. Kami juga menyelenggarakan acara internal untuk meningkatkan kesadaran dan mendorong inovasi dalam keamanan dan privasi.
+Seluruh staf pengembang dan pendukung sistem eSchool telah melalui proses seleksi dan **verifikasi latar belakang**, termasuk catatan profesional dan pendidikan. Hal ini untuk memastikan hanya personel terpercaya yang memiliki akses terhadap data sekolah dan pengguna.
 
-## **Tim keamanan dan privasi khusus**
+#### Transparansi dan Kepatuhan
 
-Kami memiliki tim keamanan dan privasi khusus yang menerapkan dan mengelola program keamanan dan privasi kami. Mereka merancang dan memelihara sistem pertahanan kami, mengembangkan proses peninjauan untuk keamanan, dan terus-menerus memantau jaringan kami untuk mendeteksi aktivitas yang mencurigakan. Mereka menyediakan layanan konsultasi khusus domain dan panduan untuk tim teknik kami.
+Kami terus memperbarui kebijakan keamanan sesuai regulasi pendidikan dan teknologi digital yang berlaku di Indonesia. Kami terbuka terhadap audit keamanan dan masukan dari mitra sekolah untuk menciptakan lingkungan digital yang aman, nyaman, dan terpercaya bagi seluruh pengguna.
+
+***
+
+Jika Anda memiliki pertanyaan terkait perlindungan data atau kebijakan privasi di eSchool, silakan hubungi tim kami melalui halaman[ **Pusat Bantuan eSchool**.](https://www.eschool.ac.id/#contact-us)

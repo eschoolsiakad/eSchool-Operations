@@ -37,12 +37,15 @@
   * [Jadwal Ujian Offline](menu-akademik/ujian-offline/jadwal-ujian-offline.md)
   * [Hasil Ujian Offline](menu-akademik/ujian-offline/hasil-ujian-offline.md)
 * [Ujian Online](menu-akademik/ujian-online/README.md)
-  * [Ujian Online](menu-akademik/ujian-online/ujian-online.md)
+  * [Ujian Online](menu-akademik/ujian-online/ujian-online/README.md)
+    * [Buat ujian online](menu-akademik/ujian-online/ujian-online/buat-ujian-online.md)
+    * [Archive ujian online](menu-akademik/ujian-online/ujian-online/archive-ujian-online.md)
+    * [Tambah soal ujian](menu-akademik/ujian-online/ujian-online/tambah-soal-ujian.md)
   * [Hasil Ujian Online](menu-akademik/ujian-online/hasil-ujian-online.md)
   * [Status Siswa Ujian ](menu-akademik/ujian-online/status-siswa-ujian.md)
 * [PENGATURAN PERSONAL](menu-akademik/pengaturan-personal.md)
 * [Edit Profile](menu-akademik/edit-profile.md)
-* [Ubah Kata Sandi](menu-akademik/ubah-kata-sandi.md)
+* [Ubah Password](menu-akademik/ubah-password.md)
 * [Cuti](menu-akademik/cuti/README.md)
   * [Ajukan Cuti](menu-akademik/cuti/ajukan-cuti.md)
   * [Riwayat Cuti ](menu-akademik/cuti/riwayat-cuti.md)
@@ -53,7 +56,6 @@
 ## Penyelesaian Masalah
 
 * [Masalah : user tidak bisa login](penyelesaian-masalah/masalah-user-tidak-bisa-login.md)
-* [Masalah : Tidak Bisa Menambah Account dan Tool](masalah-tidak-bisa-menambah-account-dan-tool.md)
 * [Lupa Password](lupa-password.md)
 
 ## Kebijakan dan Keamanan
@@ -62,10 +64,3 @@
 * [Syarat dan Ketentuan Layanan](kebijakan-dan-keamanan/syarat-dan-ketentuan-layanan.md)
 * [Kebijakan Privasi](kebijakan-dan-keamanan/kebijakan-privasi.md)
 * [Hubungi Kami](kebijakan-dan-keamanan/hubungi-kami.md)
-* [Orangtua](kebijakan-dan-keamanan/promosi/README.md)
-  * [Aplikasi Mobile](kebijakan-dan-keamanan/promosi/dasbor-promosi/README.md)
-    * [Dasbor Kirim Pesan](kebijakan-dan-keamanan/promosi/dasbor-promosi/dasbor-kirim-pesan.md)
-    * [Promosi](kebijakan-dan-keamanan/promosi/dasbor-promosi/promosi.md)
-    * [Kirim Pesan](kebijakan-dan-keamanan/promosi/dasbor-promosi/kirim-pesan.md)
-    * [Kirim Pesan Langsung](kebijakan-dan-keamanan/promosi/dasbor-promosi/kirim-pesan-langsung.md)
-    * [Model Pesan](kebijakan-dan-keamanan/promosi/dasbor-promosi/model-pesan.md)

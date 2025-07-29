@@ -4,29 +4,28 @@ icon: key
 
 # Lupa Password
 
-Fitur ini dapat membantu anda jika anda lupa password saat login website id.nobox.ai caranya sebagai berikut :
+### **Lupa Kata Sandi**
 
-<iframe width="742" height="418" src="https://www.youtube.com/embed/jdv8A8J8cdk" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Reset Password Akun eSchool Anda dengan Mudah dan Aman
 
+Menu **Lupa Kata Sandi** dirancang untuk membantu pengguna yang tidak dapat mengakses akun eSchool Mobile karena lupa kata sandi. Prosesnya cepat, aman, dan dapat dilakukan langsung dari aplikasi.
 
-1\. Klik **\[Lupa Password]** pada halaman login **➔** isi alamat email Anda dan ceklis recaptcha.
+<figure><img src=".gitbook/assets/Screenshot_2025_07_29_09_44_47_21_6654e424b14dcf255cefd68df05e6ad2.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-2\. Klik **\[Reset Password Saya]** maka akan tampil notifikasi pengaturan ulang kata sandi yang akan dikirimkan melalui email Anda.
+#### Langkah-Langkah Reset Sandi
 
-<figure><img src="https://crm.nobox.ai/media/public/Knowladge%20Base%20New/Setting/Kirim%20ke%20email.png" alt=""><figcaption></figcaption></figure>
+1. Masukkan alamat email yang telah terdaftar di sistem eSchool pada kolom yang tersedia.
+2. Klik tombol **"Kirim Tautan Reset"**.
+3. Sistem akan mengirimkan **tautan verifikasi melalui email** Anda.
+4. Buka email, lalu klik tautan tersebut untuk mengatur ulang kata sandi Anda.
 
-3\. Cek inbox email Anda dan klik link maka akan langsung diarahkan menuju halaman reset password.
+#### ⚠️ Penting Diperhatikan
 
-<figure><img src=".gitbook/assets/Email.png" alt=""><figcaption></figcaption></figure>
+* Pastikan Anda menggunakan **alamat email yang valid dan terdaftar** di akun eSchool.
+* Jika tidak menemukan email masuk, **periksa folder Spam atau Promosi**.
+* Tautan reset hanya berlaku dalam **waktu terbatas**, jadi lakukan proses reset sesegera mungkin.
 
-4\. Masukkan kata sandi baru dan konfirmasi password dengan mengisi ulang kata sandi di kolom confirm password.
+Masih Mengalami Kendala?
 
-5\. Klik **\[Reset Password saya]** maka akan tampil pop up bahwa kata sandi Anda telah berhasil diubah.
+Jika Anda belum menerima email atau mengalami kesulitan dalam proses reset, silakan hubungi **admin sekolah Anda** atau kunjungi halaman [**Bantuan eSchoo**](https://www.eschool.ac.id/#contact-us)**l** untuk mendapatkan dukungan lebih lanjut.
 
-<figure><img src=".gitbook/assets/Reset.png" alt=""><figcaption></figcaption></figure>
-
-6\. Klik **\[OK]** untuk ke halaman login website id.nobox.ai
-
-7\. Silahkan login dengan kata sandi baru Anda.
-
-Jika ada masalah atau kesulitan terkait NoBox, silahkan hubungi kami melalui [Support Ticket](https://crm.nobox.ai/clients/tickets)

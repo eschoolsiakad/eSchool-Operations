@@ -4,20 +4,44 @@ icon: square-xmark
 
 # Masalah : user tidak bisa login
 
-## **Akun Yang Belum Terdaftar**
+### **Akun Belum Terdaftar**
 
-Pastikan Anda sudah membuat akun di web [id.nobox.ai](https://nobox.ai/)
+eSchool Mobile **tidak menyediakan pendaftaran mandiri** untuk pengguna individu. Proses aktivasi akun dilakukan secara terpusat melalui sekolah yang telah terdaftar secara resmi oleh tim eSchool.
 
-* Klik login di web [https://nobox.ai/](https://nobox.ai/)&#x20;
-* Pilih lokasi sesuai server terdekat Anda
-* Jika sudah, Anda pilih Sign Up, isi form create new tenant
-* Tunggu email verifikasi, klik link untuk memverifikasi akun Anda
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/New Akun Web.png" alt=""><figcaption></figcaption></figure>
+#### &#x20;Cara Mengakses eSchool Mobile:
 
-## **User Tidak Bisa Login**
+1. **Sekolah terlebih dahulu mendaftar resmi** melalui laman website eSchool Siakad dengan menekan tombol **"Daftarkan Sekolah Anda"**.
+2. Setelah mengisi formulir pendaftaran, tim eSchool akan melakukan proses aktivasi sekolah.
+3. Tim eSchool akan membuat akun admin utama untuk kepala sekolah/operator dan memberikan akses login awal.
+4. **Admin sekolah kemudian dapat membuat akun untuk:**
+   * Guru
+   * Siswa
+   * Orang tua/wali murid
+5. Akun pengguna akan dikirimkan melalui email atau media komunikasi resmi sekolah.
 
-* Jika email sudah terverifikasi, login menggunakan akun yang sudah Anda buat, di web [id.nobox.ai](https://nobox.ai/) Anda bisa memonitoring data2 Anda
-* Untuk memastikan akun Anda sudah terbuat, buka aplikasi Nobox Desktop dan coba login kembali dengan akun yang sama
+### **Login ke Aplikasi Mobile**
 
-Jika ada masalah atau kesulitan terkait NoBox, silahkan hubungi kami melalui [Support Ticket](https://crm.nobox.ai/clients/tickets)
+Setelah akun dibuat oleh admin sekolah:
+
+* Unduh aplikasi **eSchool Mobile** melalui:
+  * [Google Play Store](https://play.google.com/store/apps/details?id=id.ac.eschool.GuruStaff.android\&hl=id) untuk perangkat Android
+  * [Apple App Store](https://play.google.com/store/apps/details?id=id.ac.eschool.GuruStaff.android\&hl=id) untuk perangkat iOS
+* Login menggunakan **akun resmi** yang telah diberikan oleh sekolah
+* Setelah berhasil login, Anda dapat langsung menggunakan fitur sesuai dengan peran Anda (guru, siswa, atau orang tua)
+
+### ⚠️ **Penting untuk Diketahui**
+
+* Tidak tersedia fitur **Sign Up** langsung dari aplikasi
+* **Individu (guru/siswa/orangtua)** tidak dapat membuat akun sendiri
+* Seluruh proses penggunaan eSchool **harus dimulai dari pihak sekolah**
+
+***
+
+### **Butuh Bantuan?**
+
+Jika Anda mengalami kendala saat login atau belum memiliki akun, mohon hubungi admin sekolah Anda terlebih dahulu.
+
+Untuk bantuan lebih lanjut, silakan kunjungi halaman [**Bantuan eSchool** ](https://www.eschool.ac.id/#contact-us)atau hubungi tim support kami melalui saluran resmi yang tersedia.
+
