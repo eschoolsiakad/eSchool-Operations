@@ -10,7 +10,6 @@
 
 ## Panduan Pengguna Baru
 
-* [Pendaftaran](panduan-pengguna-baru/registrasi.md)
 * [Login](panduan-pengguna-baru/login.md)
 
 ## Menu Siswa
@@ -19,7 +18,7 @@
   * [Ditugaskan](menu-siswa/pesan/dasbor-pesan/README.md)
     * [Penugasan](menu-siswa/pesan/dasbor-pesan/penugasan.md)
   * [Dikumpulkan](menu-siswa/pesan/kotak-masuk.md)
-* [Siswa](menu-siswa/formulir.md)
+* [Profile Siswa](menu-siswa/formulir.md)
 * [Kehadiran](menu-siswa/kehadiran.md)
 * [Jadwal](menu-siswa/jadwal.md)
 * [Absen Mapel](menu-siswa/absen-mapel.md)
