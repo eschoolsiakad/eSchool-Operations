@@ -32,19 +32,12 @@
   * [Kesiswaan](crm/perusahaan/README.md)
     * [Dashboard Kesiswaan](crm/perusahaan/dashboard-kesiswaan.md)
     * [Siswa](crm/perusahaan/siswa.md)
-  * [Aplikasi Mobile](crm/tag-produk/README.md)
-    * [Absensi](crm/tag-produk/laporan-umum.md)
-    * [Laporan Absensi](crm/tag-produk/laporan-target.md)
-    * [Rekap Kehadiran](crm/tag-produk/laporan-perbandingan.md)
-    * [Kelola Akademik](crm/tag-produk/laporan-tren.md)
-    * [Perizinan](crm/tag-produk/laporan-lainnya.md)
 * [Admin](promosi/README.md)
   * [Kelola Siswa](promosi/kelola-siswa.md)
 
 ## Penyelesaian Masalah
 
 * [Masalah : user tidak bisa login](penyelesaian-masalah/masalah-user-tidak-bisa-login.md)
-* [Masalah : Tidak Bisa Menambah Account dan Tool](masalah-tidak-bisa-menambah-account-dan-tool.md)
 * [Lupa Password](lupa-password.md)
 
 ## Kebijakan dan Keamanan
