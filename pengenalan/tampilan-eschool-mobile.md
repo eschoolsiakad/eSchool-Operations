@@ -8,6 +8,8 @@ icon: screen-users
 
 Pada aplikasi **eSchool Mobile**, tampilan antarmuka dirancang khusus agar ringkas, intuitif, dan mudah diakses melalui layar ponsel. Pengguna dapat dengan cepat menemukan informasi penting dan fitur utama sesuai peran masing-masing.
 
+{% embed url="https://youtu.be/2iZ1-l0GkNo" %}
+
 #### Fungsi Utama dalam Tampilan Dasbor Mobile
 
 Halaman **Dasbor Mobile** menyajikan ringkasan data secara real-time yang langsung relevan bagi pengguna, seperti:
