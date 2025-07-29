@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Pilih Bahasa
 
 Sedang mengalihkan ke halaman pemilihan bahasa... Jika tidak diarahkan otomatis, klik di sini.
