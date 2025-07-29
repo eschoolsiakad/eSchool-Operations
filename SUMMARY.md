@@ -58,7 +58,6 @@
 ## Penyelesaian Masalah
 
 * [Masalah : user tidak bisa login](penyelesaian-masalah/masalah-user-tidak-bisa-login.md)
-* [Masalah : Tidak Bisa Menambah Account dan Tool](masalah-tidak-bisa-menambah-account-dan-tool.md)
 * [Lupa Password](lupa-password.md)
 
 ## Kebijakan dan Keamanan
