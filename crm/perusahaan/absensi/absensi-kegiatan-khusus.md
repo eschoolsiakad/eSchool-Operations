@@ -37,6 +37,8 @@ Klik salah satu tombol radio sesuai kondisi siswa hari tersebut.
 
 ***
 
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ### 🧩 Fitur Bulk Edit: Pilih Status Massal
 
 🔻 **\[FITUR UTAMA UNTUK PENGHEMATAN WAKTU]**
