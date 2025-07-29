@@ -5,3 +5,26 @@ icon: gauge-min
 # Ditugaskan
 
 <div><figure><img src="../../../.gitbook/assets/tugas seelct.png" alt="" width="256"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/tugas filter.png" alt="" width="258"><figcaption></figcaption></figure></div>
+
+### Halaman Daftar Tugas
+
+Sebelum mengerjakan tugas, kamu akan diarahkan terlebih dahulu ke halaman **daftar tugas**. Halaman ini adalah tempat utama untuk melihat semua tugas yang diberikan oleh guru.
+
+1. Buka aplikasi **eSchool Mobile**, lalu ketuk ikon **Tugas** di bagian bawah layar.
+2. Di sini, kamu akan melihat dua tab:
+   * [**Ditugaskan**](./): Menampilkan tugas-tugas yang masih perlu kamu kerjakan.
+   * [**Dikumpulkan**](../kotak-masuk.md): Menampilkan tugas yang sudah kamu kirim.
+3. Kamu bisa memfilter tugas berdasarkan **mata pelajaran** dengan mengetuk nama pelajaran seperti PKN, BIG, BIN, dan lainnya.
+4. Gunakan tombol **Urutkan Berdasarkan** untuk mengatur daftar tugas sesuai kebutuhan, seperti:
+   * Ditugaskan paling baru atau paling lama
+   * Jatuh tempo yang paling dekat atau paling jauh
+5. Setiap tugas akan menampilkan:
+   * Judul tugas
+   * Mata pelajaran
+   * Tanggal dibuat dan batas waktu
+   * Status pengumpulan (contoh: **Belum Dikumpulkan**)
+6. Kalau sudah siap, tinggal **ketuk salah satu tugas** untuk masuk ke halaman [penugasan](../../../menu-wali/pesan/dasbor-pesan.md). Di sana kamu bisa baca instruksi, menulis jawaban, dan langsung mengumpulkannya!
+
+***
+
+💡 _Tips:_ Cek halaman ini secara rutin biar kamu nggak ketinggalan deadline tugas yang penting!
