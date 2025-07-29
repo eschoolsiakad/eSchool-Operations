@@ -1,8 +1,12 @@
+---
+icon: screen-users
+---
+
 # Siswa
 
 Halaman **Daftar Siswa** pada E-SCHOOL Siakad Plus SMKN 8 Malang menyajikan seluruh data peserta didik dalam satu tampilan tabel yang interaktif dan mudah digunakan. Fitur ini memungkinkan staf kesiswaan, wali kelas, dan guru untuk melakukan pencarian, verifikasi, dan pengolahan data siswa dengan lebih efisien.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧾 Fitur Unggulan Halaman Daftar Siswa
 
