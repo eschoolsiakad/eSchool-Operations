@@ -8,7 +8,7 @@ icon: square-xmark
 
 eSchool Mobile **tidak menyediakan pendaftaran mandiri** untuk pengguna individu. Proses aktivasi akun dilakukan secara terpusat melalui sekolah yang telah terdaftar secara resmi oleh tim eSchool.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-24 091517.png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;Cara Mengakses eSchool Mobile:
 
