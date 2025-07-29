@@ -4,11 +4,15 @@ icon: lock-keyhole
 
 # Kebijakan Privasi
 
-#### **Kebijakan Privasi eSchool**
+**Kebijakan Privasi eSchool**
 
-### **Komitmen Privasi Kami**
+#### Komitmen Privasi Kami
 
-eSchool berkomitmen penuh untuk menjaga dan melindungi privasi seluruh penggunanya — termasuk sekolah, guru, siswa, dan orang tua. Kami hanya mengumpulkan data yang **benar-benar diperlukan** untuk mendukung operasional akademik dan administrasi pendidikan secara digital.Kami **tidak menjual, membagikan, atau memonetisasi data pribadi** dalam bentuk apa pun kepada pihak ketiga, termasuk untuk tujuan periklanan. Bahkan untuk versi gratis layanan, kami **tidak pernah—dan tidak akan pernah—menghasilkan pendapatan dari data pribadi pengguna**.Tujuan kebijakan ini adalah untuk memberikan transparansi kepada Anda terkait:
+eSchool berkomitmen penuh untuk menjaga dan melindungi privasi seluruh penggunanya — termasuk sekolah, guru, siswa, dan orang tua. Kami hanya mengumpulkan data yang **benar-benar diperlukan** untuk mendukung operasional akademik dan administrasi pendidikan secara digital.
+
+Kami **tidak menjual, membagikan, atau memonetisasi data pribadi** dalam bentuk apa pun kepada pihak ketiga, termasuk untuk tujuan periklanan. Bahkan untuk versi gratis layanan, kami **tidak pernah—dan tidak akan pernah—menghasilkan pendapatan dari data pribadi pengguna**.
+
+Tujuan kebijakan ini adalah untuk memberikan transparansi kepada Anda terkait:
 
 * Jenis data yang dikumpulkan
 * Bagaimana data digunakan dan disimpan
@@ -16,7 +20,7 @@ eSchool berkomitmen penuh untuk menjaga dan melindungi privasi seluruh penggunan
 
 Kami berusaha menggunakan bahasa yang jelas dan mudah dipahami, karena kami percaya privasi adalah hak fundamental setiap individu, termasuk di lingkungan pendidikan.
 
-**Ruang Lingkup Kebijakan**
+#### Ruang Lingkup Kebijakan
 
 Kebijakan ini berlaku untuk:
 
@@ -28,9 +32,11 @@ Kebijakan ini berlaku untuk:
 
 Namun, **tidak berlaku** untuk pihak ketiga atau layanan yang memiliki kebijakan privasi terpisah (misalnya penyedia layanan video conference, aplikasi pembayaran eksternal, dll).
 
-**Struktur Kebijakan Privasi**
+#### Struktur Kebijakan Privasi
 
-**Bagian I – Informasi yang Dikumpulkan dan Dikendalikan oleh eSchool**Kami mengumpulkan data pengguna saat:
+**Bagian I – Informasi yang Dikumpulkan dan Dikendalikan oleh eSchool**
+
+Kami mengumpulkan data pengguna saat:
 
 * Sekolah melakukan pendaftaran dan aktivasi akun
 * Pengguna login dan menggunakan aplikasi
@@ -48,12 +54,18 @@ Data ini digunakan untuk:
 * Mengelola autentikasi pengguna dan keamanan sistem
 * Memberikan dukungan dan informasi yang relevan sesuai peran
 
-**Bagian II – Informasi yang Diproses atas Nama Sekolah**eSchool bertindak sebagai **penyedia layanan sistem informasi akademik**. Artinya, semua data guru, siswa, dan orang tua yang dikelola oleh admin sekolah akan diproses **atas instruksi dan tanggung jawab pihak sekolah**.Kami **tidak menggunakan data tersebut untuk tujuan internal kami** di luar kepentingan operasional sistem, kecuali telah mendapatkan izin dari pihak sekolah sebagai pemilik data.**Bagian III – Ketentuan Umum**
+**Bagian II – Informasi yang Diproses atas Nama Sekolah**
+
+eSchool bertindak sebagai **penyedia layanan sistem informasi akademik**. Artinya, semua data guru, siswa, dan orang tua yang dikelola oleh admin sekolah akan diproses **atas instruksi dan tanggung jawab pihak sekolah**.
+
+Kami **tidak menggunakan data tersebut untuk tujuan internal kami** di luar kepentingan operasional sistem, kecuali telah mendapatkan izin dari pihak sekolah sebagai pemilik data.
+
+**Bagian III – Ketentuan Umum**
 
 * Kami memiliki **komitmen keamanan tinggi** sebagaimana tercantum dalam \[Kebijakan Keamanan eSchool].
 * Kami akan **memberikan pemberitahuan** melalui aplikasi atau email jika terdapat perubahan pada kebijakan ini.
 * Pengguna memiliki hak untuk meminta penghapusan atau pembaruan data pribadi, dengan koordinasi melalui admin sekolah.
 
-**Hubungi Kami**
+#### Hubungi Kami
 
 Jika Anda memiliki pertanyaan atau ingin mengetahui lebih lanjut tentang kebijakan privasi ini, silakan hubungi kami melalui halaman resmi **Pusat Bantuan eSchool** di [eschool.ac.id](https://www.eschool.ac.id/#contact-us) atau kontak admin sekolah Anda.
