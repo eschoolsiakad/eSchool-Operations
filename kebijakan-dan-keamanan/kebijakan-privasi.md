@@ -6,7 +6,7 @@ icon: lock-keyhole
 
 **Kebijakan Privasi eSchool**
 
-#### Komitmen Privasi Kami
+### Komitmen Privasi Kami
 
 eSchool berkomitmen penuh untuk menjaga dan melindungi privasi seluruh penggunanya — termasuk sekolah, guru, siswa, dan orang tua. Kami hanya mengumpulkan data yang **benar-benar diperlukan** untuk mendukung operasional akademik dan administrasi pendidikan secara digital.
 
