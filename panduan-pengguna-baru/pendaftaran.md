@@ -1,5 +1,5 @@
 ---
-icon: door-open
+icon: right-to-bracket
 ---
 
 # Pendaftaran

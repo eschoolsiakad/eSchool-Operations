@@ -1,5 +1,5 @@
 ---
-icon: square-user
+icon: user-group
 ---
 
 # Login

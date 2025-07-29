@@ -1,5 +1,5 @@
 ---
-icon: pan-frying
+icon: screen-users
 ---
 
 # Tampilan eSchool Mobile

@@ -1,5 +1,5 @@
 ---
-icon: inbox
+icon: chalkboard-user
 ---
 
 # Kelas

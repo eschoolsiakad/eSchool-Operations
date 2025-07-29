@@ -1,32 +1,31 @@
 # Table of contents
 
-* [Pilih Bahasa](README.md)
-* [Selamat Datang di eSchool](<README (1).md>)
+* [Selamat Datang di eSchool](README.md)
 
 ## Pengenalan
 
 * [Gambaran Umum](pengenalan/gambaran-umum.md)
-* [Tampilan eSchool Mobile](pengenalan/tampilan-nobox-ai.md)
+* [Tampilan eSchool Mobile](pengenalan/tampilan-eschool-mobile.md)
 
 ## Panduan Pengguna Baru
 
-* [Pendaftaran](panduan-pengguna-baru/registrasi.md)
+* [Pendaftaran](panduan-pengguna-baru/pendaftaran.md)
 * [Login](panduan-pengguna-baru/login.md)
 
 ## Menu Akademik
 
-* [Jadwal](menu-akademik/pesan/README.md)
-  * [Jadwal Guru](menu-akademik/pesan/dasbor-pesan.md)
-  * [Kelas](menu-akademik/pesan/kotak-masuk.md)
-* [Kehadiran](menu-akademik/crm/README.md)
-  * [Kehadiran Kegiatan Khusus](menu-akademik/crm/produk.md)
-  * [Laporan Kehadiran Khusus](menu-akademik/crm/tag-produk.md)
-  * [Laporan Kehadiran Per Mapel](menu-akademik/crm/laporan-kehadiran-per-mapel.md)
-  * [Rekap Kehadiran](menu-akademik/crm/rekap-kehadiran.md)
-  * [Point Alpha Siswa Tertinggi](menu-akademik/crm/point-alpha-siswa-tertinggi.md)
-* [Mata Pelajaran](menu-akademik/formulir/README.md)
-  * [Kelola Pelajaran (Bab)](menu-akademik/formulir/pengaturan-formulir.md)
-  * [Kelola Topik (Sub Bab)](menu-akademik/formulir/kelola-topik-sub-bab.md)
+* [Jadwal](menu-akademik/jadwal/README.md)
+  * [Jadwal Guru](menu-akademik/jadwal/jadwal-guru.md)
+  * [Kelas](menu-akademik/jadwal/kelas.md)
+* [Kehadiran](menu-akademik/kehadiran/README.md)
+  * [Kehadiran Kegiatan Khusus](menu-akademik/kehadiran/kehadiran-kegiatan-khusus.md)
+  * [Laporan Kehadiran Khusus](menu-akademik/kehadiran/laporan-kehadiran-khusus.md)
+  * [Laporan Kehadiran Per Mapel](menu-akademik/kehadiran/laporan-kehadiran-per-mapel.md)
+  * [Rekap Kehadiran](menu-akademik/kehadiran/rekap-kehadiran.md)
+  * [Point Alpha Siswa Tertinggi](menu-akademik/kehadiran/point-alpha-siswa-tertinggi.md)
+* [Mata Pelajaran](menu-akademik/mata-pelajaran/README.md)
+  * [Kelola Pelajaran (Bab)](menu-akademik/mata-pelajaran/kelola-pelajaran-bab.md)
+  * [Kelola Topik (Sub Bab)](menu-akademik/mata-pelajaran/kelola-topik-sub-bab.md)
 * [Bank Soal](menu-akademik/bank-soal/README.md)
   * [Bank Soal](menu-akademik/bank-soal/bank-soal.md)
 * [Tugas Siswa](menu-akademik/tugas-siswa/README.md)

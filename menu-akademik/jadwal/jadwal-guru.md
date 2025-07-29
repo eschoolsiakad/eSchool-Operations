@@ -1,5 +1,5 @@
 ---
-icon: gauge-min
+icon: clock-seven
 ---
 
 # Jadwal Guru
