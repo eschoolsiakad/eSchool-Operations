@@ -31,20 +31,15 @@
       * [Bank Soal](crm/kategori-produk/ujian-online/bank-soal.md)
   * [Kesiswaan](crm/perusahaan/README.md)
     * [Dashboard Kesiswaan](crm/perusahaan/dashboard-kesiswaan.md)
-    * [Kelola Siswa](crm/perusahaan/kelola-siswa.md)
+    * [Siswa](crm/perusahaan/siswa.md)
   * [Aplikasi Mobile](crm/tag-produk/README.md)
     * [Absensi](crm/tag-produk/laporan-umum.md)
     * [Laporan Absensi](crm/tag-produk/laporan-target.md)
     * [Rekap Kehadiran](crm/tag-produk/laporan-perbandingan.md)
     * [Kelola Akademik](crm/tag-produk/laporan-tren.md)
     * [Perizinan](crm/tag-produk/laporan-lainnya.md)
-* [Orangtua](promosi/README.md)
-  * [Aplikasi Mobile](promosi/dasbor-promosi/README.md)
-    * [Dasbor Kirim Pesan](promosi/dasbor-promosi/dasbor-kirim-pesan.md)
-    * [Promosi](promosi/dasbor-promosi/promosi.md)
-    * [Kirim Pesan](promosi/dasbor-promosi/kirim-pesan.md)
-    * [Kirim Pesan Langsung](promosi/dasbor-promosi/kirim-pesan-langsung.md)
-    * [Model Pesan](promosi/dasbor-promosi/model-pesan.md)
+* [Admin](promosi/README.md)
+  * [Kelola Siswa](promosi/kelola-siswa.md)
 
 ## Penyelesaian Masalah
 
