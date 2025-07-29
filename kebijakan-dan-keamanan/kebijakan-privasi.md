@@ -4,26 +4,56 @@ icon: lock-keyhole
 
 # Kebijakan Privasi
 
-## **Komitmen Privasi NoBox**
+#### **Kebijakan Privasi eSchool**
 
-Kami hanya meminta sedikit informasi yang diperlukan, mengumpulkan hanya apa yang kami yakini penting untuk melakukan bisnis, atau untuk transaksi tertentu yang ada. Kami memberi tahu pelanggan informasi yang kami miliki tentang mereka dan memungkinkan mereka untuk memilih keluar dari keterlibatan tertentu. Namun, sejauh ini, komitmen terbesar kami adalah bahwa kami tidak menghasilkan satu dolar pun dari pendapatan iklan—tidak akan pernah, tidak akan pernah—bahkan dari edisi gratis produk kami. Ini berarti kami menghindari konflik kepentingan mendasar antara pengumpulan informasi pelanggan dan peningkatan pendapatan iklan, dan kompromi yang tidak terhindarkan dalam privasi pelanggan yang ditimbulkannya.
+### **Komitmen Privasi Kami**
 
-Tujuan dari kebijakan ini adalah untuk memperjelas informasi yang kami kumpulkan, bagaimana kami akan menggunakannya, dan bagaimana kami tidak akan menggunakannya. Sayangnya, kebijakan ini lebih panjang dari yang kami inginkan, tetapi kami harus menangani semua kasus yang relevan dengan jelas. Kami akan mencoba dan menjaga bahasa tetap sederhana dan langsung sebanyak mungkin.
+eSchool berkomitmen penuh untuk menjaga dan melindungi privasi seluruh penggunanya — termasuk sekolah, guru, siswa, dan orang tua. Kami hanya mengumpulkan data yang **benar-benar diperlukan** untuk mendukung operasional akademik dan administrasi pendidikan secara digital.Kami **tidak menjual, membagikan, atau memonetisasi data pribadi** dalam bentuk apa pun kepada pihak ketiga, termasuk untuk tujuan periklanan. Bahkan untuk versi gratis layanan, kami **tidak pernah—dan tidak akan pernah—menghasilkan pendapatan dari data pribadi pengguna**.Tujuan kebijakan ini adalah untuk memberikan transparansi kepada Anda terkait:
 
-## **Lingkup Kebijakan Privasi**&#x20;
+* Jenis data yang dikumpulkan
+* Bagaimana data digunakan dan disimpan
+* Hak Anda atas kontrol data
 
-Kebijakan Privasi ini berlaku untuk semua situs web NoBox yang tertaut ke sana. Ini juga berlaku untuk produk dan layanan yang disediakan oleh NoBox melalui situs web ini, aplikasi seluler kami, dan aplikasi yang diposting oleh NoBox di pasar online NoBox dan di pasar online pihak ketiga lainnya. Kebijakan Privasi ini tidak berlaku untuk situs web, produk, atau layanan kami yang memiliki kebijakan privasi terpisah.
+Kami berusaha menggunakan bahasa yang jelas dan mudah dipahami, karena kami percaya privasi adalah hak fundamental setiap individu, termasuk di lingkungan pendidikan.
 
-Kebijakan Privasi ini dibagi menjadi tiga bagian:
+**Ruang Lingkup Kebijakan**
 
-**Bagian I – Informasi yang dikumpulkan dan dikontrol NoBox**
+Kebijakan ini berlaku untuk:
 
-Bagian ini membahas cara NoBox mengumpulkan dan menggunakan informasi tentang pengunjung situs web, calon pelanggan, pengguna produk dan layanan NoBox, dan orang lain yang menghubungi NoBox melalui formulir atau alamat email yang dipublikasikan di atau ditautkan ke situs web kami.
+* **Seluruh layanan dan produk digital eSchool**, termasuk:
+  * Aplikasi eSchool Mobile (Android/iOS)
+  * Dashboard Admin & Siakad eSchool Web
+  * API & sistem pihak ketiga resmi yang terintegrasi
+* Semua interaksi melalui formulir resmi, layanan bantuan, dan komunikasi digital eSchool
 
-**Bagian II – Informasi yang diproses NoBox atas nama Anda**
+Namun, **tidak berlaku** untuk pihak ketiga atau layanan yang memiliki kebijakan privasi terpisah (misalnya penyedia layanan video conference, aplikasi pembayaran eksternal, dll).
 
-Bagian ini membahas cara NoBox menangani data yang Anda percayakan kepada NoBox saat Anda menggunakan produk dan layanan kami, atau saat Anda membagikan informasi pribadi atau rahasia apa pun kepada kami saat meminta dukungan pelanggan.
+**Struktur Kebijakan Privasi**
 
-**Bagian III – Umum**
+**Bagian I – Informasi yang Dikumpulkan dan Dikendalikan oleh eSchool**Kami mengumpulkan data pengguna saat:
 
-Bagian ini membahas topik yang relevan dengan Bagian I dan II, dan topik umum lainnya seperti komitmen keamanan NoBox dan bagaimana kami akan memberi tahu Anda saat kami mengubah Kebijakan Privasi ini.
+* Sekolah melakukan pendaftaran dan aktivasi akun
+* Pengguna login dan menggunakan aplikasi
+* Mengisi formulir atau menghubungi tim bantuan eSchool
+
+Jenis data meliputi:
+
+* Nama, email, nomor induk siswa/guru, peran pengguna
+* Informasi kelas, mapel, jadwal, dan catatan akademik
+* Data teknis seperti alamat IP, jenis perangkat, dan aktivitas login
+
+Data ini digunakan untuk:
+
+* Menyediakan layanan belajar-mengajar dan pengelolaan administrasi
+* Mengelola autentikasi pengguna dan keamanan sistem
+* Memberikan dukungan dan informasi yang relevan sesuai peran
+
+**Bagian II – Informasi yang Diproses atas Nama Sekolah**eSchool bertindak sebagai **penyedia layanan sistem informasi akademik**. Artinya, semua data guru, siswa, dan orang tua yang dikelola oleh admin sekolah akan diproses **atas instruksi dan tanggung jawab pihak sekolah**.Kami **tidak menggunakan data tersebut untuk tujuan internal kami** di luar kepentingan operasional sistem, kecuali telah mendapatkan izin dari pihak sekolah sebagai pemilik data.**Bagian III – Ketentuan Umum**
+
+* Kami memiliki **komitmen keamanan tinggi** sebagaimana tercantum dalam \[Kebijakan Keamanan eSchool].
+* Kami akan **memberikan pemberitahuan** melalui aplikasi atau email jika terdapat perubahan pada kebijakan ini.
+* Pengguna memiliki hak untuk meminta penghapusan atau pembaruan data pribadi, dengan koordinasi melalui admin sekolah.
+
+**Hubungi Kami**
+
+Jika Anda memiliki pertanyaan atau ingin mengetahui lebih lanjut tentang kebijakan privasi ini, silakan hubungi kami melalui halaman resmi **Pusat Bantuan eSchool** di [eschool.ac.id](https://www.eschool.ac.id/#contact-us) atau kontak admin sekolah Anda.
