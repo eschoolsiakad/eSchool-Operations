@@ -2,7 +2,7 @@
 icon: rectangle-history-circle-user
 ---
 
-# Riwayat Cuti&#x20;
+# Riwayat Cuti
 
 **Cuti Saya**
 

@@ -2,7 +2,7 @@
 icon: sack-dollar
 ---
 
-# Tunjangan & Potongan&#x20;
+# Tunjangan & Potongan
 
 ### **Tunjangan & Potongan**
 
