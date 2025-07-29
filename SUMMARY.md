@@ -55,7 +55,6 @@
 
 * [PENGATURAN PERSONAL](pengaturan-personal/README.md)
   * [Ubah Password](pengaturan-personal/ubah-password.md)
-  * [Page 1](pengaturan-personal/page-1.md)
 
 ## Penyelesaian Masalah
 
