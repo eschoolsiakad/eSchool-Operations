@@ -37,7 +37,7 @@
   * [Penugasan](menu-wali/pesan/dasbor-pesan.md)
   * [Pengumpulan Tugas](menu-wali/pesan/kotak-masuk.md)
 * [Siswa](menu-wali/formulir.md)
-* [Kehadiran](menu-wali/kehadiran.md)
+* [Kehadiran Anak](menu-wali/kehadiran-anak.md)
 * [Guru](menu-wali/guru.md)
 * [Jadwal Pelajaran Anak](menu-wali/jadwal-pelajaran-anak.md)
 * [Absen Mapel](menu-wali/absen-mapel.md)
