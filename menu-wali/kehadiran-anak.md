@@ -1,6 +1,6 @@
 # Kehadiran Anak
 
-<div align="left"><figure><img src="../.gitbook/assets/kehadiran.png" alt="" width="259"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/kehadiran.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 

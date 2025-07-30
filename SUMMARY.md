@@ -47,6 +47,9 @@
 * [Hasil](menu-wali/hasil.md)
 * [Laporan](menu-wali/laporan.md)
 * [Hari Libur](menu-wali/hari-libur.md)
+* [Biaya](menu-wali/biaya/README.md)
+  * [Tagihan](menu-wali/biaya/tagihan.md)
+  * [Riwayat](menu-wali/biaya/riwayat.md)
 * [Galeri](menu-wali/galeri.md)
 * [Pengaturan](menu-wali/pengaturan.md)
 
