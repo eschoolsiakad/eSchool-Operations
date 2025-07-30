@@ -19,7 +19,7 @@
     * [Penugasan](menu-siswa/pesan/dasbor-pesan/penugasan.md)
   * [Dikumpulkan](menu-siswa/pesan/kotak-masuk.md)
 * [Profile Siswa](menu-siswa/formulir.md)
-* [Kehadiran](menu-siswa/kehadiran.md)
+* [Kehadiran Siswa](menu-siswa/kehadiran-siswa.md)
 * [Jadwal Pelajaran Harian](menu-siswa/jadwal-pelajaran-harian.md)
 * [Absen Mapel](menu-siswa/absen-mapel.md)
 * [Pengumuman](menu-siswa/pengumuman.md)
