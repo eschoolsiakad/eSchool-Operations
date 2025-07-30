@@ -37,6 +37,8 @@
     * [Absensi](guru/perusahaan/absensi/README.md)
       * [Dashboard Absensi](guru/perusahaan/absensi/dashboard-absensi.md)
       * [Absensi Kegiatan Khusus](guru/perusahaan/absensi/absensi-kegiatan-khusus.md)
+      * [Absensi per Pelajaran](guru/perusahaan/absensi/absensi-per-pelajaran/README.md)
+        * [Tambah Absensi](guru/perusahaan/absensi/absensi-per-pelajaran/tambah-absensi.md)
 * [Admin](admin/README.md)
   * [Kelola Siswa](admin/kelola-siswa.md)
 
