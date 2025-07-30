@@ -1,12 +1,22 @@
-# Pilih Bahasa
+---
+icon: hand-wave
+---
 
-Sedang mengalihkan ke halaman pemilihan bahasa...Jika tidak diarahkan otomatis, klik \[di sini]\(../README.md).\
-&#x20; // Tampilkan fallback setelah 3 detik jika redirect gagal\
-&#x20; setTimeout(function () {\
-&#x20;   document.getElementById('fallback').style.display = 'block';\
-&#x20; }, 3000);\
-\
-&#x20; // Lakukan redirect\
-&#x20; setTimeout(function () {\
-&#x20;   window.location.href = "/";\
-&#x20; }, 1000);
+<p align="center">
+  <img src="Banner eSchool.png" class="cover"/>
+</p>
+
+# <i class="fa-solid fa-hands"></i> Selamat Datang di eSchool Siakad
+
+Di sini, Anda akan menemukan semua informasi tentang fitur-fitur unggulan eSchool yang dirancang untuk mendukung proses belajar-mengajar secara digital, efisien, dan terintegrasi.
+
+Jelajahi berbagai kemampuan platform ini — mulai dari pengelolaan akademik, komunikasi antara sekolah dan orangtua, hingga akses pembelajaran yang mudah melalui aplikasi web dan mobile. Kami siap membantu Anda memaksimalkan penggunaan eSchool sesuai dengan peran Anda, baik sebagai staf, guru, siswa, maupun orangtua!
+
+<iframe width="742" height="418"
+    src="https://www.youtube.com/embed/2iZ1-l0GkNo"
+    title="Video YouTube"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+</iframe>

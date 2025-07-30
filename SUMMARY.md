@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Pilih Bahasa](README.md)
-* [Selamat Datang di eSchool](<README (1).md>)
+* [Selamat Datang di eSchool](README.md)
 
 ## Pengenalan
 
