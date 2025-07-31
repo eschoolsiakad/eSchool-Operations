@@ -46,6 +46,8 @@
   * [Humas](guru/humas/README.md)
     * [Informasi & Konten](guru/humas/informasi-and-konten.md)
     * [Hari Libur](guru/humas/hari-libur.md)
+  * [TU](guru/tu/README.md)
+    * [Cuti](guru/tu/cuti.md)
 * [Admin](admin/README.md)
   * [Kelola Siswa](admin/kelola-siswa.md)
 
