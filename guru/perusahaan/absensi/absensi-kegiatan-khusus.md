@@ -1,6 +1,6 @@
 # Absensi Kegiatan Khusus
 
-Fitur **Absensi Kegiatan Khusus** pada E-SCHOOL Siakad Plus SMKN 8 Malang memudahkan guru atau operator kelas dalam mencatat kehadiran harian siswa dengan efisien. Tampilan berbasis daftar lengkap dengan tombol pilihan jenis kehadiran menjadikan proses ini lebih cepat, terstruktur, dan akurat.
+Fitur **Absensi Kegiatan Khusus** pada E-SCHOOL Siakad Plus memudahkan guru atau operator kelas dalam mencatat kehadiran harian siswa dengan efisien. Tampilan berbasis daftar lengkap dengan tombol pilihan jenis kehadiran menjadikan proses ini lebih cepat, terstruktur, dan akurat.
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
