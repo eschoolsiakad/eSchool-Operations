@@ -7,7 +7,7 @@ icon: gauge-min
 
 Dashboard Kesiswaan di sistem **E-SCHOOL Siakad Plus SMKN 8 Malang** adalah pusat informasi komprehensif yang dirancang untuk memudahkan pengelolaan data siswa secara real-time dan terintegrasi. Dengan tampilan visual yang intuitif, dashboard ini menyajikan data penting dalam bentuk grafik interaktif, mempermudah pihak sekolah dalam pengambilan keputusan dan monitoring.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Fitur Utama
 

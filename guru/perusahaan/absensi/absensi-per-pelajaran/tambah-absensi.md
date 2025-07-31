@@ -6,7 +6,7 @@ description: Modul Presensi Per Mata Pelajaran
 
 Fitur **Tambah Absensi** memungkinkan guru mencatat kehadiran siswa secara real-time untuk setiap sesi mata pelajaran tertentu. Formulir ini wajib diisi dengan benar agar data kehadiran tercatat rapi dan dapat digunakan dalam laporan resmi sekolah.
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Langkah-Langkah Pengisian Form &#x20;
 
