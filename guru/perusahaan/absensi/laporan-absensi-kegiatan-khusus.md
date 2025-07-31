@@ -1,3 +1,7 @@
+---
+description: Monitoring Presensi di Luar Kegiatan Belajar Mengajar
+---
+
 # Laporan Absensi Kegiatan Khusus
 
 Halaman **Laporan Absensi Kegiatan Khusus** di E-SCHOOL Siakad Plus dirancang untuk mencatat dan memantau kehadiran siswa dalam kegiatan **non-pelajaran.** Fitur ini memisahkan absensi kegiatan khusus dari absensi rutin harian dan per mata pelajaran, sehingga pelaporan menjadi lebih spesifik dan tertata.

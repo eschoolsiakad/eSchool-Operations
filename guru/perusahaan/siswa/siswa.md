@@ -1,4 +1,5 @@
 ---
+description: Pengelolaan Data Peserta Didik yang Rapi, Terstruktur, dan Mudah Diakses
 icon: screen-users
 ---
 

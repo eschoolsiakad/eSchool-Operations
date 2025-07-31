@@ -1,3 +1,7 @@
+---
+description: Mengelola Kehadiran Siswa Lebih Cepat, Mudah, dan Terpusat
+---
+
 # Absensi Kegiatan Khusus
 
 Fitur **Absensi Kegiatan Khusus** pada E-SCHOOL Siakad Plus memudahkan guru atau operator kelas dalam mencatat kehadiran harian siswa dengan efisien. Tampilan berbasis daftar lengkap dengan tombol pilihan jenis kehadiran menjadikan proses ini lebih cepat, terstruktur, dan akurat.

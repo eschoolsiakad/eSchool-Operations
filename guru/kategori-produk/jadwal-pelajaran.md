@@ -1,4 +1,5 @@
 ---
+description: Visualisasi Waktu Mengajar yang Jelas dan Terstruktur
 icon: calendar-days
 ---
 

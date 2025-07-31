@@ -1,4 +1,5 @@
 ---
+description: Mengelola dan Memantau Penugasan Siswa Secara Terstruktur
 icon: file-plus
 ---
 

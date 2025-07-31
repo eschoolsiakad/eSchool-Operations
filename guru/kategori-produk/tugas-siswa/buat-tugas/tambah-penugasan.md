@@ -1,4 +1,5 @@
 ---
+description: Mengelola Penugasan Siswa Secara Digital, Terjadwal, dan Terdokumentasi
 icon: plus-large
 ---
 

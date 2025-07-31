@@ -43,6 +43,9 @@
       * [Peringkat Poin Alpa Siswa](guru/perusahaan/absensi/peringkat-poin-alpa-siswa.md)
       * [Laporan Absensi Kegiatan Khusus](guru/perusahaan/absensi/laporan-absensi-kegiatan-khusus.md)
       * [Page 1](guru/perusahaan/absensi/page-1.md)
+  * [Humas](guru/humas/README.md)
+    * [Informasi & Konten](guru/humas/informasi-and-konten.md)
+    * [Hari Libur](guru/humas/hari-libur.md)
 * [Admin](admin/README.md)
   * [Kelola Siswa](admin/kelola-siswa.md)
 

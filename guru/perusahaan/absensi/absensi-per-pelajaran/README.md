@@ -1,3 +1,7 @@
+---
+description: Monitoring Kehadiran Berdasarkan Sesi Pengajaran
+---
+
 # Absensi per Pelajaran
 
 Halaman **Absensi per Pelajaran** di sistem E-SCHOOL Siakad Plus merupakan fitur penting yang memungkinkan guru dan admin untuk mencatat serta meninjau kehadiran siswa berdasarkan **mata pelajaran** yang berlangsung pada **hari tertentu**.

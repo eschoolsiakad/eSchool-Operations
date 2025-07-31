@@ -1,3 +1,7 @@
+---
+description: Monitoring Ketidakhadiran untuk Tindak Lanjut Disiplin
+---
+
 # Peringkat Poin Alpa Siswa
 
 Fitur **Peringkat Poin Alpa Siswa** pada E-SCHOOL Siakad Plus adalah alat bantu penting dalam memantau dan mengevaluasi tingkat kehadiran siswa berdasarkan **jumlah jam alfa (tidak hadir tanpa keterangan)** yang telah terakumulasi. Halaman ini secara otomatis menyusun **peringkat siswa dengan poin alpa terbanyak**, baik untuk seluruh tingkatan maupun per jenjang kelas.
