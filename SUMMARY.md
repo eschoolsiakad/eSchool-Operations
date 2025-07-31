@@ -28,7 +28,7 @@
       * [Hasil Ujian](guru/kategori-produk/ujian-offline/hasil-ujian.md)
     * [Ujian Online](guru/kategori-produk/ujian-online/README.md)
       * [Dashboard Ujian Online](guru/kategori-produk/ujian-online/dashboard-ujian-online.md)
-      * [Ujian](guru/kategori-produk/ujian-online/ujian.md)
+      * [Ujian Online](guru/kategori-produk/ujian-online/ujian-online.md)
       * [Bank Soal](guru/kategori-produk/ujian-online/bank-soal.md)
   * [Kesiswaan](guru/perusahaan/README.md)
     * [Siswa](guru/perusahaan/siswa/README.md)
