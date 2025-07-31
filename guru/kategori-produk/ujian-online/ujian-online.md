@@ -15,11 +15,11 @@ Halaman **Ujian Online** merupakan pusat kendali bagi guru untuk membuat, menjad
    Pilih jenjang kelas seperti X, XI, XII.
 2. **Kelas (Wajib)**\
    Pilih kelas spesifik, contoh: XII TKJ B.
-3. **Mata Pelajaran (Otomatis)**\
-   Akan terisi otomatis sesuai kelas yang dipilih.
+3. **Mata Pelajaran (Wajib)**\
+   Pilih mata Pelajaran, contoh: MULOK PJOK - Theory.
 4. **Judul Ujian (Wajib)**\
    Masukkan nama ujian, seperti: _Ujian Akhir Semester Ganjil - PJOK_.
-5. **Kunci Ujian (Opsional tapi Disarankan)**\
+5. **Kunci Ujian (Wajib)**\
    Masukkan kode akses agar hanya siswa tertentu yang bisa membuka ujian.
 6. **Durasi (Wajib)**\
    Isi durasi pengerjaan dalam menit, contoh: 60.
@@ -36,14 +36,6 @@ Halaman **Ujian Online** merupakan pusat kendali bagi guru untuk membuat, menjad
    * Aksi (Edit / Hapus / Lihat Detail)
 
 ✅ Klik tombol **Simpan** untuk mempublikasikan ujian. Klik **Tutup** jika ingin membatalkan tanpa menyimpan.
-
-***
-
-### 🧠 Tips Cerdas Penggunaan
-
-* Gunakan judul yang jelas dan konsisten, misalnya: `Ujian Akhir Semester Ganjil - PJOK`
-* Atur waktu ujian dengan memperhatikan jam efektif belajar siswa
-* Simpan kunci ujian dengan baik agar tidak bocor ke siswa sebelum waktunya
 
 ***
 
