@@ -15,7 +15,7 @@ Dashboard Kesiswaan di sistem **E-SCHOOL Siakad Plus SMKN 8 Malang** adalah pusa
 
 Dashboard ini memberikan informasi cepat dan akurat tentang jumlah siswa aktif maupun nonaktif, memungkinkan operator sekolah atau staf kesiswaan memantau dinamika peserta didik setiap saat.
 
-
+***
 
 #### 🧑‍🤝‍🧑 Distribusi Jenis Kelamin
 
@@ -29,7 +29,7 @@ Informasi ini penting untuk kepentingan perencanaan program yang inklusif dan re
 
 Dengan data ini, sekolah dapat mengatur alokasi sumber daya pendidikan, jadwal pembelajaran, dan pengawasan guru sesuai kebutuhan nyata di lapangan.
 
-
+***
 
 ### ✅ Keunggulan Dashboard Kesiswaan
 
@@ -38,7 +38,7 @@ Dengan data ini, sekolah dapat mengatur alokasi sumber daya pendidikan, jadwal p
 * **Filter Berdasarkan Kelas**: Fitur dropdown "Semua Kelas" memungkinkan penyaringan data lebih spesifik.
 * **Integrasi Sistem Akademik**: Terhubung dengan fitur kurikulum, jadwal, guru, dan lainnya dalam satu platform.
 
-
+***
 
 ### 🧠 Siapa yang Diuntungkan?
 
