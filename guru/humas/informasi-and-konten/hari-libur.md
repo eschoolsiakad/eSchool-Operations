@@ -7,7 +7,7 @@ icon: bells
 
 Fitur **Hari Libur** dalam sistem E-SCHOOL Siakad Plus dirancang untuk membantu sekolah dalam mendokumentasikan dan menyampaikan informasi resmi terkait jadwal libur kepada warga sekolah. Baik itu hari libur nasional, kegiatan internal sekolah, hingga cuti akademik, semuanya tersaji dalam daftar yang rapi dan dapat difilter dengan mudah.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧭 Navigasi Utama Halaman Hari Libur
 
