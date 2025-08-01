@@ -16,6 +16,8 @@ Halaman **Daftar Siswa** pada E-SCHOOL Siakad Plus SMKN 8 Malang menyajikan selu
 * Pengguna dapat memilih **kelas tertentu** dan **tahun ajaran aktif** untuk menyaring tampilan data.
 * Menyediakan akses cepat terhadap data siswa dari periode dan kelompok belajar yang relevan.
 
+***
+
 #### 📊 Tampilan Data yang Lengkap
 
 Tabel daftar siswa menyajikan informasi penting seperti:
