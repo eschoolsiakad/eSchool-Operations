@@ -28,7 +28,6 @@
 * [Detail Wali](menu-siswa/detail-wali.md)
 * [Hari Libur](menu-siswa/hari-libur.md)
 * [Galeri](menu-siswa/galeri.md)
-* [Pengaturan](menu-siswa/pengaturan.md)
 
 ## Menu Wali
 
@@ -50,7 +49,6 @@
   * [Tagihan](menu-wali/biaya/tagihan.md)
   * [Riwayat](menu-wali/biaya/riwayat.md)
 * [Galeri](menu-wali/galeri.md)
-* [Pengaturan](menu-wali/pengaturan.md)
 
 ***
 
