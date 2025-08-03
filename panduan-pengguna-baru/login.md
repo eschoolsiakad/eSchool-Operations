@@ -21,7 +21,7 @@ Cari dengan kata kunci: **"eSchool Siswa & Wali"**
 
 Setelah aplikasi **eSchool Mobile** terinstal, ikuti langkah berikut untuk login sesuai peran Anda:
 
-#### 👨‍🎓 Login sebagai **Siswa**
+#### &#x20;Login sebagai **Siswa**
 
 1. Buka aplikasi **eSchool Mobile**.
 2. Pilih opsi **"Login sebagai Siswa"**.
@@ -31,7 +31,7 @@ Setelah aplikasi **eSchool Mobile** terinstal, ikuti langkah berikut untuk login
    * **Password**
 4. Setelah berhasil login, Anda akan langsung diarahkan ke halaman dasbor siswa.
 
-#### 👨‍👩‍👧 Login sebagai **Orang Tua / Wali**
+#### &#x20;Login sebagai **Orang Tua / Wali**
 
 1. Buka aplikasi **eSchool Mobile**.
 2. Pilih opsi **"Login sebagai Orang Tua"**.

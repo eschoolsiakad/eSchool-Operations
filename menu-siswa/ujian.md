@@ -28,9 +28,9 @@ Fitur **Ujian** di aplikasi eSchool Mobile dirancang untuk memberikan pengalaman
 
 Untuk menjaga integritas ujian dan mencegah kecurangan, sistem menerapkan beberapa aturan penting berikut:
 
-* ❌ **Screenshot Dinonaktifkan**\
+* &#x20;**Screenshot Dinonaktifkan**\
   Siswa tidak dapat mengambil tangkapan layar selama ujian berlangsung.
-* 🚨 **Alarm Aktif saat Keluar Aplikasi**\
+* &#x20;**Alarm Aktif saat Keluar Aplikasi**\
   Jika siswa keluar dari aplikasi selama ujian berlangsung, sistem akan langsung memunculkan **alarm peringatan**.
-* ⏱️ **Auto-Submit Jika Tidak Kembali dalam 5 Detik**\
+* &#x20;**Auto-Submit Jika Tidak Kembali dalam 5 Detik**\
   Jika siswa tidak kembali ke aplikasi dalam waktu **lebih dari 5 detik**, maka sistem akan secara otomatis **mengirim hasil ujian** meskipun belum selesai.

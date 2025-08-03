@@ -1,7 +1,3 @@
----
-icon: hand-wave
----
-
 # Selamat Datang di eSchool
 
 <div align="center"><img src="Banner eSchool.png" alt=""></div>

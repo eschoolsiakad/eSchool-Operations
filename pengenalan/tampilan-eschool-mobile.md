@@ -6,30 +6,30 @@ icon: pan-frying
 
 **Akses Cepat, Navigasi Ringan, dan Informasi Akademik dalam Genggaman**
 
-## 📱 Navigasi Sederhana & Fokus pada Pembelajaran
+## &#x20;Navigasi Sederhana & Fokus pada Pembelajaran
 
 Aplikasi **eSchool Mobile untuk Siswa** dirancang dengan antarmuka yang **ringkas, intuitif, dan ramah pengguna**. Semua fitur utama ditampilkan secara terstruktur sesuai kebutuhan siswa, sehingga memudahkan dalam mengakses materi, jadwal, tugas, dan nilai — kapan pun dan di mana pun.
 
 <figure><img src="../.gitbook/assets/Dasbor%20Kirim%20Pesan%20(2).png" alt=""><figcaption></figcaption></figure>
 
-## 🧭 Fungsi Utama pada Tampilan Dasbor
+## &#x20;Fungsi Utama pada Tampilan Dasbor
 
 Halaman dasbor menyajikan informasi real-time yang relevan dan mendukung aktivitas belajar siswa setiap hari, seperti:
 
-* 📌 Jadwal pelajaran hari ini
-* 📝 Tugas yang belum dikumpulkan
-* 🎯 Nilai terbaru dari tugas atau ujian
-* 🔔 Notifikasi penting dan pengumuman dari sekolah
+* &#x20;Jadwal pelajaran hari ini
+* &#x20;Tugas yang belum dikumpulkan
+* &#x20;Nilai terbaru dari tugas atau ujian
+* &#x20;Notifikasi penting dan pengumuman dari sekolah
 
 Dengan tampilan ini, siswa dapat langsung melihat aktivitas harian tanpa perlu membuka setiap menu secara manual.
 
 <figure><img src="../.gitbook/assets/PenawaranTampilan.PNG" alt=""><figcaption></figcaption></figure>
 
-## 📊 Tampilan Data dalam Menu Mobile
+## &#x20;Tampilan Data dalam Menu Mobile
 
 Setiap menu dalam aplikasi siswa (Tugas, Nilai, Jadwal, dan Absensi) telah disesuaikan untuk perangkat seluler. Tampilan bersifat **mudah dibaca**, **ringan**, dan **responsif**, tanpa mengurangi fungsi inti dari setiap modul.
 
-## 📋 Ringkasan Tampilan & Fungsi eSchool Mobile – Portal Siswa
+## &#x20;Ringkasan Tampilan & Fungsi eSchool Mobile – Portal Siswa
 
 <figure><img src="../.gitbook/assets/PengaturanFormulirTampilan.PNG" alt=""><figcaption></figcaption></figure>
 

@@ -1,16 +1,12 @@
----
-icon: school
----
-
 # Gambaran Umum
 
-### 👋 Selamat Datang di eSchool
+### &#x20;Selamat Datang di eSchool
 
 **Platform Manajemen Sekolah Terintegrasi untuk Masa Depan Pendidikan yang Lebih Baik**
 
 ***
 
-#### 🧭 Gambaran Umum eSchool
+#### &#x20;Gambaran Umum eSchool
 
 **eSchool** adalah platform manajemen sekolah digital yang dirancang untuk memudahkan pengelolaan pembelajaran, data akademik, komunikasi, dan aktivitas sekolah dalam satu sistem yang **efisien, terstruktur, dan terintegrasi**.
 
@@ -18,11 +14,11 @@ Dengan antarmuka yang ramah pengguna dan fitur yang lengkap, eSchool membantu se
 
 ***
 
-#### ✨ Fitur dan Modul Utama
+#### &#x20;Fitur dan Modul Utama
 
 Berikut adalah fitur utama eSchool yang terbagi berdasarkan peran pengguna:
 
-**👨‍🎓 Portal Siswa**
+&#x20;**Portal Siswa**
 
 * **Manajemen Mata Pelajaran**\
   Akses daftar mapel, materi pembelajaran digital, dan unduhan file/video.
@@ -35,7 +31,7 @@ Berikut adalah fitur utama eSchool yang terbagi berdasarkan peran pengguna:
 * **Komunikasi**\
   Chat real-time dengan guru, pengumuman sekolah, dan notifikasi push.
 
-**👨‍👩‍👧‍👦 Portal Orang Tua / Wali**
+&#x20;**Portal Orang Tua / Wali**
 
 * **Monitoring Anak**\
   Dashboard akademik anak, laporan kehadiran real-time, dan progres pembelajaran.
@@ -46,7 +42,7 @@ Berikut adalah fitur utama eSchool yang terbagi berdasarkan peran pengguna:
 * **Komunikasi dengan Sekolah**\
   Chat langsung dengan guru, konsultasi akademik, dan notifikasi kegiatan sekolah.
 
-**🏫 Fitur Sekolah**
+&#x20;**Fitur Sekolah**
 
 * **Galeri Sekolah**\
   Dokumentasi kegiatan sekolah dalam bentuk foto, dengan filter tahun ajaran.
@@ -55,4 +51,4 @@ Berikut adalah fitur utama eSchool yang terbagi berdasarkan peran pengguna:
 
 <table><thead><tr><th width="124.199951171875">No</th><th>Keunggulan</th><th>Keterangan</th></tr></thead><tbody><tr><td>1</td><td>Menu Berdasarkan Peran</td><td>Antarmuka menyesuaikan jenis pengguna</td></tr><tr><td>2</td><td>Tampilan Dinamis</td><td>Disesuaikan sesuai preferensi sekolah</td></tr><tr><td>3</td><td>Tracking Aktivitas</td><td>Rekam interaksi pengguna seperti tugas, penilaian, dll</td></tr><tr><td>4</td><td>Monitoring</td><td>2 bahasa, dapat diganti dengan mudah</td></tr></tbody></table>
 
-Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://esbeta.deanry.my.id/#contact-us).
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
