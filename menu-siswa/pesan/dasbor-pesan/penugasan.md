@@ -15,7 +15,7 @@ Untuk mengerjakan tugas di eSchool Mobile, ikuti langkah-langkah berikut:
 3. Ketik jawaban Anda di kolom yang tersedia (maks. 4096 karakter) atau uploadd tugas jika diperlukan dalam bentuk dokumen.
 4. Tekan tombol **Kirim** untuk menyelesaikan proses pengumpulan.
 
-⚠️ Setelah tugas dikirim, **Anda tidak dapat mengubah jawaban**.
+&#x20;Setelah tugas dikirim, **Anda tidak dapat mengubah jawaban**.
 
 7. Setelah berhasil dikumpulkan, status tugas akan berubah menjadi **Diserahkan** dengan label **Menunggu**.
 8. Jika tugas diterima maka status tugas akan berubah menjadi **Diterima** dengan **komentar** serta **nilai** yang didapat.

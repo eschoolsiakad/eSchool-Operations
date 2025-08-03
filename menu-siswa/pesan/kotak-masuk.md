@@ -4,3 +4,25 @@ icon: inbox
 
 # Dikumpulkan
 
+<figure><img src="../../.gitbook/assets/329ddde7-75fd-41dd-9710-5dcbd19dd990.png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### **Halaman Tugas (Siswa)**
+
+Halaman **Tugas** dirancang untuk memudahkan siswa dalam memantau seluruh aktivitas tugas yang berkaitan dengan pembelajaran. Tampilan ini terdiri dari dua bagian utama: **Ditugaskan** dan **Dikumpulkan** yang dapat diakses melalui tab navigasi atas.
+
+**🔍 Fitur Utama:**
+
+* **Filter Mapel:** Siswa dapat memilih "Semua Mapel" atau langsung memfilter berdasarkan mata pelajaran seperti BIG, PKN, BIN, dan lainnya agar lebih fokus dalam pencarian tugas tertentu.
+* **Daftar Tugas:** Menampilkan tugas berdasarkan tanggal pengumpulan dan status pengerjaan:
+  * **Judul Tugas**: Terlihat ringkas dan jelas.
+  * **Mata Pelajaran**: Diberi label warna biru muda untuk visibilitas tinggi.
+  * **Jatuh Tempo**: Dilengkapi ikon kalender untuk memperjelas deadline.
+  * **Status**:
+    * ✅ _Diterima \[nilai]_ – menunjukkan tugas sudah dinilai.
+    * 📤 _Dikumpulkan_ – tugas sudah dikirim tapi belum dinilai.
+
+**🧾 Desain Interaktif:**
+
+* Ilustrasi pada setiap tugas menjadikan tampilan lebih menarik dan informatif.
+* Status tugas dan warna disesuaikan agar siswa bisa cepat membedakan mana yang sudah selesai dan mana yang masih diproses.
+* Bottom navigation tetap tersedia untuk akses cepat ke halaman lain (beranda, tugas, dan menu utama lainnya).

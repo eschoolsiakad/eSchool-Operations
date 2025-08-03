@@ -24,7 +24,7 @@ Fitur **Ujian** di aplikasi eSchool Mobile dirancang untuk memberikan pengalaman
 
 ***
 
-#### 🔐 Mekanisme Keamanan Ujian
+#### &#x20;Mekanisme Keamanan Ujian
 
 Untuk menjaga integritas ujian dan mencegah kecurangan, sistem menerapkan beberapa aturan penting berikut:
 
