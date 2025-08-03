@@ -1,12 +1,17 @@
 ---
-hidden: true
+icon: hand-wave
 ---
 
-# Pilih Bahasa
+# Selamat Datang di eSchool
 
-Sedang mengalihkan ke halaman pemilihan bahasa... Jika tidak diarahkan otomatis, klik di sini.
+<div align="center"><img src="Banner eSchool.png" alt=""></div>
 
-\
-&#x20; setTimeout(function () {\
-&#x20;   document.getElementById('fallback').style.display = 'block';\
-&#x20; }, 3000);
+## <i class="fa-solid">:solid:</i>Selamat Datang di eSchool Siakad Mobile Siswa & Wali
+
+Selamat datang di **eSchool Siakad Mobile**, aplikasi pembelajaran digital yang dirancang khusus untuk memberikan kemudahan dan kenyamanan bagi **siswa** dan **orang tua/wali** dalam mengikuti serta memantau kegiatan belajar secara langsung dari perangkat mobile.
+
+Di dalam aplikasi ini, Anda dapat mengakses berbagai fitur penting — mulai dari **jadwal pelajaran, tugas, dan nilai** bagi siswa, hingga **monitoring perkembangan akademik dan kehadiran anak** bagi orang tua.
+
+Kami hadir untuk membantu Anda memaksimalkan penggunaan eSchool sesuai peran Anda, baik sebagai **pelajar yang aktif belajar**, maupun sebagai **wali yang peduli terhadap pendidikan anak**.
+
+Mari bersama wujudkan pengalaman belajar yang lebih **cerdas, terarah, dan terhubung** melalui eSchool Mobile.
