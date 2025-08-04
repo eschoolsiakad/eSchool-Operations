@@ -24,7 +24,7 @@
 * [Pengumuman](menu-siswa/pengumuman.md)
 * [Ujian](menu-siswa/ujian/README.md)
   * [Ujian Online](menu-siswa/ujian/ujian-online/README.md)
-    * [Pengerjaan Ujian Online](menu-siswa/ujian/ujian-online/pengerjaan-ujian-online.md)
+    * [Pengerjaan Ujian Online](menu-siswa/ujian.md)
   * [Ujian Offline](menu-siswa/ujian/ujian-offline.md)
 * [Hasil](menu-siswa/hasil.md)
 * [Laporan](menu-siswa/laporan.md)
