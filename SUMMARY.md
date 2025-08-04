@@ -13,10 +13,10 @@
 
 ## Menu Siswa
 
-* [Tugas](menu-siswa/pesan/README.md)
-  * [Ditugaskan](menu-siswa/pesan/dasbor-pesan/README.md)
-    * [Penugasan](menu-siswa/pesan/dasbor-pesan/penugasan.md)
-  * [Dikumpulkan](menu-siswa/pesan/kotak-masuk.md)
+* [Tugas](menu-siswa/tugas/README.md)
+  * [Ditugaskan](menu-siswa/tugas/dasbor-pesan/README.md)
+    * [Penugasan](menu-siswa/tugas/dasbor-pesan/penugasan.md)
+  * [Dikumpulkan](menu-siswa/tugas/kotak-masuk.md)
 * [Profile Siswa](menu-siswa/formulir.md)
 * [Kehadiran Siswa](menu-siswa/kehadiran-siswa.md)
 * [Jadwal Pelajaran Harian](menu-siswa/jadwal-pelajaran-harian.md)
