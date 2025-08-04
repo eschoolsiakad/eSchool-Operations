@@ -1,6 +1,0 @@
----
-icon: memo
----
-
-# Ujian Offline
-

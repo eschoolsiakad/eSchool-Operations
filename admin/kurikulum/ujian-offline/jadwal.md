@@ -1,6 +1,0 @@
----
-icon: calendar-range
----
-
-# Jadwal
-
