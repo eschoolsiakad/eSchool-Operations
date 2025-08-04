@@ -4,7 +4,7 @@ icon: ballot-check
 
 # Ujian Online
 
-<div><figure><img src="../../../.gitbook/assets/ujianonline.jpg" alt="" width="288"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/filterujian.jpg" alt="" width="288"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/ujianonline.jpg" alt="" width="288"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/filterujian.jpg" alt="" width="288"><figcaption></figcaption></figure></div>
 
 #### **Ujian Online - Pantauan Orang Tua**
 
