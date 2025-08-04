@@ -62,7 +62,11 @@
     * [Kelompok Belajar](admin/kurikulum/kelompok-belajar.md)
     * [Jurusan](admin/kurikulum/jurusan.md)
     * [Kelas](admin/kurikulum/kelas.md)
-    * [Jadwal Pelajaran](admin/kurikulum/jadwal-pelajaran.md)
+    * [Jadwal Pelajaran](admin/kurikulum/jadwal-pelajaran/README.md)
+      * [Buat Jadwal](admin/kurikulum/jadwal-pelajaran/buat-jadwal.md)
+      * [Jadwal Guru](admin/kurikulum/jadwal-pelajaran/jadwal-guru.md)
+    * [Tugas Siswa](admin/kurikulum/tugas-siswa/README.md)
+      * [Pengumpulan](admin/kurikulum/tugas-siswa/pengumpulan.md)
     * [Ujian Online](admin/kurikulum/ujian-online/README.md)
       * [Dashboard Ujian Online](admin/kurikulum/ujian-online/dashboard-ujian-online.md)
       * [Ujian Online](admin/kurikulum/ujian-online/ujian-online/README.md)
@@ -73,7 +77,6 @@
         * [Status Ujian Online](admin/kurikulum/ujian-online/ujian-online/status-ujian-online.md)
         * [Edit Online Online](admin/kurikulum/ujian-online/ujian-online/edit-online-online.md)
       * [Bank Soal](admin/kurikulum/ujian-online/bank-soal.md)
-    * [Buat Jadwal](admin/kurikulum/buat-jadwal.md)
 
 ## Penyelesaian Masalah
 
