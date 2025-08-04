@@ -73,6 +73,7 @@
         * [Status Ujian Online](admin/kurikulum/ujian-online/ujian-online/status-ujian-online.md)
         * [Edit Online Online](admin/kurikulum/ujian-online/ujian-online/edit-online-online.md)
       * [Bank Soal](admin/kurikulum/ujian-online/bank-soal.md)
+    * [Kelas](admin/kurikulum/kelas.md)
 
 ## Penyelesaian Masalah
 

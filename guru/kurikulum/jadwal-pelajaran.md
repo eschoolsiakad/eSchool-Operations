@@ -7,7 +7,7 @@ icon: calendar-days
 
 Halaman **Jadwal Pelajaran** di sistem **E-SCHOOL Siakad Plus** memberikan tampilan visual mingguan yang interaktif dan mudah dibaca, khusus untuk masing-masing guru. Melalui fitur ini, guru dapat melihat dan mengelola jam mengajar mereka dalam bentuk **kalender harian** yang ringkas dan informatif.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Tujuan Fitur
 
