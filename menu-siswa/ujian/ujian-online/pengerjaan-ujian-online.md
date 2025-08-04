@@ -1,6 +1,6 @@
-# Ujian
+# Pengerjaan Ujian Online
 
-<figure><img src="../.gitbook/assets/ujian.webp" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ujian.webp" alt="" width="375"><figcaption></figcaption></figure>
 
 **Kerjakan Soal Lebih Aman dan Terstruktur dengan Kontrol Penuh**
 
