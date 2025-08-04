@@ -13,7 +13,7 @@ Sebelum mengerjakan tugas, kamu akan diarahkan terlebih dahulu ke halaman **daft
 1. Buka aplikasi **eSchool Mobile**, lalu ketuk ikon **Tugas** di bagian bawah layar.
 2. Di sini, kamu akan melihat dua tab:
    * [**Ditugaskan**](./): Menampilkan tugas-tugas yang masih perlu kamu kerjakan.
-   * [**Dikumpulkan**](../kotak-masuk.md): Menampilkan tugas yang sudah kamu kirim.
+   * [**Dikumpulkan**](../dikumpulkan.md): Menampilkan tugas yang sudah kamu kirim.
 3. Kamu bisa memfilter tugas berdasarkan **mata pelajaran** dengan mengetuk nama pelajaran seperti PKN, BIG, BIN, dan lainnya.
 4. Gunakan tombol **Urutkan Berdasarkan** untuk mengatur daftar tugas sesuai kebutuhan, seperti:
    * Ditugaskan paling baru atau paling lama
