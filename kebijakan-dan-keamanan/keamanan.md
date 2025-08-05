@@ -48,4 +48,7 @@ Kami juga:
 
 ***
 
-Jika Anda memiliki pertanyaan terkait perlindungan data atau kebijakan privasi di eSchool, silakan hubungi tim kami melalui halaman[ **Pusat Bantuan eSchool**.](https://www.eschool.ac.id/#contact-us)
+#### 📬 Hubungi Kami
+
+Punya pertanyaan seputar privasi data Anda?\
+Silakan hubungi tim kami melalui [Pusat Bantuan eSchool](https://eschool.ac.id) atau hubungi langsung admin sekolah Anda.

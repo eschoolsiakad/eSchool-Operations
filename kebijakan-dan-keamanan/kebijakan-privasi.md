@@ -1,7 +1,81 @@
 ---
+description: Melindungi Data Pendidikan dengan Transparansi dan Kendali Penuh
 icon: lock-keyhole
 ---
 
 # Kebijakan Privasi
 
-##
+### Komitmen Kami terhadap Privasi Digital Pendidikan
+
+#### 📌 Komitmen Privasi Kami
+
+Di eSchool, kami percaya bahwa **privasi adalah hak fundamental**, terutama dalam lingkungan pendidikan. Oleh karena itu, kami berkomitmen untuk:
+
+* Hanya mengumpulkan data yang **benar-benar diperlukan** untuk operasional akademik dan administrasi sekolah.
+* **Tidak menjual, membagikan, atau memonetisasi data pribadi** pengguna — termasuk dalam versi layanan gratis.
+* Menyampaikan informasi kebijakan ini dengan bahasa yang **jelas, transparan, dan mudah dipahami**.
+
+Kebijakan ini bertujuan untuk menjelaskan secara terbuka mengenai:
+
+* Jenis data yang kami kumpulkan
+* Bagaimana data digunakan dan disimpan
+* Hak Anda atas kontrol dan pengelolaan data
+
+***
+
+#### 🌐 Ruang Lingkup Kebijakan
+
+Kebijakan Privasi ini berlaku untuk seluruh layanan digital dalam ekosistem eSchool, meliputi:
+
+* **Aplikasi eSchool Mobile** (Android & iOS)
+* **Dashboard Admin** dan **SIAKAD Web eSchool**
+* **API dan integrasi sistem resmi pihak ketiga**
+* Interaksi melalui formulir, layanan bantuan, dan komunikasi digital yang sah
+
+> ❗Kebijakan ini **tidak berlaku** untuk layanan eksternal atau pihak ketiga yang memiliki kebijakan privasi terpisah (misalnya video conference, gateway pembayaran, dll).
+
+***
+
+#### 📂 Struktur Kebijakan Privasi
+
+**I. Informasi yang Dikumpulkan dan Dikendalikan oleh eSchool**
+
+Data dikumpulkan saat:
+
+* Pendaftaran akun sekolah
+* Pengguna login atau mengakses layanan
+* Pengisian formulir atau kontak dengan tim bantuan
+
+Jenis data meliputi:
+
+* Nama, email, NIS/NIP, peran pengguna
+* Informasi kelas, mata pelajaran, jadwal, dan catatan akademik
+* Data teknis: alamat IP, tipe perangkat, riwayat aktivitas/login
+
+Penggunaan data:
+
+* Menyediakan layanan belajar-mengajar dan manajemen sekolah
+* Verifikasi pengguna & menjaga keamanan sistem
+* Menyediakan bantuan sesuai kebutuhan pengguna
+
+***
+
+**II. Informasi yang Diproses atas Nama Sekolah**
+
+Sebagai penyedia sistem informasi, eSchool **memproses data atas instruksi sekolah**.\
+Kami tidak akan menggunakan data siswa, guru, atau orang tua untuk tujuan internal kami **kecuali ada persetujuan tertulis dari institusi pemilik data.**
+
+***
+
+**III. Ketentuan Umum**
+
+* Kami menjaga keamanan data sesuai dengan standar dalam Kebijakan Keamanan eSchool.
+* Setiap perubahan pada kebijakan ini akan diberitahukan melalui aplikasi atau email.
+* Pengguna dapat meminta pembaruan atau penghapusan data pribadi melalui admin sekolah.
+
+***
+
+#### 📬 Hubungi Kami
+
+Punya pertanyaan seputar privasi data Anda?\
+Silakan hubungi tim kami melalui [Pusat Bantuan eSchool](https://eschool.ac.id) atau hubungi langsung admin sekolah Anda.
