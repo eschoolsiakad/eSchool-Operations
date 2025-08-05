@@ -1,0 +1,42 @@
+---
+icon: pen
+---
+
+# Edit
+
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+### **Cara Mengedit Ujian Offline di E-SCHOOL SIAKAD Plus**
+
+#### **1. Akses Menu Ujian Offline**
+
+* Pada sidebar kiri, klik menu **"Kurikulum"**.
+* Pilih submenu **"Ujian Offline"** > **"Ujian"**.
+* Di sini, Anda akan melihat daftar ujian offline yang sudah terdaftar, lengkap dengan informasi Tahun Ajaran, Nama Ujian, Jadwal Dibuat, dan Publikasi Hasil.
+
+#### **2. Pilih Ujian yang Akan Diedit**
+
+* Di kolom **"Aksi"** sebelah kanan, klik icon **titik tiga (⋮)** pada baris ujian yang ingin Anda edit.
+* Akan muncul beberapa opsi tindakan, pilih **"Edit"**.
+
+#### **3. Edit Detail Ujian di Modal Popup**
+
+* Setelah memilih **Edit**, akan muncul **modal form** seperti yang terlihat di gambar.
+* Terdapat dua field yang dapat diedit:
+  * **Nama Ujian**: Isikan nama ujian sesuai kebutuhan.
+  *   **Deskripsi Ujian**: Isi dengan penjelasan mengenai ujian tersebut. Misalnya:
+
+      > _"Ujian ini mengukur pemahaman siswa terhadap teori dan teknik dasar permainan bola besar (sepak bola & bola basket), termasuk aturan permainan, strategi tim, dan manfaat kebugaran jasmani. Soal terdiri dari 20 pilihan ganda dengan waktu pengerjaan 60 menit."_
+* Setelah selesai mengedit, klik tombol **"Simpan"** untuk menyimpan perubahan.
+
+***
+
+### **Catatan Penting:**
+
+* **Hanya user dengan role yang memiliki akses ke menu Kurikulum** yang dapat melakukan edit ujian.
+* Perubahan akan otomatis disimpan dan diperbaharui di daftar ujian setelah klik **Simpan**.
+* Pastikan data yang diinput sudah benar karena ini berkaitan dengan detail pelaksanaan ujian siswa.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
