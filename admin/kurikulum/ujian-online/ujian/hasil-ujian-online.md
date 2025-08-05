@@ -1,0 +1,55 @@
+---
+icon: square-poll-horizontal
+---
+
+# Hasil Ujian Online
+
+<figure><img src="../../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+Menu **Hasil Ujian Online** berfungsi untuk menampilkan daftar nilai dari ujian online yang telah dikerjakan oleh siswa. Halaman ini bersifat **read-only** (hanya untuk melihat hasil), sehingga pengguna tidak dapat melakukan perubahan data nilai pada halaman ini.
+
+***
+
+#### **Informasi yang Ditampilkan**
+
+Pada halaman ini, sistem akan menampilkan rincian sebagai berikut:
+
+| Informasi              | Keterangan                                          |
+| ---------------------- | --------------------------------------------------- |
+| **Nama Kelas**         | Kelas yang mengikuti ujian tersebut.                |
+| **Mata Pelajaran**     | Mata pelajaran dari ujian yang dikerjakan.          |
+| **Judul Ujian Online** | Nama atau judul ujian yang telah dibuat sebelumnya. |
+
+***
+
+#### **Daftar Hasil Ujian**
+
+Di bagian bawah, terdapat tabel **Daftar Hasil** yang menampilkan:
+
+* **Nomor Urut**
+* **Nama Siswa**\
+  Daftar nama-nama siswa yang telah mengikuti ujian.
+* **Nilai**\
+  Nilai akhir yang diperoleh siswa dari ujian tersebut (format: Nilai Perolehan / Nilai Maksimal).
+
+Fitur **Search** juga tersedia untuk memudahkan pencarian nama siswa secara cepat, terutama saat jumlah data siswa cukup banyak.
+
+***
+
+#### **Catatan Penting:**
+
+* Halaman ini hanya digunakan untuk **melihat dan memantau hasil ujian**.
+* Tidak terdapat fitur edit atau manipulasi nilai di halaman ini.
+* Untuk melakukan perubahan atau koreksi nilai, proses tersebut harus dilakukan melalui fitur yang tersedia di menu pengelolaan ujian lainnya.
+
+***
+
+#### **Fungsi Halaman Ini:**
+
+* Sebagai **monitoring hasil akhir** ujian online yang telah dikerjakan.
+* Membantu guru/wali kelas untuk merekap nilai secara manual bila diperlukan.
+* Sebagai referensi cepat bagi operator kurikulum untuk validasi data hasil ujian siswa.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

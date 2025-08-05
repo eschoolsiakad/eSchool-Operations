@@ -4,3 +4,103 @@ icon: chart-column
 
 # Dashboard Ujian Online
 
+<figure><img src="../../../.gitbook/assets/image (39).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Dashboard **Ujian Online** merupakan tampilan utama yang menyajikan **ringkasan statistik** serta **monitoring pelaksanaan ujian online** secara real-time. Halaman ini menjadi pusat kendali bagi Admin/Guru untuk memantau status ujian, performa siswa, dan aktivitas ujian secara menyeluruh.
+
+***
+
+#### **Komponen-Komponen Dashboard Ujian Online**
+
+| Komponen            | Deskripsi                                                                |
+| ------------------- | ------------------------------------------------------------------------ |
+| **Total Ujian**     | Menampilkan jumlah total ujian online yang telah terdaftar di sistem.    |
+| **Ujian Aktif**     | Menunjukkan jumlah ujian yang sedang berlangsung (_live_) pada saat ini. |
+| **Ujian Mendatang** | Jumlah ujian yang telah dijadwalkan namun belum dimulai.                 |
+| **Ujian Selesai**   | Jumlah ujian yang sudah selesai dilaksanakan.                            |
+
+***
+
+#### **Statistik Partisipasi**
+
+Menampilkan diagram donut yang mengilustrasikan status partisipasi siswa pada semua ujian:
+
+* **Belum Mengikuti**
+* **Sedang Berlangsung**
+* **Selesai**
+
+Visualisasi ini membantu memantau progres siswa terhadap ujian-ujian yang tersedia.
+
+***
+
+#### **Daftar Ujian Aktif**
+
+Bagian ini menampilkan detail ujian yang saat ini sedang berlangsung, dengan informasi sebagai berikut:
+
+* **Judul Ujian**
+* **Mata Pelajaran**
+* **Kelas**
+* **Jumlah Peserta Aktif**
+* **Status** (Aktif/Selesai)
+
+***
+
+#### **Performa Ujian (Keseluruhan)**
+
+Disini ditampilkan metrik performa siswa dalam mengerjakan ujian online:
+
+* **Nilai Rata-rata** → Rata-rata nilai seluruh ujian.
+* **Tingkat Kelulusan** → Persentase siswa yang mencapai nilai kelulusan.
+* **Performa Tinggi** → Persentase siswa dengan nilai tinggi.
+* **Performa Rendah** → Persentase siswa dengan nilai rendah.
+
+***
+
+#### **Performa Per Mata Pelajaran**
+
+Merinci statistik performa ujian per mata pelajaran:
+
+* Nama Mata Pelajaran
+* Jumlah Ujian yang telah dilaksanakan.
+* Nilai Rata-rata untuk mata pelajaran tersebut.
+
+Fitur ini memudahkan analisis performa per bidang studi secara spesifik.
+
+***
+
+#### **Ujian Yang Akan Datang**
+
+Menampilkan daftar ujian yang telah dijadwalkan, namun **belum dimulai**:
+
+* Judul Ujian
+* Mata Pelajaran
+* Kelas
+* Tanggal Mulai
+* Status (Akan Datang)
+
+***
+
+#### **Ujian Selesai Terbaru**
+
+Bagian ini menunjukkan daftar ujian yang **baru saja selesai dilaksanakan**, dengan detail:
+
+* Judul Ujian
+* Mata Pelajaran
+* Kelas
+* Jumlah Peserta
+* Nilai Rata-rata
+
+Fitur ini berguna untuk memantau hasil-hasil ujian terbaru yang telah diselesaikan.
+
+***
+
+### **Fungsi Utama Dashboard Ujian Online:**
+
+* Monitoring status ujian (aktif, akan datang, selesai).
+* Memantau statistik partisipasi siswa secara real-time.
+* Melihat tren performa ujian secara global maupun per mata pelajaran.
+* Mengakses dengan cepat daftar ujian yang akan datang dan hasil ujian yang telah selesai.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
