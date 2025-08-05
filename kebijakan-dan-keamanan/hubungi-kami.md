@@ -10,7 +10,7 @@ icon: address-book
 Tertarik mencoba layanan kami?\
 Ingin melihat demo, memahami fitur, atau bertanya soal harga?
 
-📧 **Kirim email ke:** suratkita@gmail.com
+📧 **Kirim email ke:** [suratkita@gmail.com](mailto:suratkita@gmail.com)
 
 ***
 
@@ -25,7 +25,7 @@ Silakan hubungi kami jika:
 
     > Kami sedih melihat Anda pergi 😢, tapi tetap siap bantu prosesnya.
 
-📧 **Hubungi kami di:** suratkita@gmail.com
+📧 **Hubungi kami di:** [suratkita@gmail.com](mailto:eschoolac@gmail.com)
 
 ***
 
@@ -34,4 +34,4 @@ Silakan hubungi kami jika:
 Untuk informasi seputar pembelian layanan, penawaran harga institusi, atau kerja sama antar sekolah:
 
 🌐 **Kunjungi halaman kontak resmi kami di:**\
-🔗 eschool.ac.id/kontak
+🔗 [eschool.ac.id/kontak](https://eschool.ac.id/kontak)
