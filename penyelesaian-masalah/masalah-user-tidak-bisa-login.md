@@ -1,7 +1,56 @@
 ---
+description: Akun Belum Terdaftar atau Login Gagal? Ini Penjelasan & Solusinya
 icon: square-xmark
 ---
 
 # Masalah : user tidak bisa login
 
-##
+#### 📌 Penyebab Umum Gagal Login ke Website eSchool SIAKAD Plus
+
+eSchool Web **tidak mendukung pendaftaran akun secara mandiri**. Semua akun pengguna (admin, guru, siswa, orang tua) **hanya bisa dibuat oleh pihak sekolah** melalui sistem manajemen resmi.
+
+Beberapa penyebab umum login gagal:
+
+* Akun belum dibuat oleh admin sekolah
+* Data login salah (email/username/password tidak sesuai)
+* Sekolah belum terdaftar resmi di sistem eSchool
+* Akses dibatasi oleh admin sekolah
+
+***
+
+#### 🏫 Cara Mendapatkan Akses ke eSchool Web
+
+1. **Pendaftaran Sekolah**\
+   Sekolah harus terlebih dahulu mendaftar resmi melalui halaman:\
+   🔗 Daftarkan Sekolah Anda
+2. **Verifikasi & Aktivasi oleh Tim eSchool**\
+   Setelah verifikasi, akun admin utama sekolah akan dibuat dan dikirimkan melalui email resmi.
+3. **Distribusi Akun oleh Admin Sekolah**\
+   Admin sekolah akan membuat dan mendistribusikan akun untuk:
+   * Guru
+   * Siswa
+   * Orang Tua/Wali
+4. **Login ke Web eSchool**\
+   Setelah menerima akun, pengguna bisa langsung login melalui:\
+   🔗 Login eSchool Web
+
+***
+
+#### 🔐 Penting untuk Diketahui
+
+* ❌ Tidak tersedia tombol **“Buat Akun”** atau **“Sign Up”** di halaman login
+* ✅ Akun hanya bisa dibuat dan dikelola oleh admin sekolah yang telah terdaftar resmi
+* 👤 Individu (guru/siswa/orangtua) tidak diperbolehkan membuat akun tanpa melalui sekolah
+
+***
+
+#### 🆘 Butuh Bantuan?
+
+Jika Anda belum bisa login atau belum menerima akun:
+
+📍 **Langkah pertama:** Hubungi admin sekolah Anda untuk memastikan akun telah dibuat dan aktif.\
+📍 **Langkah kedua:** Pastikan informasi login yang Anda masukkan benar dan sesuai dengan akun resmi.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
