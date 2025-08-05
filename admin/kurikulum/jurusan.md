@@ -2,6 +2,7 @@
 description: >-
   Halaman Jurusan pada modul Kurikulum - Akademik berfungsi untuk mengelola
   daftar jurusan yang tersedia di sekolah
+icon: book-open-cover
 ---
 
 # Jurusan

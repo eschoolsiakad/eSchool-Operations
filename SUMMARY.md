@@ -61,6 +61,7 @@
     * [Bahasa Pengantar](admin/kurikulum/bahasa-pengantar.md)
     * [Kelompok Belajar](admin/kurikulum/kelompok-belajar.md)
     * [Jurusan](admin/kurikulum/jurusan.md)
+    * [Mata Pelajaran](admin/kurikulum/mata-pelajaran.md)
     * [Kelas](admin/kurikulum/kelas.md)
     * [Jadwal Pelajaran](admin/kurikulum/jadwal-pelajaran/README.md)
       * [Buat Jadwal](admin/kurikulum/jadwal-pelajaran/buat-jadwal.md)

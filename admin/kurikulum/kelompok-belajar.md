@@ -2,6 +2,7 @@
 description: >-
   Halaman ini digunakan untuk mengelola daftar kelompok belajar pada tiap
   tingkatan kelas dan jurusan.
+icon: users-between-lines
 ---
 
 # Kelompok Belajar

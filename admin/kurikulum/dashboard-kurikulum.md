@@ -1,5 +1,6 @@
 ---
 description: Memotret Struktur Akademik Sekolah Secara Visual dan Terintegrasi
+icon: school
 ---
 
 # Dashboard Kurikulum

@@ -2,6 +2,7 @@
 description: >-
   Halaman ini digunakan untuk menambahkan, melihat, mengedit, dan menghapus
   Bahasa Pengantar pada tiap tingkatan kelas dan jurusan.
+icon: language
 ---
 
 # Bahasa Pengantar
