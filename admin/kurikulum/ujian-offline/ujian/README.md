@@ -4,7 +4,7 @@ icon: sigma
 
 # Ujian
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Menu **Ujian Offline** berfungsi sebagai pusat pengelolaan ujian berbasis manual (offline) yang dilakukan di sekolah. Melalui halaman ini, pengguna dapat melakukan **pembuatan ujian baru**, serta memonitor **daftar ujian yang telah dibuat** untuk masing-masing kelas.
 

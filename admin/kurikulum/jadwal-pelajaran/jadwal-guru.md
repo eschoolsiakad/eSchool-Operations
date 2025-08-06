@@ -4,7 +4,7 @@ icon: person-chalkboard
 
 # Jadwal Guru
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Menu **Jadwal Guru** berfungsi untuk menampilkan daftar jadwal mengajar seluruh guru yang ada di sekolah, disusun berdasarkan **hari dan kelas yang diajarkan**. Menu ini bersifat **read-only (hanya untuk melihat jadwal)** sehingga tidak tersedia fitur pengeditan pada halaman ini.
 
@@ -30,7 +30,7 @@ Menu **Jadwal Guru** berfungsi untuk menampilkan daftar jadwal mengajar seluruh 
 * Setiap guru pada daftar jadwal dilengkapi dengan **ikon tiga titik (⋮)** di kolom **Aksi**.
 * Jika ikon tersebut diklik, sistem akan menampilkan **detail jadwal lengkap** dalam format grid mingguan.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Detail ini akan menunjukkan secara spesifik:
   * Mata Pelajaran yang diajarkan.

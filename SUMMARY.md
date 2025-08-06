@@ -81,7 +81,8 @@
         * [Edit ujian Online](admin/kurikulum/ujian-online/ujian/edit-ujian-online.md)
         * [Koreksi Ujian Online](admin/kurikulum/ujian-online/ujian/koreksi-ujian-online.md)
         * [Status Ujian Online](admin/kurikulum/ujian-online/ujian/status-ujian-online.md)
-      * [Bank Soal](admin/kurikulum/ujian-online/bank-soal.md)
+      * [Bank Soal](admin/kurikulum/ujian-online/bank-soal/README.md)
+        * [Tambah Soal](admin/kurikulum/ujian-online/bank-soal/tambah-soal.md)
 
 ## Penyelesaian Masalah
 

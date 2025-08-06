@@ -4,7 +4,7 @@ icon: circle-plus
 
 # Buat Jadwal
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Setelah ujian berhasil dibuat di menu **Ujian Offline**, tahap selanjutnya adalah **menjadwalkan pelaksanaan ujian**. Proses penjadwalan ini penting agar waktu pelaksanaan, mata pelajaran, dan kriteria penilaian ujian dapat diatur dengan tepat.
 
@@ -12,7 +12,7 @@ Setelah ujian berhasil dibuat di menu **Ujian Offline**, tahap selanjutnya adala
 
 #### **Langkah-Langkah Penjadwalan Ujian**
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Akses Menu Ujian Offline → Ujian**\
    Anda akan melihat tabel **Daftar Ujian** berisi seluruh daftar ujian yang telah dibuat.
