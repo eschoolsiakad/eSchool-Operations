@@ -1,10 +1,13 @@
 ---
+description: Menambahkan dan Mengelola Data Mata Pelajaran Sekolah Secara Terpusat
 icon: books
 ---
 
 # Mata Pelajaran
 
 Halaman **Mata Pelajaran** di eSchool Siakad Plus digunakan untuk membuat, memperbarui, dan menghapus daftar mata pelajaran yang digunakan dalam sistem sekolah. Setiap mata pelajaran diatur secara unik berdasarkan **nama**, **kode**, **jenis** (teori/praktis), **bahasa pengantar**, **warna identitas**, dan **gambar representatif**. Data ini digunakan sebagai dasar dalam pengaturan kelas, jadwal, guru, dan ujian.
+
+<figure><img src="../../.gitbook/assets/screencapture-esbeta-deanry-my-id-subject-2025-08-06-13_05_21.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -44,9 +47,20 @@ Halaman **Mata Pelajaran** di eSchool Siakad Plus digunakan untuk membuat, mempe
 
 Setiap baris pada tabel **Daftar Mata Pelajaran** memiliki kolom **Aksi** dengan dua pilihan:
 
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-06 130613.png" alt=""><figcaption></figcaption></figure>
+
+***
+
 * **Edit**: Membuka pop-up untuk memperbarui data mata pelajaran.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-06 130649.png" alt=""><figcaption></figcaption></figure>
+
+***
+
 * **Hapus**: Menampilkan peringatan sebelum data dihapus sementara.\
   ⚠️ _"Anda tidak akan dapat mengembalikan ini!"_
+
+<figure><img src="../../.gitbook/assets/screencapture-esbeta-deanry-my-id-subject-2025-08-06-13_07_00.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -57,9 +71,6 @@ Setiap baris pada tabel **Daftar Mata Pelajaran** memiliki kolom **Aksi** dengan
 Gunakan kolom **Search** di pojok kanan atas tabel untuk mencari data secara cepat berdasarkan:
 
 * Nama Mata Pelajaran
-* Kode Mata Pelajaran
-* Jenis (Teori / Praktis)
-* Bahasa Pengantar
 
 #### 🗂️ Lihat Data yang Dihapus Sementara
 
@@ -82,8 +93,6 @@ Pada tampilan _Dihapus_, klik tombol aksi titik tiga (**⋮**) untuk:
 * Hapus hanya jika pelajaran sudah tidak digunakan pada kelas atau penilaian.
 * Cek folder “Dihapus” jika ada data penting yang tidak sengaja terhapus.
 * Upload gambar dengan resolusi proporsional agar tampilan tetap rapi.
-
-Jika mengalami kendala, hubungi Tim Bantuan eSchool melalui menu _Help Center_.
 
 ***
 

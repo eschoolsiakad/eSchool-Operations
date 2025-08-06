@@ -5,9 +5,9 @@ icon: landmark
 
 # Kelas
 
-<figure><img src="../../.gitbook/assets/screencapture-esbeta-deanry-my-id-class-2025-08-04-16_09_23 (1).png" alt=""><figcaption></figcaption></figure>
-
 Halaman Tambah Kelas pada E-SCHOOL Siakad Plus memudahkan admin dalam membuat, mengedit, atau menghapus data kelas sesuai tingkatan, jurusan, shift, dan kelompok belajar. Fitur ini memungkinkan manajemen kelas yang akurat dan mudah diperbarui kapan saja.
+
+<figure><img src="../../.gitbook/assets/screencapture-esbeta-deanry-my-id-class-2025-08-04-16_09_23 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
