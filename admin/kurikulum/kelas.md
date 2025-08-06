@@ -54,7 +54,14 @@ Halaman Tambah Kelas pada E-SCHOOL Siakad Plus memudahkan admin dalam membuat, m
 Pada kolom **Aksi** di tabel Daftar Kelas, tersedia tombol dengan ikon tiga titik (...), yang memiliki dua fungsi penting:
 
 * **✏️ Edit Kelas** – Memperbarui informasi kelas yang sudah terdaftar.
+
+<figure><img src="../../.gitbook/assets/screencapture-esbeta-deanry-my-id-class-39-edit-2025-08-06-12_56_12.png" alt=""><figcaption></figcaption></figure>
+
+***
+
 * **🗑️ Hapus Kelas** – Menghapus kelas dari sistem jika sudah tidak digunakan.
+
+<figure><img src="../../.gitbook/assets/screencapture-esbeta-deanry-my-id-class-2025-08-06-12_59_12.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
