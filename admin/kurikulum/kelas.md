@@ -71,4 +71,6 @@ Pada kolom **Aksi** di tabel Daftar Kelas, tersedia tombol dengan ikon tiga titi
 * Kelompok belajar berguna untuk pembagian siswa dalam mapel tertentu atau pengelompokan evaluasi.
 * Pastikan tidak menghapus kelas yang masih digunakan dalam jadwal, penugasan, atau ujian.
 
-Jika Anda mengalami kendala saat menambah atau mengedit kelas, hubungi tim support melalui halaman Bantuan eSchool.
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
