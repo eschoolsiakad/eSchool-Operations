@@ -1,0 +1,61 @@
+---
+icon: pen-circle
+---
+
+# Edit
+
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Fitur **Edit Guru** memungkinkan admin untuk memperbarui informasi guru yang sudah terdaftar di sistem. Baik karena adanya perubahan data (misalnya nomor HP, alamat, kualifikasi), maupun untuk perbaikan input sebelumnya.
+
+> ✨ **Akses cepat, perubahan instan.** Fitur ini dirancang agar proses pengelolaan data guru tetap rapi dan efisien.
+
+***
+
+#### 🔓 Cara Mengakses Fitur Edit Guru
+
+1. Masuk ke menu **Guru > Daftar Guru**.
+2. Temukan guru yang ingin diedit.
+3. Klik **ikon titik tiga (⋮)** di kolom _Aksi_.
+4. Pilih **Edit**, maka jendela **Edit Guru** akan muncul seperti gambar di atas.
+
+***
+
+#### ✍️ Komponen Form Edit Guru
+
+| Kolom               | Keterangan                                                            |
+| ------------------- | --------------------------------------------------------------------- |
+| **Email**           | Tidak bisa diubah karena digunakan sebagai identitas akun.            |
+| **Nama Lengkap**    | Wajib diisi. Nama resmi sesuai dokumen.                               |
+| **Nama Panggilan**  | Opsional. Digunakan untuk penyebutan informal.                        |
+| **Jenis Kelamin**   | Pilih antara Laki-laki atau Perempuan.                                |
+| **No HP**           | Pastikan nomor aktif dan valid untuk komunikasi.                      |
+| **Tanggal Lahir**   | Format: dd-mm-yyyy. Wajib diisi.                                      |
+| **Gambar**          | Upload foto guru berukuran ideal (308px × 338px).                     |
+| **Kualifikasi**     | Contoh: S1, S2, PNS, PPPK, atau lainnya.                              |
+| **Alamat Saat Ini** | Domisili tempat tinggal yang terkini.                                 |
+| **Alamat Domisili** | Bisa diisi berbeda jika alamat tinggal dan domisili tidak sama.       |
+| **Gaji**            | Gaji bulanan atau honor sesuai kebijakan.                             |
+| **Reset Password**  | Centang kotak ini untuk mengatur ulang kata sandi akun guru tersebut. |
+
+> 📌 Semua kolom bertanda _wajib diisi_ harus dilengkapi sebelum klik **Simpan**.
+
+***
+
+#### 🚨 Catatan Penting
+
+* **Email tidak bisa diubah** dari halaman ini. Jika ada kesalahan, admin harus menghapus dan menambahkan ulang guru.
+* Tombol **Reset Password** akan otomatis mengatur ulang kata sandi dan mengirimkan instruksi ke email jika sistem terhubung dengan layanan pengiriman email.
+* Perubahan data akan langsung tercermin di sistem, jadi pastikan data yang diinput sudah benar sebelum menekan **Simpan**.
+
+***
+
+#### 💡 Tips Penggunaan
+
+* Gunakan fitur edit ini secara berkala untuk memastikan data guru tetap **up-to-date**.
+* Khusus untuk perubahan status seperti _aktif/nonaktif_, lakukan melalui form Tambah/Daftar Guru utama.
+* Jika foto tidak tampil setelah unggah, pastikan format file adalah `.jpg` atau `.png` dan tidak melebihi batas ukuran.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

@@ -4,7 +4,7 @@ icon: square-plus
 
 # Tambah Soal
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ketika user menekan tombol **+Soal** di halaman Bank Soal, sistem akan membuka halaman **Form Tambah Soal** seperti gambar di atas. Di sinilah guru/admin dapat menambahkan soal baru dengan tipe dan opsi jawaban yang bervariasi.
 

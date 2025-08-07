@@ -85,6 +85,12 @@
         * [Tambah Soal](admin/kurikulum/ujian-online/bank-soal/tambah-soal.md)
         * [Edit Soal](admin/kurikulum/ujian-online/bank-soal/edit-soal.md)
         * [Pratinjau Soal](admin/kurikulum/ujian-online/bank-soal/pratinjau-soal.md)
+    * [Guru](admin/kurikulum/guru/README.md)
+      * [Dashboard Guru](admin/kurikulum/guru/dashboard-guru.md)
+      * [Guru](admin/kurikulum/guru/guru/README.md)
+        * [Edit](admin/kurikulum/guru/guru/edit.md)
+        * [Lihat Jadwal](admin/kurikulum/guru/guru/lihat-jadwal.md)
+      * [Impor Data](admin/kurikulum/guru/impor-data.md)
 
 ## Penyelesaian Masalah
 
