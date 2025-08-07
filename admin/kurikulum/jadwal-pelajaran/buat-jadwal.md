@@ -4,7 +4,7 @@ icon: square-plus
 
 # Buat Jadwal
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1. Mengisi Data Mata Pelajaran per Kelas**
 
@@ -18,7 +18,7 @@ Langkah pertama adalah memastikan seluruh mata pelajaran telah diinputkan sesuai
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **2. Mengisi Data Guru Mata Pelajaran dan Wali Kelas**
 
