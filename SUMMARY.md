@@ -90,6 +90,7 @@
       * [Guru](admin/kurikulum/guru/guru/README.md)
         * [Edit](admin/kurikulum/guru/guru/edit.md)
         * [Lihat Jadwal](admin/kurikulum/guru/guru/lihat-jadwal.md)
+        * [Informasi Gaji](admin/kurikulum/guru/guru/informasi-gaji.md)
       * [Impor Data](admin/kurikulum/guru/impor-data.md)
 
 ## Penyelesaian Masalah
