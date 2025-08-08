@@ -117,6 +117,12 @@
       * [Laporan SIA per Semester](admin/kesiswaan/absensi/laporan-sia-per-semester.md)
       * [Laporan Poin Absensi](admin/kesiswaan/absensi/laporan-poin-absensi.md)
       * [Pengaturan Absensi](admin/kesiswaan/absensi/pengaturan-absensi.md)
+  * [Humas](admin/humas/README.md)
+    * [Pengumuman](admin/humas/pengumuman.md)
+    * [Pemberitahuan](admin/humas/pemberitahuan.md)
+    * [Sliders](admin/humas/sliders.md)
+    * [Galeri](admin/humas/galeri.md)
+    * [Hari Libur](admin/humas/hari-libur.md)
 
 ## Penyelesaian Masalah
 
