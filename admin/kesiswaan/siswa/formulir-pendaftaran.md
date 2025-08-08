@@ -4,3 +4,73 @@ icon: align-justify
 
 # Formulir Pendaftaran
 
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
+Fitur **Formulir Tambahan** disediakan untuk menyesuaikan kebutuhan administrasi sekolah yang **tidak tersedia secara default** di dalam sistem E-SCHOOL. Setiap sekolah mungkin memiliki **format atau jenis data unik** yang perlu diisikan oleh siswa saat pendaftaran, update data, atau proses lainnya.
+
+> Dengan fitur ini, sekolah bisa menambahkan **kolom data khusus** seperti _Golongan Darah_, _Riwayat Penyakit_, _Asal TK_, dll yang tidak tersedia bawaan dari sistem.
+
+***
+
+#### Menambahkan Formulir Baru
+
+Bagian **Tambah Formulir** terletak di bagian atas halaman. Gunakan form ini untuk menambahkan entri baru ke daftar formulir.
+
+| Kolom     | Penjelasan                                             |
+| --------- | ------------------------------------------------------ |
+| **Nama**  | Nama kolom/formulir yang ingin ditambahkan.            |
+| **Jenis** | Tipe input yang digunakan (Teks, Angka, Tanggal, dll). |
+| **Wajib** | Aktifkan toggle jika kolom ini wajib diisi oleh siswa. |
+
+1. Isi nama formulir (contoh: “Golongan Darah”).
+2. Pilih jenis input, misalnya **Teks**.
+3. Jika formulir harus diisi siswa, aktifkan opsi **Wajib**.
+4. Klik **Simpan** untuk menambahkan formulir ke daftar.
+
+***
+
+#### Daftar Formulir
+
+Setelah formulir disimpan, data akan muncul pada tabel **Daftar Formulir** di bawah.
+
+Tabel ini berisi informasi:
+
+* **No**: Urutan tampilan formulir.
+* **Nama**: Nama kolom input.
+* **Jenis**: Jenis input (Teks, Dropdown, dll).
+* **Wajib**: Menampilkan status apakah input ini wajib atau tidak.
+* **Aksi**: Tindakan yang bisa dilakukan pada masing-masing formulir.
+
+> **Catatan:** Anda dapat **mengubah urutan tampilan** formulir dengan **menyeret baris** lalu klik tombol **Perbarui Urutan**.
+
+***
+
+#### Fitur Ikon Aksi (⋮)
+
+Di setiap baris formulir terdapat **ikon titik tiga (⋮)** yang menyediakan dua fungsi penting:
+
+| Opsi      | Fungsi                                                  |
+| --------- | ------------------------------------------------------- |
+| **Edit**  | Mengubah nama, jenis input, atau status wajib formulir. |
+| **Hapus** | Menghapus formulir dari daftar (soft delete).           |
+
+Formulir yang sudah dihapus dapat ditampilkan kembali dengan klik link **Dihapus** di bagian kanan atas tabel.
+
+***
+
+#### Pratinjau Formulir
+
+Klik tombol **Pratinjau Formulir** untuk melihat seperti apa tampilan formulir ini bagi pengguna (siswa/orang tua) pada saat pengisian.
+
+***
+
+#### Tips Penggunaan
+
+* Gunakan nama formulir yang jelas dan tidak ambigu.
+* Jangan gunakan formulir untuk data yang sudah tersedia di sistem (seperti NISN, NIK, dll), kecuali untuk keperluan duplikasi backup.
+* Validasi formulir wajib secara berkala agar tidak menyulitkan proses input data siswa.
+* Hindari terlalu banyak formulir agar tidak membingungkan siswa saat pengisian.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
