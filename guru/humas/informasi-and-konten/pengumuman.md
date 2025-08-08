@@ -7,7 +7,7 @@ icon: memo-circle-info
 
 Fitur **Pengumuman** dalam sistem E-SCHOOL Siakad Plus dirancang untuk memudahkan guru, tenaga kependidikan, dan admin sekolah dalam menyebarkan informasi penting kepada peserta didik maupun kelas tertentu. Pengumuman ditampilkan dalam format tabel dan dapat dilampiri file atau dokumen pendukung.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧭 Navigasi Halaman Pengumuman
 

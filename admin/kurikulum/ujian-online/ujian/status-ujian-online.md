@@ -4,7 +4,7 @@ icon: exclamation
 
 # Status Ujian Online
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Status Ujian Online** berfungsi untuk memantau status pengerjaan ujian siswa secara individual. Melalui halaman ini, admin/guru dapat melihat daftar siswa yang mengikuti ujian, serta memonitor apakah siswa tersebut sudah **menyelesaikan** ujian atau belum.
 
