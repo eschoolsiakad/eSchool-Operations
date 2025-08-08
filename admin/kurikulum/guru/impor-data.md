@@ -1,2 +1,80 @@
+---
+icon: arrow-up-to-line
+---
+
 # Impor Data
 
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+
+Fitur **Impor Data Guru** dirancang untuk memudahkan proses entri massal data guru ke dalam sistem E-SCHOOL SIAKAD Plus. Dengan fitur ini, admin tidak perlu menginput satu per satu melalui form manual, cukup menggunakan **file CSV** berformat khusus.
+
+***
+
+#### Cara Mengakses
+
+1. Buka menu **Guru > Impor Data**.
+2. Klik tombol **File Contoh** untuk mengunduh template CSV.
+3. Isi file sesuai format yang diberikan.
+4. Upload file menggunakan tombol **Unggah**.
+5. Klik **Simpan** untuk memproses data ke dalam sistem.
+
+***
+
+#### Format File Wajib CSV
+
+> 🔥 **Catatan Penting:**\
+> Hanya file dengan ekstensi **`.csv` (Comma Separated Values)** yang bisa digunakan untuk proses impor.
+
+File yang diunggah harus memenuhi struktur yang sudah ditentukan, **tidak bisa dalam format Excel (.xlsx), .ods, atau lainnya.**
+
+***
+
+#### 📄 Struktur Format CSV
+
+Berikut adalah struktur kolom yang wajib ada dalam file `.csv`, sesuai gambar:
+
+| Kolom               | Keterangan                                                     |
+| ------------------- | -------------------------------------------------------------- |
+| `first_name`        | Nama depan guru.                                               |
+| `last_name`         | Nama belakang guru (bisa dikosongkan jika tidak ada).          |
+| `mobile`            | Nomor HP aktif guru.                                           |
+| `email`             | Alamat email guru (harus unik dan valid).                      |
+| `gender`            | Jenis kelamin, hanya bisa berisi **`male`** atau **`female`**. |
+| `dob`               | Tanggal lahir dalam format **dd-mm-yyyy**.                     |
+| `qualification`     | Kualifikasi akademik, contoh: **S1**, **S2**, **B.ed**, dll.   |
+| `current address`   | Alamat tempat tinggal saat ini.                                |
+| `permanent address` | Alamat domisili tetap (bisa sama dengan alamat saat ini).      |
+| `salary`            | Gaji pokok yang diterima. Tanpa titik/koma pemisah ribuan.     |
+| `joining_date`      | Tanggal mulai mengajar, format: **dd-mm-yyyy**.                |
+
+Contoh data:
+
+```
+cssSalinEditfirst_name,last_name,mobile,email,gender,dob,qualification,current address,permanent address,salary,joining_date
+test,example,1234567899,guardian@example.com,male,17-07-2025,B ed,Norway,Norway,10000,17-07-2025
+```
+
+***
+
+#### Tips Sukses Impor
+
+* Pastikan **semua kolom terisi** sesuai dengan format.
+* Jangan mengganti nama kolom dalam file CSV.
+* Gunakan aplikasi spreadsheet seperti **Microsoft Excel**, **Google Sheets**, atau **LibreOffice** untuk mengedit file CSV.
+* Simpan ulang file sebagai `.csv (Comma delimited)` sebelum diunggah.
+
+***
+
+#### Kesalahan Umum yang Harus Dihindari
+
+| Kesalahan                           | Dampak                            |
+| ----------------------------------- | --------------------------------- |
+| File bukan .csv                     | Sistem akan menolak unggahan.     |
+| Kolom tidak lengkap atau salah nama | Data tidak akan terbaca.          |
+| Format tanggal tidak sesuai         | Gagal diproses atau error.        |
+| Gender diisi selain “male/female”   | Ditolak oleh sistem.              |
+| Email duplikat                      | Sistem tidak akan menyimpan data. |
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
