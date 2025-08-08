@@ -1,5 +1,6 @@
 ---
 description: Monitoring Presensi di Luar Kegiatan Belajar Mengajar
+icon: clipboard-user
 ---
 
 # Laporan Absensi Kegiatan Khusus

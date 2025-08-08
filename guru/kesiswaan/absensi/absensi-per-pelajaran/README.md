@@ -1,5 +1,6 @@
 ---
 description: Monitoring Kehadiran Berdasarkan Sesi Pengajaran
+icon: person-chalkboard
 ---
 
 # Absensi per Pelajaran

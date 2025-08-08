@@ -1,5 +1,6 @@
 ---
 description: Modul Presensi Per Mata Pelajaran
+icon: calendar-plus
 ---
 
 # Tambah Absensi

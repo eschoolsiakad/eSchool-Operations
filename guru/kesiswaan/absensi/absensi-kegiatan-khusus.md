@@ -1,5 +1,6 @@
 ---
 description: Mengelola Kehadiran Siswa Lebih Cepat, Mudah, dan Terpusat
+icon: calendar-users
 ---
 
 # Absensi Kegiatan Khusus

@@ -1,5 +1,6 @@
 ---
 description: Monitoring Ketidakhadiran untuk Tindak Lanjut Disiplin
+icon: chart-candlestick
 ---
 
 # Peringkat Poin Alpa Siswa
