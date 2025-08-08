@@ -49,10 +49,7 @@ Berikut adalah struktur kolom yang wajib ada dalam file `.csv`, sesuai gambar:
 
 Contoh data:
 
-```
-cssSalinEditfirst_name,last_name,mobile,email,gender,dob,qualification,current address,permanent address,salary,joining_date
-test,example,1234567899,guardian@example.com,male,17-07-2025,B ed,Norway,Norway,10000,17-07-2025
-```
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
