@@ -47,7 +47,7 @@ Berikut adalah struktur kolom yang wajib ada dalam file `.csv`, sesuai gambar:
 | `salary`            | Gaji pokok yang diterima. Tanpa titik/koma pemisah ribuan.     |
 | `joining_date`      | Tanggal mulai mengajar, format: **dd-mm-yyyy**.                |
 
-Contoh data:
+Contoh struktur data:
 
 <figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
