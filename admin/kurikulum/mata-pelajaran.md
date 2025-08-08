@@ -11,7 +11,7 @@ Halaman **Mata Pelajaran** di eSchool Siakad Plus digunakan untuk membuat, mempe
 
 ***
 
-### 🧾 Kapan Menggunakan Fitur Ini?
+### &#x20;Kapan Menggunakan Fitur Ini?
 
 * Saat membuat daftar mata pelajaran baru untuk kurikulum yang digunakan.
 * Ketika ingin mengedit informasi mata pelajaran, seperti nama atau jenisnya.
@@ -20,7 +20,7 @@ Halaman **Mata Pelajaran** di eSchool Siakad Plus digunakan untuk membuat, mempe
 
 ***
 
-### 🛠️ Panduan Pengisian Form Tambah Mata Pelajaran
+### Panduan Pengisian Form Tambah Mata Pelajaran
 
 1. **Bahasa Pengantar (Wajib)**\
    Pilih salah satu:
@@ -39,11 +39,11 @@ Halaman **Mata Pelajaran** di eSchool Siakad Plus digunakan untuk membuat, mempe
 6. **Gambar (Wajib)**\
    Unggah ikon atau ilustrasi pendukung untuk identitas visual pelajaran.
 
-✅ Klik **Simpan** untuk menambahkan mata pelajaran ke dalam daftar. Klik **Atur** untuk pengaturan lanjutan jika diperlukan.
+&#x20;Klik **Simpan** untuk menambahkan mata pelajaran ke dalam daftar. Klik **Atur** untuk pengaturan lanjutan jika diperlukan.
 
 ***
 
-### ✏️ Aksi Edit & 🗑️ Hapus
+### &#x20;Aksi Edit &  Hapus
 
 Setiap baris pada tabel **Daftar Mata Pelajaran** memiliki kolom **Aksi** dengan dua pilihan:
 
@@ -58,35 +58,35 @@ Setiap baris pada tabel **Daftar Mata Pelajaran** memiliki kolom **Aksi** dengan
 ***
 
 * **Hapus**: Menampilkan peringatan sebelum data dihapus sementara.\
-  ⚠️ _"Anda tidak akan dapat mengembalikan ini!"_
+  &#x20;_"Anda tidak akan dapat mengembalikan ini!"_
 
 <figure><img src="../../.gitbook/assets/screencapture-esbeta-deanry-my-id-subject-2025-08-06-13_07_00.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 🔍 Fitur Pencarian & Pengelolaan Data Dihapus
+### Fitur Pencarian & Pengelolaan Data Dihapus
 
-#### 🔎 Pencarian Data
+#### Pencarian Data
 
 Gunakan kolom **Search** di pojok kanan atas tabel untuk mencari data secara cepat berdasarkan:
 
 * Nama Mata Pelajaran
 
-#### 🗂️ Lihat Data yang Dihapus Sementara
+#### Lihat Data yang Dihapus Sementara
 
 Jika kamu menghapus data pelajaran, data tersebut tidak langsung hilang.\
 Klik **"Dihapus"** di kanan atas untuk melihat daftar pelajaran yang telah dihapus sementara.
 
-#### ⚙️ Aksi Pemulihan atau Hapus Permanen
+#### Aksi Pemulihan atau Hapus Permanen
 
 Pada tampilan _Dihapus_, klik tombol aksi titik tiga (**⋮**) untuk:
 
-* ✅ **Pulihkan** → Mengembalikan data ke daftar aktif.
-* ❌ **Hapus Permanen** → Menghapus data selamanya dari sistem.
+* &#x20;**Pulihkan** → Mengembalikan data ke daftar aktif.
+* &#x20;**Hapus Permanen** → Menghapus data selamanya dari sistem.
 
 ***
 
-### 💡 Tips Tambahan
+### &#x20;Tips Tambahan
 
 * Gunakan nama dan kode konsisten untuk menghindari duplikasi data.
 * Hindari mengubah jenis pelajaran setelah digunakan dalam jadwal aktif.
