@@ -1,8 +1,12 @@
+---
+icon: user
+---
+
 # Kelola Siswa
 
 Menu **Tambah Siswa** pada sistem E-SCHOOL Siakad Plus dirancang untuk mempermudah proses input data siswa baru secara cepat, sistematis, dan terdokumentasi. Form ini wajib diisi secara lengkap agar siswa dapat terdaftar dan dimonitor secara administratif maupun akademik.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 📝 Langkah-langkah Pengisian Form Tambah Siswa
 

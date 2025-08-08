@@ -4,7 +4,7 @@ icon: eye
 
 # Pratinjau Soal
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Pratinjau Bank Soal** memungkinkan pengguna melihat tampilan soal sebagaimana yang akan dilihat oleh siswa. Ini adalah langkah penting untuk memastikan bahwa soal sudah tersusun dengan benar, rapi, dan dapat dipahami sebelum digunakan dalam ujian.
 
