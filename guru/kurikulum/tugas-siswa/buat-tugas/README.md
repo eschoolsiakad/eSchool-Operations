@@ -7,7 +7,7 @@ icon: file-plus
 
 Halaman **Daftar Penugasan** di E-SCHOOL Siakad Plus adalah tempat di mana guru dapat membuat, mengatur, dan mengawasi semua tugas yang diberikan kepada siswa. Proses penugasan ini terintegrasi dengan sistem kelas, kalender akademik, serta format unggahan digital.
 
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🎯 Tujuan Halaman Ini
 

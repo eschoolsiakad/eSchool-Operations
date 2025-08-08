@@ -62,6 +62,7 @@
     * [Jurusan](admin/kurikulum/jurusan.md)
     * [Kelas](admin/kurikulum/kelas.md)
     * [Mata Pelajaran](admin/kurikulum/mata-pelajaran.md)
+    * [Mata Pelajaran Per Kelas](admin/kurikulum/mata-pelajaran-per-kelas.md)
     * [Jadwal Pelajaran](admin/kurikulum/jadwal-pelajaran/README.md)
       * [Buat Jadwal](admin/kurikulum/jadwal-pelajaran/buat-jadwal.md)
       * [Jadwal Guru](admin/kurikulum/jadwal-pelajaran/jadwal-guru.md)
