@@ -55,7 +55,6 @@
   * [TU](guru/tu/README.md)
     * [Cuti](guru/tu/cuti.md)
 * [Admin](admin/README.md)
-  * [Kelola Siswa](admin/kelola-siswa.md)
   * [Kurikulum](admin/kurikulum/README.md)
     * [Dashboard Kurikulum](admin/kurikulum/dashboard-kurikulum.md)
     * [Bahasa Pengantar](admin/kurikulum/bahasa-pengantar.md)
@@ -92,6 +91,8 @@
         * [Lihat Jadwal](admin/kurikulum/guru/guru/lihat-jadwal.md)
         * [Informasi Gaji](admin/kurikulum/guru/guru/informasi-gaji.md)
       * [Impor Data](admin/kurikulum/guru/impor-data.md)
+  * [Kesiswaan](admin/kesiswaan/README.md)
+    * [Kelola Siswa](admin/kesiswaan/kelola-siswa.md)
 
 ## Penyelesaian Masalah
 
