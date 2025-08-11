@@ -1,6 +1,6 @@
 ---
 description: Memantau dan Mengelola Data Ketidakhadiran Guru
-icon: person-circle-minus
+icon: person-circle-xmark
 ---
 
 # Guru Tidak Absen

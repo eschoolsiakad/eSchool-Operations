@@ -126,6 +126,7 @@
   * [PSDM](admin/psdm/README.md)
     * [Guru Absen](admin/psdm/guru-absen.md)
     * [Guru Tidak Absen](admin/psdm/guru-tidak-absen.md)
+    * [Monitoring Guru](admin/psdm/monitoring-guru.md)
 
 ## Penyelesaian Masalah
 
