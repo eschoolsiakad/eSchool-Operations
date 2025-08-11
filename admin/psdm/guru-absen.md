@@ -1,5 +1,6 @@
 ---
 description: Mengelola dan Memantau Kehadiran Guru dalam Mengajar
+icon: person-circle-check
 ---
 
 # Guru Absen

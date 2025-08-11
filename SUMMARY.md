@@ -125,6 +125,7 @@
     * [Hari Libur](admin/humas/hari-libur.md)
   * [PSDM](admin/psdm/README.md)
     * [Guru Absen](admin/psdm/guru-absen.md)
+    * [Guru Tidak Absen](admin/psdm/guru-tidak-absen.md)
 
 ## Penyelesaian Masalah
 
