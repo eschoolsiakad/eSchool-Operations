@@ -123,6 +123,8 @@
     * [Sliders](admin/humas/sliders.md)
     * [Galeri](admin/humas/galeri.md)
     * [Hari Libur](admin/humas/hari-libur.md)
+  * [PSDM](admin/psdm/README.md)
+    * [Guru Absen](admin/psdm/guru-absen.md)
 
 ## Penyelesaian Masalah
 

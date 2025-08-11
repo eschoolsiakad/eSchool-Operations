@@ -4,7 +4,7 @@ icon: user-group
 
 # Daftar Siswa
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Daftar Siswa** adalah pusat kontrol untuk melihat, menyaring, dan mengelola data seluruh peserta didik dalam satuan pendidikan. Fitur ini sangat berguna bagi admin, operator sekolah, dan petugas kesiswaan.
 
@@ -36,7 +36,7 @@ Tabel daftar siswa menampilkan informasi penting, meliputi:
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Edit Siswa
 
