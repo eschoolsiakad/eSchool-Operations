@@ -127,6 +127,15 @@
     * [Guru Absen](admin/psdm/guru-absen.md)
     * [Guru Tidak Absen](admin/psdm/guru-tidak-absen.md)
     * [Monitoring Guru](admin/psdm/monitoring-guru.md)
+  * [Tata Usaha](admin/tata-usaha/README.md)
+    * [Cuti](admin/tata-usaha/cuti/README.md)
+      * [Dashboard Cuti](admin/tata-usaha/cuti/dashboard-cuti.md)
+      * [Cuti](admin/tata-usaha/cuti/cuti.md)
+      * [Laporan Cuti](admin/tata-usaha/cuti/laporan-cuti.md)
+    * [Staf](admin/tata-usaha/staf/README.md)
+      * [Staf](admin/tata-usaha/staf/staf.md)
+      * [Hak Akses](admin/tata-usaha/staf/hak-akses.md)
+      * [Impor Data](admin/tata-usaha/staf/impor-data.md)
 
 ## Penyelesaian Masalah
 
