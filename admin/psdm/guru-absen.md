@@ -24,7 +24,7 @@ Halaman **Guru Absen** di eSchool Siakad Plus digunakan untuk mencatat, melihat,
 
 #### 1. **Filter Data**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Kelas** → Pilih salah satu kelas atau tampilkan semua.
 * **Tanggal Mulai & Tanggal Selesai** → Tentukan rentang waktu data yang ingin ditampilkan.
@@ -32,7 +32,7 @@ Halaman **Guru Absen** di eSchool Siakad Plus digunakan untuk mencatat, melihat,
 
 #### 2. **Tabel Data Kehadiran Guru**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Kolom yang ditampilkan:
 

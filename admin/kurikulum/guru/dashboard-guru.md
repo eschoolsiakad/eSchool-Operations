@@ -4,7 +4,7 @@ icon: gauge-min
 
 # Dashboard Guru
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Dasbor Guru** merupakan pusat informasi visual yang menyajikan data statistik terkini mengenai tenaga pendidik di sekolah. Menu ini membantu admin dan manajemen sekolah untuk memahami komposisi dan status guru secara cepat dan efisien.
 
