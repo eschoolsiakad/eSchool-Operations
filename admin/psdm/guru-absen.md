@@ -5,9 +5,9 @@ icon: person-circle-check
 
 # Guru Absen
 
-Halaman **Guru Absen** di eSchool Siakad Plus digunakan untuk mencatat, melihat, dan mengelola data kehadiran guru berdasarkan kelas, mata pelajaran, dan rentang tanggal tertentu. Fitur ini membantu bagian PSDM memantau tingkat kehadiran guru serta memberikan data rekap yang akurat.
-
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-11 084330.png" alt=""><figcaption></figcaption></figure>
+
+Halaman **Guru Absen** di eSchool Siakad Plus digunakan untuk mencatat, melihat, dan mengelola data kehadiran guru berdasarkan kelas, mata pelajaran, dan rentang tanggal tertentu. Fitur ini membantu bagian PSDM memantau tingkat kehadiran guru serta memberikan data rekap yang akurat.
 
 ***
 
