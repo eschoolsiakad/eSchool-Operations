@@ -11,7 +11,7 @@ Halaman **Monitoring Tugas** di eSchool Siakad Plus membantu bagian PSDM (Pengem
 
 ***
 
-#### 🧾 **Kapan Menggunakan Fitur Ini?**
+#### **Kapan Menggunakan Fitur Ini?**
 
 * Saat ingin melihat daftar guru yang **belum mengumpulkan** atau **sudah mengumpulkan** tugas.
 * Untuk memantau jumlah tugas yang dibuat oleh guru pada periode tertentu.
@@ -20,7 +20,7 @@ Halaman **Monitoring Tugas** di eSchool Siakad Plus membantu bagian PSDM (Pengem
 
 ***
 
-#### 🔍 **Fitur Utama**
+#### **Fitur Utama**
 
 **1. Filter Data**
 
@@ -60,8 +60,12 @@ Halaman **Monitoring Tugas** di eSchool Siakad Plus membantu bagian PSDM (Pengem
 
 ***
 
-#### 💡 **Tips Penggunaan**
+#### **Tips Penggunaan**
 
 * Gunakan filter **Status Pengumpulan** untuk memisahkan guru yang sudah dan belum membuat tugas.
 * Lakukan pengecekan secara rutin untuk memantau konsistensi guru dalam memberikan tugas.
 * Manfaatkan **detail tugas** untuk menganalisis kualitas dan variasi tugas yang diberikan.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
