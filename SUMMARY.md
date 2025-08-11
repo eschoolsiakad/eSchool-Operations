@@ -136,6 +136,17 @@
       * [Staf](admin/tata-usaha/staf/staf.md)
       * [Hak Akses](admin/tata-usaha/staf/hak-akses.md)
       * [Impor Data](admin/tata-usaha/staf/impor-data.md)
+  * [Pengaturan](admin/pengaturan/README.md)
+    * [Profil Sekolah](admin/pengaturan/profil-sekolah.md)
+    * [Pengembalian Dana](admin/pengaturan/pengembalian-dana.md)
+    * [Pengaturan Pembayaran](admin/pengaturan/pengaturan-pembayaran.md)
+    * [Pengaturan Cuti](admin/pengaturan/pengaturan-cuti.md)
+    * [Tahun Ajaran](admin/pengaturan/tahun-ajaran.md)
+    * [Template Email](admin/pengaturan/template-email.md)
+    * [Syarat & Ketentuan Ujian Online](admin/pengaturan/syarat-and-ketentuan-ujian-online.md)
+    * [Syarat & Ketentuan](admin/pengaturan/syarat-and-ketentuan.md)
+    * [Kebijakan Privasi](admin/pengaturan/kebijakan-privasi.md)
+    * [Bantuan](admin/pengaturan/bantuan.md)
 
 ## Penyelesaian Masalah
 
