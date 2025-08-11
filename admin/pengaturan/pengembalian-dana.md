@@ -4,3 +4,43 @@ icon: money-bill
 
 # Pengembalian Dana
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Menu **Pengembalian Dana** berfungsi untuk mengatur dan menampilkan kebijakan resmi sekolah terkait proses pengembalian sejumlah uang kepada pihak yang berhak, baik siswa maupun wali siswa, dalam kondisi tertentu. Fitur ini memungkinkan pihak sekolah menyampaikan informasi secara jelas, transparan, dan terdokumentasi agar semua pihak memahami prosedur yang berlaku.
+
+#### **Tujuan Menu Pengembalian Dana**
+
+* Memberikan panduan tertulis mengenai kondisi yang memungkinkan terjadinya pengembalian dana.
+* Menjaga kepercayaan dan reputasi lembaga pendidikan.
+* Memastikan prosedur sesuai dengan peraturan dan kebijakan sekolah yang berlaku.
+
+#### **Fungsi Utama**
+
+1. **Menampilkan Kebijakan Pengembalian Dana**\
+   Berisi uraian resmi mengenai pengertian, tujuan, dan kondisi pengembalian dana.
+2. **Menjelaskan Alasan Pengembalian Dana**\
+   Contoh kondisi yang dapat menjadi alasan pengembalian dana, antara lain:
+   * Produk atau jasa yang diterima tidak sesuai dengan deskripsi atau perjanjian.
+   * Barang atau fasilitas diterima dalam kondisi rusak, cacat, atau tidak berfungsi.
+   * Pesanan atau layanan dibatalkan sebelum proses pengiriman atau pelaksanaan dimulai.
+3. **Memberikan Akses Publik**\
+   Sistem menyediakan **URL Publik** yang dapat dibagikan kepada pihak eksternal, sehingga informasi kebijakan dapat diakses oleh wali siswa atau pihak terkait tanpa harus login ke sistem.
+
+#### **Petunjuk Penggunaan**
+
+1. **Akses Menu**
+   * Masuk ke akun **Admin**.
+   * Pilih menu **Pengaturan** pada sidebar.
+   * Klik sub-menu **Pengembalian Dana**.
+2. **Mengedit Kebijakan**
+   * Gunakan editor teks yang tersedia untuk menambahkan atau memperbarui isi kebijakan.
+   * Pastikan bahasa yang digunakan jelas, sopan, dan mudah dipahami.
+3. **Menyimpan Perubahan**
+   * Setelah selesai melakukan pengeditan, klik tombol **Simpan** untuk memperbarui informasi.
+4. **Membagikan URL Publik**
+   * Salin tautan yang tertera pada bagian **URL Publik**.
+   * Bagikan kepada pihak yang memerlukan informasi tersebut.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

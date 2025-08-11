@@ -4,7 +4,7 @@ icon: gauge-min
 
 # Dashboard Siswa
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Dasbor Siswa** adalah pusat informasi visual yang menyajikan statistik dan data keseluruhan terkait siswa secara real-time di eSchool. Menu ini dirancang agar admin, kepala sekolah, maupun operator sekolah dapat memperoleh gambaran menyeluruh tentang kondisi dan komposisi siswa dengan cepat dan mudah dipahami.
 

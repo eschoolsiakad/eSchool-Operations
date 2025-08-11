@@ -4,3 +4,64 @@ icon: credit-card-front
 
 # Pengaturan Pembayaran
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Menu **Pengaturan Pembayaran** digunakan untuk mengatur informasi mata uang dan metode pembayaran resmi yang diterima oleh sekolah. Fitur ini memastikan bahwa seluruh transaksi keuangan dilakukan secara terstruktur, aman, dan sesuai dengan kebijakan lembaga.
+
+***
+
+#### **1. Pengaturan Mata Uang**
+
+Bagian ini berfungsi untuk menentukan jenis mata uang dan simbol yang digunakan pada seluruh transaksi dalam sistem.
+
+* **Mata Uang**: Pilih kode mata uang (misalnya _IDR_ untuk Rupiah Indonesia).
+* **Simbol Mata Uang**: Masukkan simbol yang akan ditampilkan pada nominal transaksi (misalnya _Rp_).
+* Klik **Simpan** untuk menerapkan pengaturan.
+
+***
+
+#### **2. Metode Pembayaran**
+
+Bagian ini digunakan untuk menambahkan, mengubah, atau menghapus metode pembayaran yang tersedia di sekolah, baik melalui rekening bank maupun dompet digital.
+
+**Informasi yang dapat diatur meliputi:**
+
+* **Nama**: Nama bank atau penyedia layanan pembayaran (contoh: Bank Mandiri, BRI, Bank Syariah Indonesia, Dana, dll.).
+* **Nomor Rekening**: Nomor rekening atau nomor akun pembayaran yang valid.
+* **Atas Nama**: Nama pemilik rekening atau akun resmi sekolah.
+* **Gambar**: Logo bank atau penyedia layanan (opsional, untuk memudahkan identifikasi).
+
+***
+
+#### **3. Menambahkan Metode Pembayaran Baru**
+
+1. Klik tombol **Tambah** pada bagian _Metode Pembayaran_.
+2. Isi kolom **Nama**, **Nomor Rekening**, **Atas Nama**, dan unggah gambar/logo jika diperlukan.
+3. Klik **Simpan** untuk menyimpan metode pembayaran baru.
+
+***
+
+#### **4. Mengubah atau Menghapus Metode Pembayaran**
+
+1. Pada daftar metode pembayaran, klik **ikon titik tiga** di kolom _Aksi_.
+2. Akan muncul dua pilihan:
+   * **Edit**: Membuka jendela _Edit Metode Pembayaran_ (modal) untuk memperbarui data, termasuk mengganti logo.
+   * **Hapus**: Menghapus metode pembayaran secara **permanen** dari daftar. Pastikan pilihan ini hanya digunakan jika metode tersebut tidak lagi digunakan.
+
+**Langkah Mengedit:**
+
+* Perbarui informasi sesuai kebutuhan.
+* Jika ingin mengganti logo, klik **Unggah** untuk memilih file gambar baru atau **Hapus Gambar** untuk menghilangkan logo yang ada.
+* Klik **Simpan** untuk menyimpan perubahan.
+
+***
+
+#### **Manfaat Fitur Ini**
+
+* Mempermudah pengelolaan data rekening sekolah secara terpusat.
+* Menghindari kesalahan informasi pembayaran kepada siswa atau wali siswa.
+* Meningkatkan transparansi dan akurasi dalam transaksi keuangan sekolah.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

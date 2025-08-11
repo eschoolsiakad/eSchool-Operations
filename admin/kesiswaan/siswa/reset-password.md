@@ -4,7 +4,7 @@ icon: key
 
 # Reset Password
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Reset Password** digunakan untuk membantu siswa yang **lupa password akun mereka**. Saat siswa memilih opsi **“Lupa Password”** saat login, permintaan reset mereka akan **masuk otomatis ke halaman ini**, agar admin/operator sekolah bisa menindaklanjuti.
 

@@ -24,7 +24,7 @@ Halaman **Guru Tidak Absen** di eSchool Siakad Plus digunakan untuk menampilkan 
 
 1. **Filter Data**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Kelas** → Pilih kelas tertentu atau tampilkan semua kelas.
 * **Tanggal Mulai & Tanggal Selesai** → Tentukan rentang waktu data yang ingin ditampilkan.

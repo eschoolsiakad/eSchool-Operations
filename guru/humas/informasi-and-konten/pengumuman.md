@@ -36,7 +36,7 @@ Untuk membuat pengumuman baru, ikuti langkah berikut:
 
 ### ✏️ Edit & 🗑️ Hapus Pengumuman
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Jika Anda ingin melakukan perubahan atau menghapus pengumuman:
 
@@ -50,7 +50,7 @@ Jika Anda ingin melakukan perubahan atau menghapus pengumuman:
 
 ### 👁️ Melihat Detail Pengumuman
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Untuk melihat isi lengkap pengumuman:
 

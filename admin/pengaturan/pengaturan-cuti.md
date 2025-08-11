@@ -4,3 +4,51 @@ icon: sliders-simple
 
 # Pengaturan Cuti
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Menu **Pengaturan Cuti** digunakan untuk mengatur jumlah cuti per bulan, menentukan hari libur, serta menetapkan pengaturan cuti berdasarkan tahun ajaran. Fitur ini membantu sekolah dalam mengelola jadwal kerja dan hari libur secara terstruktur.
+
+***
+
+#### **1. Tambah Pengaturan Cuti**
+
+Untuk menambahkan pengaturan cuti baru, lengkapi form **Tambah Pengaturan Cuti** yang terdiri dari:
+
+* **Jumlah Cuti Per Bulan** (_Jml Cuti Per Bulan_): Masukkan jumlah cuti yang diberikan setiap bulan.
+* **Hari Libur**: Pilih hari-hari yang ditetapkan sebagai hari libur (misalnya Sabtu, Minggu).
+* **Tahun Ajaran**: Pilih tahun ajaran yang berlaku untuk pengaturan cuti tersebut.
+
+Klik tombol **Simpan** untuk menambahkan pengaturan cuti baru.
+
+***
+
+#### **2. Daftar Pengaturan Cuti**
+
+Bagian ini menampilkan seluruh pengaturan cuti yang telah dibuat, dengan kolom:
+
+* **No**: Nomor urut data.
+* **Cuti**: Jumlah cuti per bulan.
+* **Hari Libur**: Hari yang ditetapkan sebagai libur.
+* **Tahun Ajaran**: Tahun ajaran yang berlaku.
+* **Aksi**: Tombol titik tiga untuk mengedit atau menghapus pengaturan.
+
+***
+
+#### **3. Mengedit atau Menghapus Pengaturan Cuti**
+
+1. Klik **ikon titik tiga** pada kolom _Aksi_ di baris pengaturan yang ingin diubah atau dihapus.
+2. Akan muncul dua opsi:
+   * **Edit**: Membuka modal _Edit Cuti_ seperti pada gambar, di mana Anda dapat mengubah jumlah cuti, hari libur, dan tahun ajaran. Setelah melakukan perubahan, klik **Simpan**.
+   * **Hapus**: Menghapus data pengaturan cuti secara **permanen**. Gunakan opsi ini dengan hati-hati karena data yang dihapus tidak dapat dipulihkan.
+
+***
+
+#### **Manfaat Fitur Ini**
+
+* Memastikan pengaturan cuti sesuai kebijakan sekolah.
+* Mempermudah pengelolaan hari libur dan cuti tahunan.
+* Mengoptimalkan perencanaan jadwal kegiatan sekolah.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

@@ -4,7 +4,7 @@ icon: school-flag
 
 # Profil Sekolah
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Profil Sekolah** digunakan untuk mengelola dan memperbarui informasi identitas sekolah di dalam sistem **E-SCHOOL SIAKAD Plus**. Data yang diinput pada halaman ini akan ditampilkan pada berbagai modul sistem dan menjadi rujukan utama untuk profil lembaga pendidikan.
 

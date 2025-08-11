@@ -4,3 +4,64 @@ icon: square-envelope
 
 # Template Email
 
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Menu **Template Email** digunakan untuk membuat, mengubah, dan mengelola format pesan email yang akan dikirim secara otomatis oleh sistem kepada pihak terkait, seperti staf, orang tua, maupun pemohon yang aplikasinya ditolak. Fitur ini memastikan komunikasi resmi dari sekolah memiliki format yang seragam, profesional, dan sesuai kebutuhan.
+
+***
+
+#### **1. Jenis Template Email**
+
+Pada bagian atas menu, terdapat pilihan tipe template yang dapat dipilih sesuai kebutuhan:
+
+* **Template Email Staf** – digunakan untuk mengirim informasi pendaftaran atau notifikasi kepada staf sekolah.
+* **Template Email Orang Tua** – digunakan untuk mengirimkan informasi terkait anak atau siswa kepada orang tua/wali.
+* **Template Email Penolakan Aplikasi** – digunakan untuk memberikan pemberitahuan resmi terkait penolakan permohonan atau aplikasi.
+
+Pilih salah satu jenis template sesuai tujuan pengiriman.
+
+***
+
+#### **2. Editor Template Email**
+
+Bagian editor memungkinkan pengguna menulis dan memformat isi email. Tersedia berbagai fitur pengaturan teks seperti **bold**, **italic**, **list**, dan pengaturan ukuran huruf.
+
+Selain itu, sistem menyediakan **placeholder variabel** yang dapat digunakan untuk menampilkan informasi dinamis secara otomatis pada email. Placeholder ini akan diganti oleh data sebenarnya saat email dikirim.
+
+**Daftar Placeholder yang Tersedia:**
+
+* `{Nama Lengkap}` – otomatis menampilkan nama penerima.
+* `{Kode}` – menampilkan kode registrasi atau verifikasi.
+* `{Email}` – menampilkan alamat email penerima.
+* `{Password}` – menampilkan kata sandi sementara.
+* `{Nama Sekolah}` – menampilkan nama sekolah yang mengirim email.
+* `{URL}` – menampilkan tautan pendaftaran atau login.
+* `{Email Bantuan}` – menampilkan alamat email untuk bantuan.
+* `{Kontak Bantuan}` – menampilkan nomor kontak pusat bantuan.
+* `{Aplikasi Android}` – menampilkan tautan unduh aplikasi Android.
+* `{Aplikasi iOS}` – menampilkan tautan unduh aplikasi iOS.
+
+Untuk menggunakan placeholder, cukup klik tombol yang sesuai di bawah editor, maka kode akan otomatis masuk ke dalam teks email.
+
+***
+
+#### **3. Menyimpan Template Email**
+
+Setelah selesai membuat atau mengubah isi template:
+
+1. Pastikan teks telah diperiksa dan diformat dengan baik.
+2. Klik tombol **Simpan** di bagian kanan bawah untuk menyimpan perubahan.
+3. Template akan langsung digunakan oleh sistem sesuai jenisnya.
+
+***
+
+#### **Manfaat Fitur Template Email**
+
+* Menjaga konsistensi format email resmi sekolah.
+* Mempercepat proses komunikasi karena template dapat digunakan berulang kali.
+* Mengurangi risiko kesalahan input informasi pada email.
+* Meningkatkan profesionalisme komunikasi sekolah dengan pihak terkait.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

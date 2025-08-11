@@ -4,3 +4,60 @@ icon: calendars
 
 # Tahun Ajaran
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Menu **Tahun Ajaran** digunakan untuk mengelola data tahun ajaran yang berlaku di sekolah, termasuk membuat tahun ajaran baru, mengedit, menghapus, dan menetapkannya sebagai bawaan sistem. Fitur ini memastikan seluruh data akademik terhubung dengan periode waktu yang tepat.
+
+***
+
+#### **1. Membuat Tahun Ajaran Baru**
+
+Pada bagian **Buat Tahun Ajaran**, isikan informasi berikut:
+
+* **Nama**: Nama tahun ajaran (misalnya _2025/2026_).
+* **Tgl Mulai**: Tanggal awal berlakunya tahun ajaran.
+* **Tgl Selesai**: Tanggal berakhirnya tahun ajaran.
+
+Setelah data diisi dengan benar, klik **Simpan** untuk menambahkan tahun ajaran baru.
+
+***
+
+#### **2. Daftar Tahun Ajaran**
+
+Bagian ini menampilkan semua tahun ajaran yang sudah terdaftar, dengan kolom:
+
+* **No**: Nomor urut.
+* **Nama**: Nama tahun ajaran.
+* **Tgl Mulai**: Tanggal mulai berlakunya tahun ajaran.
+* **Tgl Selesai**: Tanggal berakhirnya tahun ajaran.
+* **Bawaan**: Menunjukkan apakah tahun ajaran tersebut merupakan bawaan (default) sistem.
+* **Aksi**: Tombol **ikon titik tiga** untuk mengakses opsi pengelolaan.
+
+***
+
+#### **3. Opsi Aksi pada Tahun Ajaran**
+
+Jika tombol **ikon titik tiga** diklik, akan muncul tiga pilihan:
+
+1. **Jadikan Default**
+   * Menetapkan tahun ajaran tersebut sebagai bawaan (default) yang digunakan di seluruh modul sistem.
+   * Hanya satu tahun ajaran yang dapat menjadi bawaan pada satu waktu.
+2. **Edit**
+   * Membuka modal _Edit Tahun Ajaran_ seperti pada gambar.
+   * Anda dapat memperbarui **Nama**, **Tgl Mulai**, dan **Tgl Selesai**.
+   * Klik **Simpan** untuk menerapkan perubahan.
+3. **Hapus**
+   * Menghapus data tahun ajaran secara **permanen** dari sistem.
+   * Gunakan fitur ini dengan hati-hati karena data yang dihapus tidak dapat dipulihkan.
+
+***
+
+#### **Manfaat Fitur Ini**
+
+* Memastikan periode akademik pada sistem sesuai kalender pendidikan sekolah.
+* Mempermudah pengaturan data akademik agar selalu terhubung dengan tahun ajaran aktif.
+* Meminimalkan risiko kesalahan input data tahun ajaran.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
