@@ -41,7 +41,7 @@
       * [Dashboard Kesiswaan](guru/kesiswaan/siswa/dashboard-kesiswaan.md)
       * [Siswa](guru/kesiswaan/siswa/siswa.md)
     * [Absensi](guru/kesiswaan/absensi/README.md)
-      * [Dashboard Absensi](guru/kesiswaan/absensi/dashboard-absensi.md)
+      * [Dashboard Absensi X](guru/kesiswaan/absensi/dashboard-absensi-x.md)
       * [Absensi Kegiatan Khusus](guru/kesiswaan/absensi/absensi-kegiatan-khusus.md)
       * [Absensi per Pelajaran](guru/kesiswaan/absensi/absensi-per-pelajaran/README.md)
         * [Tambah Absensi](guru/kesiswaan/absensi/absensi-per-pelajaran/tambah-absensi.md)
