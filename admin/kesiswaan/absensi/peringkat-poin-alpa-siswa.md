@@ -1,6 +1,73 @@
 ---
+description: Monitoring Ketidakhadiran untuk Tindak Lanjut Disiplin
 icon: chart-candlestick
 ---
 
 # Peringkat Poin Alpa Siswa
 
+<figure><img src="../../../.gitbook/assets/screencapture-esbeta-deanry-my-id-attendance-rank-2025-08-12-10_32_49.png" alt=""><figcaption></figcaption></figure>
+
+Fitur **Peringkat Poin Alpa Siswa** pada E-SCHOOL Siakad Plus adalah alat bantu penting dalam memantau dan mengevaluasi tingkat kehadiran siswa berdasarkan **jumlah jam alfa (tidak hadir tanpa keterangan)** yang telah terakumulasi. Halaman ini secara otomatis menyusun **peringkat siswa dengan poin alpa terbanyak**, baik untuk seluruh tingkatan maupun per jenjang kelas.
+
+***
+
+### Tujuan Fitur
+
+* Memberikan gambaran cepat siswa dengan tingkat ketidakhadiran tertinggi.
+* Membantu tim kesiswaan dan wali kelas dalam **identifikasi siswa yang membutuhkan perhatian khusus**.
+* Menjadi dasar **tindak lanjut pembinaan atau konseling**.
+
+***
+
+### Navigasi Halaman
+
+#### Filter Tingkatan
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-08-12 130650.png" alt=""><figcaption></figcaption></figure>
+
+Tersedia tiga tab filter cepat berdasarkan jenjang:
+
+* **Semua Tingkatan** – Menampilkan seluruh siswa dari kelas yang ada.
+* **Kelas** – Menyaring data berdasarkan jenjang tertentu agar lebih fokus.
+
+***
+
+### Kolom Data yang Ditampilkan&#x20;
+
+| Kolom       | Penjelasan                                                               |
+| ----------- | ------------------------------------------------------------------------ |
+| Peringkat   | Urutan siswa berdasarkan poin alpa tertinggi ke terendah                 |
+| Nama        | Nama lengkap siswa                                                       |
+| Kelas       | Asal kelas siswa                                                         |
+| Alpha (Jam) | Jumlah jam ketidakhadiran tanpa keterangan resmi (alpa)                  |
+| Poin        | Nilai penalti dari kehadiran yang dihitung berdasarkan kebijakan sekolah |
+
+***
+
+### Tombol Ekspor
+
+* Klik tombol **Peringkat** (kanan atas) untuk **mengunduh rekap data dalam bentuk file Excel atau PDF**.
+* Cocok untuk laporan bulanan, evaluasi BK, dan rapat wali kelas.
+
+***
+
+### Manfaat Bagi Pengguna
+
+| Pengguna          | Manfaat Spesifik                                                            |
+| ----------------- | --------------------------------------------------------------------------- |
+| Guru BK           | Menemukan siswa yang berpotensi mengalami masalah kedisiplina               |
+| Wali Kelas        | Menindaklanjuti siswa yang mulai menunjukkan gejala ketidakhadiran berulang |
+| Tim Kesiswaan     | Membuat program pembinaan berbasis data absensi real-time                   |
+| Manajemen Sekolah | Bahan analisis tren ketidakhadiran secara agregat dan berdasarkan kelas     |
+
+***
+
+### Tips Penggunaan
+
+* Lakukan evaluasi mingguan berdasarkan hasil peringkat alpa.
+* Kolaborasikan data ini dengan **laporan absensi per pelajaran** untuk memahami pola absensi siswa.
+* Gunakan sebagai indikator non-akademik dalam penilaian sikap atau catatan rapor.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
