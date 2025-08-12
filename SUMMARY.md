@@ -45,7 +45,7 @@
       * [Absensi Kegiatan Khusus](guru/kesiswaan/absensi/absensi-kegiatan-khusus.md)
       * [Absensi per Pelajaran](guru/kesiswaan/absensi/absensi-per-pelajaran/README.md)
         * [Tambah Absensi](guru/kesiswaan/absensi/absensi-per-pelajaran/tambah-absensi.md)
-      * [Surat Izin Siswa](guru/kesiswaan/absensi/surat-izin-siswa.md)
+      * [Surat Izin Siswa X](guru/kesiswaan/absensi/surat-izin-siswa-x.md)
       * [Peringkat Poin Alpa Siswa](guru/kesiswaan/absensi/peringkat-poin-alpa-siswa.md)
       * [Laporan Absensi Kegiatan Khusus](guru/kesiswaan/absensi/laporan-absensi-kegiatan-khusus.md)
   * [Humas](guru/humas/README.md)
