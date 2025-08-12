@@ -4,7 +4,7 @@ icon: credit-card-front
 
 # Pengaturan Pembayaran
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Menu **Pengaturan Pembayaran** digunakan untuk mengatur informasi mata uang dan metode pembayaran resmi yang diterima oleh sekolah. Fitur ini memastikan bahwa seluruh transaksi keuangan dilakukan secara terstruktur, aman, dan sesuai dengan kebijakan lembaga.
 
