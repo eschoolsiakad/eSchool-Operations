@@ -1,2 +1,56 @@
+---
+icon: message-question
+---
+
 # Bantuan
 
+<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+Halaman **Bantuan** di **E-SCHOOL SIAKAD Plus** merupakan fitur yang memudahkan pengguna untuk mendapatkan informasi kontak resmi administrator sekolah.\
+Fitur ini berfungsi sebagai titik awal komunikasi apabila pengguna membutuhkan dukungan teknis, penjelasan fitur, atau bantuan terkait penggunaan sistem.
+
+***
+
+#### **Fungsi dan Manfaat**
+
+1. **Akses Informasi Kontak Cepat** – Memudahkan pengguna menemukan email dan nomor telepon admin tanpa harus mencari di luar sistem.
+2. **Pusat Bantuan Terpadu** – Menjadi referensi utama untuk menghubungi pihak yang berwenang memberikan solusi.
+3. **Efisiensi Komunikasi** – Mempercepat proses penyampaian kendala dan penyelesaian masalah.
+4. **Meningkatkan Dukungan Layanan** – Memastikan pengguna selalu memiliki jalur komunikasi resmi dengan pihak sekolah.
+
+***
+
+#### **Akses Halaman**
+
+* **Menu Lokasi**:\
+  Navigasikan ke **Pengaturan → Bantuan** pada sidebar.
+* **Informasi yang Ditampilkan**:
+  * **Nama Admin** – Identitas administrator yang bertugas.
+  * **Alamat Email** – Kontak email resmi untuk komunikasi tertulis.
+  * **Nomor Telepon** – Kontak telepon yang dapat dihubungi langsung untuk keperluan mendesak.
+
+***
+
+#### **Panduan Penggunaan**
+
+1. **Membaca Informasi Kontak**
+   * Pastikan informasi yang ditampilkan adalah kontak admin sekolah yang aktif.
+2. **Menghubungi Admin via Email**
+   * Klik atau salin alamat email untuk mengirim pesan berisi pertanyaan, kendala, atau permintaan bantuan.
+3. **Menghubungi Admin via Telepon**
+   * Gunakan nomor telepon yang tersedia untuk komunikasi langsung, khususnya jika membutuhkan respon cepat.
+4. **Menyimpan Kontak**
+   * Disarankan untuk menyimpan informasi kontak admin di perangkat pribadi agar dapat diakses kapan saja.
+
+***
+
+#### **Catatan Penting**
+
+* Gunakan bahasa yang sopan dan jelas saat menghubungi admin.
+* Sertakan informasi detail terkait masalah atau pertanyaan untuk mempermudah proses bantuan.
+* Waktu respon dapat berbeda tergantung jam kerja sekolah.
+* Hindari menghubungi admin di luar jam operasional kecuali untuk keadaan mendesak.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

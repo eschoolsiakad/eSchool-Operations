@@ -1,2 +1,58 @@
+---
+icon: shutters
+---
+
 # Syarat & Ketentuan
 
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+
+Halaman **Syarat & Ketentuan** adalah bagian penting dari sistem **E-SCHOOL SIAKAD Plus** yang berfungsi untuk memberikan informasi resmi terkait peraturan, batasan, dan ketentuan penggunaan layanan.\
+Konten pada halaman ini biasanya mencakup pengaturan hukum, definisi istilah, hak dan kewajiban pengguna, serta kebijakan penggunaan platform.
+
+Tujuan utamanya adalah memastikan seluruh pihak yang menggunakan sistem memahami dan menyetujui aturan yang berlaku sebelum memanfaatkan layanan.
+
+***
+
+#### **Fungsi dan Manfaat**
+
+1. **Perlindungan Hukum** – Memberikan dasar hukum bagi pihak sekolah maupun penyedia layanan dalam mengatur interaksi dengan pengguna.
+2. **Kejelasan Definisi** – Menjelaskan arti istilah-istilah penting seperti _Pengguna_, _Layanan_, dan _Konten_ untuk menghindari salah pengertian.
+3. **Transparansi Layanan** – Menguraikan hak, kewajiban, serta batasan layanan secara jelas sehingga pengguna mengetahui ruang lingkup penggunaan.
+4. **Kepatuhan** – Memastikan semua pihak yang mengakses layanan telah membaca dan menyetujui peraturan yang berlaku.
+
+***
+
+#### **Akses Halaman**
+
+* **Menu Lokasi**:\
+  Navigasikan ke **Pengaturan → Syarat & Ketentuan** di sidebar.
+* **URL Publik**:\
+  Ditampilkan di bagian atas halaman agar dapat dibagikan ke pihak terkait, misalnya kepada siswa, guru, atau orang tua.
+* **Editor Konten**:\
+  Menggunakan _Rich Text Editor_ untuk memudahkan penulisan, pemformatan teks, serta penambahan elemen seperti tautan, tabel, atau gambar.
+
+***
+
+#### **Panduan Penggunaan**
+
+1. **Membaca Konten**
+   * Pastikan seluruh isi Syarat & Ketentuan sesuai dengan kebijakan sekolah dan regulasi yang berlaku.
+2. **Mengedit Konten**
+   * Gunakan editor untuk memperbarui teks sesuai kebutuhan, seperti revisi kebijakan atau penyesuaian layanan.
+3. **Menyimpan Perubahan**
+   * Klik tombol **Simpan** di bagian kanan bawah untuk memastikan perubahan tersimpan dan ditampilkan di URL publik.
+4. **Penyelarasan Kebijakan**
+   * Sebelum mempublikasikan, koordinasikan dengan pihak sekolah atau manajemen untuk memastikan isi sesuai dan sah secara hukum.
+
+***
+
+#### **Catatan Penting**
+
+* Gunakan bahasa formal, jelas, dan tidak ambigu.
+* Hindari penggunaan istilah teknis yang sulit dipahami tanpa penjelasan.
+* Lakukan pembaruan berkala untuk menyesuaikan dengan perkembangan kebijakan sekolah atau regulasi pemerintah.
+* Perubahan besar sebaiknya disertai pemberitahuan resmi kepada pengguna.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

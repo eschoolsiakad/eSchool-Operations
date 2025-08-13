@@ -1,2 +1,56 @@
+---
+icon: lock-keyhole
+---
+
 # Kebijakan Privasi
 
+<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+
+Halaman **Kebijakan Privasi** berfungsi untuk memberikan informasi resmi kepada pengguna terkait cara **E-SCHOOL SIAKAD Plus** mengumpulkan, menggunakan, menyimpan, dan melindungi data pribadi yang mereka berikan saat menggunakan layanan.\
+Kebijakan ini merupakan bentuk komitmen platform dalam menjaga kerahasiaan informasi serta memastikan kepatuhan terhadap peraturan perundang-undangan yang berlaku.
+
+***
+
+#### **Fungsi dan Manfaat**
+
+1. **Transparansi Pengelolaan Data** – Menjelaskan kepada pengguna bagaimana data pribadi mereka digunakan.
+2. **Perlindungan Hak Pengguna** – Memastikan pengguna memahami hak-hak mereka terkait data pribadi.
+3. **Kepatuhan Regulasi** – Mengikuti ketentuan perlindungan data sesuai undang-undang yang berlaku.
+4. **Kepercayaan Pengguna** – Memberikan rasa aman saat pengguna mengakses dan menggunakan layanan.
+
+***
+
+#### **Akses Halaman**
+
+* **Menu Lokasi**:\
+  Arahkan ke **Pengaturan → Kebijakan Privasi** di sidebar.
+* **URL Publik**:\
+  Ditampilkan di bagian atas halaman agar dapat dibagikan kepada pihak-pihak terkait seperti siswa, guru, atau wali murid.
+* **Editor Konten**:\
+  Menggunakan _Rich Text Editor_ untuk memudahkan penulisan, pemformatan, dan pembaruan isi kebijakan.
+
+***
+
+#### **Panduan Penggunaan**
+
+1. **Membaca Kebijakan**
+   * Pastikan seluruh isi kebijakan sesuai dengan kebijakan internal sekolah dan ketentuan hukum.
+2. **Mengedit Konten**
+   * Gunakan editor untuk menambah, menghapus, atau memperbarui informasi sesuai perkembangan kebutuhan dan regulasi.
+3. **Menyimpan Perubahan**
+   * Klik tombol **Simpan** untuk menerapkan pembaruan dan menampilkannya di URL publik.
+4. **Koordinasi dengan Pihak Terkait**
+   * Konsultasikan pembaruan kebijakan dengan pihak manajemen sekolah sebelum mempublikasikannya.
+
+***
+
+#### **Catatan Penting**
+
+* Gunakan bahasa yang jelas, singkat, dan mudah dipahami oleh seluruh pengguna.
+* Lakukan pembaruan secara berkala, khususnya jika ada perubahan regulasi atau kebijakan sekolah.
+* Pastikan kebijakan yang diterbitkan selaras dengan **Syarat & Ketentuan** untuk menghindari kontradiksi.
+* Informasikan perubahan besar kepada seluruh pengguna secara resmi.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).
