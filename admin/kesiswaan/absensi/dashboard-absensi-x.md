@@ -11,7 +11,7 @@ Halaman **Dasbor Absensi** di E-SCHOOL Siakad Plus dirancang untuk memberikan ga
 
 ***
 
-#### 🧾 **Kapan Menggunakan Fitur Ini?**
+**Kapan Menggunakan Fitur Ini?**
 
 * Memantau kondisi absensi saat jam belajar berlangsung.
 * Mengecek guru yang aktif mengabsen dan yang belum melakukan absensi.
@@ -20,7 +20,7 @@ Halaman **Dasbor Absensi** di E-SCHOOL Siakad Plus dirancang untuk memberikan ga
 
 ***
 
-#### 🔍 **Navigasi dan Filter**
+**Navigasi dan Filter**
 
 Pengguna dapat mempersempit atau memperluas data yang ditampilkan dengan:
 
@@ -30,7 +30,7 @@ Pengguna dapat mempersempit atau memperluas data yang ditampilkan dengan:
 
 ***
 
-#### 📊 **Komponen Utama Dasbor**
+**Komponen Utama Dasbor**
 
 1. **Kartu Statistik** – menampilkan total:
    * Absensi Siswa
@@ -44,7 +44,7 @@ Pengguna dapat mempersempit atau memperluas data yang ditampilkan dengan:
 
 ***
 
-#### ✏️ **Aksi & Interaksi**
+**Aksi & Interaksi**
 
 * Klik ikon ⏱ untuk mengaktifkan atau menonaktifkan _auto-refresh_ 10 detik.
 * Ubah filter waktu dan kelas untuk fokus pada data tertentu.
@@ -52,7 +52,7 @@ Pengguna dapat mempersempit atau memperluas data yang ditampilkan dengan:
 
 ***
 
-#### 🎯 **Manfaat Fitur Ini**
+**Manfaat Fitur Ini**
 
 * **Kesiswaan** → Memantau kepatuhan guru dan siswa terhadap absensi.
 * **Wali Kelas** → Mengetahui siswa yang membutuhkan pembinaan khusus.
@@ -60,7 +60,7 @@ Pengguna dapat mempersempit atau memperluas data yang ditampilkan dengan:
 
 ***
 
-#### 💡 **Tips Penggunaan**
+**Tips Penggunaan**
 
 * Aktifkan _auto-refresh_ saat memantau absensi di jam masuk/pulang sekolah agar cepat mendeteksi ketidakhadiran.
 * Periksa **Rekap Guru Tidak Mengabsen** di awal jam pelajaran dan hubungi guru terkait jika diperlukan.
