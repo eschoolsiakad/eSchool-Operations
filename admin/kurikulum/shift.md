@@ -5,9 +5,9 @@ icon: stopwatch-20
 
 # Shift
 
-<figure><img src="../../.gitbook/assets/FireShot Capture 005 - Shift - eSchool - Software Manajemen Sekolah - [esbeta.deanry.my.id].png" alt=""><figcaption></figcaption></figure>
-
 Halaman Shift pada E-SCHOOL Siakad Plus dirancang untuk mengelola waktu operasional pembelajaran berdasarkan pembagian sesi harian, seperti pagi, siang, dan sore. Fitur ini sangat berguna untuk sekolah yang menggunakan sistem **multi-shift** atau **pembelajaran bergiliran**, terutama di lingkungan sekolah dengan jumlah rombongan belajar yang besar.
+
+<figure><img src="../../.gitbook/assets/FireShot Capture 005 - Shift - eSchool - Software Manajemen Sekolah - [esbeta.deanry.my.id].png" alt=""><figcaption></figcaption></figure>
 
 ***
 

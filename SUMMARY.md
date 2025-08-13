@@ -66,7 +66,7 @@
     * [Guru Kelas](admin/kurikulum/guru-kelas.md)
     * [Pindah Kelas X](admin/kurikulum/pindah-kelas-x.md)
     * [Nomor Urut X](admin/kurikulum/nomor-urut-x.md)
-    * [Semester x](admin/kurikulum/semester-x.md)
+    * [Semester](admin/kurikulum/semester.md)
     * [Shift](admin/kurikulum/shift.md)
     * [Jadwal Pelajaran](admin/kurikulum/jadwal-pelajaran/README.md)
       * [Buat Jadwal](admin/kurikulum/jadwal-pelajaran/buat-jadwal.md)
