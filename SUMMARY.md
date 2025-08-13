@@ -108,7 +108,7 @@
       * [Impor Data](admin/kesiswaan/siswa/impor-data.md)
       * [Wali Murid](admin/kesiswaan/siswa/wali-murid.md)
     * [Absensi](admin/kesiswaan/absensi/README.md)
-      * [Dashboard Absensi x](admin/kesiswaan/absensi/dashboard-absensi-x.md)
+      * [Dashboard Absensi](admin/kesiswaan/absensi/dashboard-absensi.md)
       * [Absensi Kegiatan Khusus](admin/kesiswaan/absensi/absensi-kegiatan-khusus.md)
       * [Surat Izin Siswa X](admin/kesiswaan/absensi/surat-izin-siswa-x.md)
       * [Peringkat Poin Alpa Siswa](admin/kesiswaan/absensi/peringkat-poin-alpa-siswa.md)
