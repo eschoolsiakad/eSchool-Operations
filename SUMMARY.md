@@ -113,7 +113,7 @@
       * [Surat Izin Siswa X](admin/kesiswaan/absensi/surat-izin-siswa-x.md)
       * [Peringkat Poin Alpa Siswa](admin/kesiswaan/absensi/peringkat-poin-alpa-siswa.md)
       * [Laporan Absensi Kegiatan Khusus](admin/kesiswaan/absensi/laporan-absensi-kegiatan-khusus.md)
-      * [Laporan Absensi](admin/kesiswaan/absensi/laporan-absensi.md)
+      * [Laporan Absensi X](admin/kesiswaan/absensi/laporan-absensi-x.md)
       * [Laporan SIA per Semester](admin/kesiswaan/absensi/laporan-sia-per-semester.md)
       * [Laporan Poin Absensi](admin/kesiswaan/absensi/laporan-poin-absensi.md)
       * [Pengaturan Absensi](admin/kesiswaan/absensi/pengaturan-absensi.md)
