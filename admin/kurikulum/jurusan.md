@@ -14,7 +14,7 @@ Di halaman ini, admin dapat menambahkan jurusan baru, mengedit nama jurusan yang
 
 <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-### ➕ Menambah Jurusan Baru
+### Menambah Jurusan Baru
 
 Untuk menambahkan jurusan baru, isi form di bagian kiri halaman:
 
@@ -25,7 +25,7 @@ Jurusan yang berhasil ditambahkan akan muncul pada tabel **Daftar Jurusan** di s
 
 ***
 
-### 📋 Tabel Daftar Jurusan
+Tabel Daftar Jurusan
 
 Tabel **Daftar Jurusan** menampilkan semua jurusan aktif yang telah didaftarkan. Informasi yang ditampilkan:
 
@@ -37,7 +37,7 @@ Untuk mengakses menu aksi, klik tombol titik tiga di kolom **Aksi**.
 
 ***
 
-### ✏️ Mengedit Jurusan
+### Mengedit Jurusan
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ Jika Anda ingin mengubah nama jurusan:
 
 ***
 
-### 🗑️ Menghapus Jurusan
+### Menghapus Jurusan
 
 Untuk menghapus jurusan:
 
@@ -59,7 +59,7 @@ Untuk menghapus jurusan:
 
 ***
 
-### 🗃️ Mengelola Jurusan yang Dihapus
+### Mengelola Jurusan yang Dihapus
 
 Klik tab **Dihapus** di kanan atas tabel untuk melihat daftar jurusan yang telah dihapus.
 

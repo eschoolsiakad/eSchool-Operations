@@ -9,7 +9,7 @@ Dashboard Kurikulum di E-SCHOOL Siakad Plus adalah pusat informasi strategis yan
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-### 📌 Ringkasan Statistik Utama
+### Ringkasan Statistik Utama
 
 Pada bagian atas dashboard, pengguna langsung disajikan dengan angka-angka penting, contoh:
 
@@ -21,9 +21,9 @@ Statistik ini memberikan pandangan makro terhadap cakupan kurikulum yang sedang 
 
 ***
 
-### 🧠 Visualisasi Akademik
+### Visualisasi Akademik
 
-#### 🎓 Tingkat Kelas
+#### Tingkat Kelas
 
 * Ditampilkan dalam bentuk **diagram lingkaran** yang membagi kelas, contoh:
   * X
@@ -31,12 +31,12 @@ Statistik ini memberikan pandangan makro terhadap cakupan kurikulum yang sedang 
   * XII
 * Masing-masing memiliki distribusi yang **proporsional (33.3%)**, menunjukkan keseimbangan jumlah kelas di tiap jenjang.
 
-#### 📚 Kategori Mapel
+#### Kategori Mapel
 
 * Ditampilkan dalam bentuk **donat chart**.
 * Semua mata pelajaran yang terdaftar masuk dalam kategori **Teori (100%)** — indikator bahwa struktur kurikulum lebih banyak berbasis teori, dan memungkinkan sekolah mempertimbangkan penambahan mapel praktik jika dibutuhkan.
 
-#### 🧩 Kelompok Belajar
+#### Kelompok Belajar
 
 * Diagram batang menampilkan distribusi kelompok belajar berdasarkan kombinasi **tingkat dan jurusan**, seperti:
   * X TKJ, X RPL, XI ELIN, XII METRO, dan lainnya.
@@ -44,7 +44,7 @@ Statistik ini memberikan pandangan makro terhadap cakupan kurikulum yang sedang 
 
 ***
 
-### 🎯 Fungsi dan Manfaat Dashboard
+### Fungsi dan Manfaat Dashboard
 
 | Pengguna              | Manfaat Spesifik                                                          |
 | --------------------- | ------------------------------------------------------------------------- |
@@ -55,11 +55,11 @@ Statistik ini memberikan pandangan makro terhadap cakupan kurikulum yang sedang 
 
 ***
 
-### ✅ Keunggulan Fitur
+### Keunggulan Fitur
 
-* 🔄 **Real-time Data**: Semua grafik dan angka diperbarui otomatis sesuai perubahan struktur akademik.
-* 👁️ **Visual Mudah Dibaca**: Menggunakan diagram interaktif yang mempercepat pengambilan keputusan.
-* 📈 **Basis Evaluasi Kurikulum**: Menjadi landasan strategis dalam merancang perubahan atau pengembangan kurikulum.
+* **Real-time Data**: Semua grafik dan angka diperbarui otomatis sesuai perubahan struktur akademik.
+* **Visual Mudah Dibaca**: Menggunakan diagram interaktif yang mempercepat pengambilan keputusan.
+* **Basis Evaluasi Kurikulum**: Menjadi landasan strategis dalam merancang perubahan atau pengembangan kurikulum.
 
 ***
 

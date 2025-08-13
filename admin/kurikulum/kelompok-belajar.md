@@ -11,7 +11,7 @@ Halaman **Kelompok Belajar** pada E-SCHOOL SIAKAD Plus berfungsi untuk mengelola
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-#### 🔍 Tampilan Umum
+#### Tampilan Umum
 
 Tampilan halaman terdiri dari dua bagian utama:
 
@@ -20,7 +20,7 @@ Tampilan halaman terdiri dari dua bagian utama:
 
 ***
 
-#### ➕ Menambahkan Kelompok Belajar
+#### Menambahkan Kelompok Belajar
 
 Untuk menambahkan kelompok belajar baru, Anda hanya perlu:
 
@@ -31,14 +31,14 @@ Data yang berhasil ditambahkan akan langsung muncul dalam tabel di sebelah kanan
 
 ***
 
-#### 📋 Mengelola Daftar Kelompok Belajar
+#### Mengelola Daftar Kelompok Belajar
 
 Pada bagian **Daftar Kelompok Belajar**, ditampilkan daftar semua kelompok yang telah terdaftar, lengkap dengan nomor urut dan nama kelompok.
 
 Di kolom **Aksi**, Anda akan melihat ikon **titik tiga vertikal (︙)**. Klik ikon tersebut untuk membuka dua opsi:
 
-* **✏️ Edit**: Untuk mengubah nama kelompok belajar yang sudah ada.
-* **🗑️ Hapus**: Untuk menghapus data kelompok belajar.
+* **Edit**: Untuk mengubah nama kelompok belajar yang sudah ada.
+* **Hapus**: Untuk menghapus data kelompok belajar.
 
 Berikut tampilan saat tombol aksi diklik:
 
@@ -46,7 +46,7 @@ Berikut tampilan saat tombol aksi diklik:
 
 ***
 
-#### ✏️ Edit Kelompok Belajar
+#### Edit Kelompok Belajar
 
 Jika Anda memilih **Edit**, maka akan muncul modal form seperti berikut:
 
@@ -56,7 +56,7 @@ Pada form ini, Anda dapat mengubah **Nama** kelompok belajar, lalu klik **Simpan
 
 ***
 
-#### 🗑️ Hapus Kelompok Belajar
+#### Hapus Kelompok Belajar
 
 Jika Anda memilih opsi **Hapus**, maka data kelompok belajar yang bersangkutan akan langsung dihapus dari sistem. Pastikan Anda melakukan konfirmasi terlebih dahulu, karena proses ini tidak dapat dibatalkan.
 

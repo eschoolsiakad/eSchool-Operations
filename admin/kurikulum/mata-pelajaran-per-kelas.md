@@ -7,9 +7,9 @@ icon: book
 
 # Mata Pelajaran Per Kelas
 
-<figure><img src="../../.gitbook/assets/screencapture-esbeta-deanry-my-id-class-subject-2025-08-08-11_32_49.png" alt=""><figcaption></figcaption></figure>
-
 Halaman **Mata Pelajaran per Kelas** di eSchool Siakad Plus digunakan untuk menentukan, mengubah, dan memantau daftar mata pelajaran yang berlaku pada setiap kelas, lengkap dengan pembagian **mapel inti** dan **mapel pilihan**. Data ini menjadi acuan utama dalam pengaturan jadwal, penugasan, dan ujian.
+
+<figure><img src="../../.gitbook/assets/screencapture-esbeta-deanry-my-id-class-subject-2025-08-08-11_32_49.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

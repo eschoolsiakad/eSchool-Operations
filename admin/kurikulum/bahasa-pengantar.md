@@ -11,7 +11,7 @@ Halaman **Bahasa Pengantar** digunakan untuk mengelola daftar bahasa pengantar y
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-### ✍️ Menambahkan Bahasa Pengantar
+### Menambahkan Bahasa Pengantar
 
 Untuk menambahkan bahasa baru:
 
@@ -22,7 +22,7 @@ Untuk menambahkan bahasa baru:
 
 ***
 
-### 📋 Daftar Bahasa Pengantar
+### Daftar Bahasa Pengantar
 
 Bagian sebelah kanan berisi daftar seluruh bahasa yang telah ditambahkan. Tabel ini menampilkan:
 
@@ -32,7 +32,7 @@ Bagian sebelah kanan berisi daftar seluruh bahasa yang telah ditambahkan. Tabel 
 
 ***
 
-### ⚙️ Mengelola Data Bahasa
+### Mengelola Data Bahasa
 
 Klik ikon **tiga titik vertikal (⋮)** di kolom Aksi pada setiap baris untuk memunculkan dua opsi:
 
@@ -46,11 +46,11 @@ Anda bisa mengubah nama bahasa, lalu klik **Simpan** untuk memperbarui data.
 * **Hapus**\
   Opsi ini akan langsung menghapus data bahasa dari sistem setelah konfirmasi.
 
-> ⚠️ Pastikan Anda hanya menghapus data yang sudah tidak digunakan, karena hal ini dapat memengaruhi pengaturan kurikulum atau data akademik lainnya yang terhubung.
+> ! Pastikan Anda hanya menghapus data yang sudah tidak digunakan, karena hal ini dapat memengaruhi pengaturan kurikulum atau data akademik lainnya yang terhubung.
 
 ***
 
-### 🔍 Tips Penggunaan
+### Tips Penggunaan
 
 * Gunakan singkatan standar untuk konsistensi (misal: `ID`, `ENG`, `AR`).
 * Anda bisa mencari data bahasa menggunakan kolom **Search** di kanan atas tabel.
@@ -58,7 +58,7 @@ Anda bisa mengubah nama bahasa, lalu klik **Simpan** untuk memperbarui data.
 
 ***
 
-📎 **Catatan**: Modul Bahasa Pengantar adalah komponen penting untuk mendukung pengelolaan pembelajaran multibahasa di lingkungan sekolah dengan program khusus seperti kelas internasional atau bilingual.
+**Catatan**: Modul Bahasa Pengantar adalah komponen penting untuk mendukung pengelolaan pembelajaran multibahasa di lingkungan sekolah dengan program khusus seperti kelas internasional atau bilingual.
 
 ***
 
