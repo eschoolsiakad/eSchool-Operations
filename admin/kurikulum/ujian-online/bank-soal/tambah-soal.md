@@ -10,46 +10,46 @@ Ketika user menekan tombol **+Soal** di halaman Bank Soal, sistem akan membuka h
 
 ***
 
-#### 🖊️ **Form Tambah Soal - Komponen & Fungsinya**
+#### **Form Tambah Soal - Komponen & Fungsinya**
 
-| Kolom/Form                 | Keterangan                                                                         |
-| -------------------------- | ---------------------------------------------------------------------------------- |
-| 🆔 **Versi Soal**          | Versi soal (bisa digunakan untuk tracking revisi soal).                            |
-| 📄 **Nama Soal**           | Nama atau identitas soal (tidak ditampilkan ke siswa).                             |
-| 📝 **Tipe Soal**           | Pilihan tipe soal: Pilihan Ganda, Esai, Jawaban Singkat, Benar Salah, Numerik.     |
-| 🔠 **Tipe Pilihan**        | Format pilihan jawaban: Alfabet Besar, Alfabet Kecil, Numerik, Romawi Kecil/Besar. |
-| 🎯 **Poin Bawaan**         | Bobot nilai maksimum soal ini.                                                     |
-| 🖼️ **Gambar (Opsional)**  | Upload gambar jika soal memerlukan media visual.                                   |
-| ✍️ **Teks Soal**           | Isi pertanyaan soal yang akan diberikan ke siswa.                                  |
-| 🗒️ **Catatan (Opsional)** | Keterangan tambahan internal (tidak terlihat oleh siswa).                          |
+| Kolom/Form             | Keterangan                                                                         |
+| ---------------------- | ---------------------------------------------------------------------------------- |
+| **Versi Soal**         | Versi soal (bisa digunakan untuk tracking revisi soal).                            |
+| **Nama Soal**          | Nama atau identitas soal (tidak ditampilkan ke siswa).                             |
+| **Tipe Soal**          | Pilihan tipe soal: Pilihan Ganda, Esai, Jawaban Singkat, Benar Salah, Numerik.     |
+| **Tipe Pilihan**       | Format pilihan jawaban: Alfabet Besar, Alfabet Kecil, Numerik, Romawi Kecil/Besar. |
+| **Poin Bawaan**        | Bobot nilai maksimum soal ini.                                                     |
+| **Gambar (Opsional)**  | Upload gambar jika soal memerlukan media visual.                                   |
+| **Teks Soal**          | Isi pertanyaan soal yang akan diberikan ke siswa.                                  |
+| **Catatan (Opsional)** | Keterangan tambahan internal (tidak terlihat oleh siswa).                          |
 
 ***
 
-#### 📝 **Mengisi Opsi Jawaban (Jika Pilihan Ganda / Benar-Salah)**
+#### **Mengisi Opsi Jawaban (Jika Pilihan Ganda / Benar-Salah)**
 
 * Di bagian **Opsi Jawaban**, user bisa menuliskan jawaban-jawaban yang tersedia.
 * Setiap opsi bisa diisi dengan:
   * Teks jawaban.
   * Persentase nilai (misal 100% untuk jawaban benar).
   * Feedback/umpan balik (penjelasan kenapa opsi itu benar/salah).
-* Klik **Tambah ➕** untuk menambahkan opsi jawaban baru.
-* Klik **Hapus 🗑️** untuk menghapus opsi yang tidak diperlukan.
+* Klik **Tambah** untuk menambahkan opsi jawaban baru.
+* Klik **Hapus** untuk menghapus opsi yang tidak diperlukan.
 
 ***
 
-#### 📂 **Tipe Soal yang Tersedia:**
+#### **Tipe Soal yang Tersedia:**
 
-| Tipe Soal               | Keterangan                                               |
-| ----------------------- | -------------------------------------------------------- |
-| ✔️ **Pilihan Ganda**    | Jawaban berupa pilihan (A/B/C/D atau lainnya).           |
-| ✍️ **Esai**             | Jawaban berupa teks panjang yang harus dikoreksi manual. |
-| 🖊️ **Jawaban Singkat** | Jawaban berupa satu/tiga kata kunci.                     |
-| ✅ **Benar-Salah**       | Soal dengan dua opsi jawaban (Benar/Salah).              |
-| #️⃣ **Numerik**         | Soal dengan jawaban angka yang spesifik.                 |
+| Tipe Soal           | Keterangan                                               |
+| ------------------- | -------------------------------------------------------- |
+| **Pilihan Ganda**   | Jawaban berupa pilihan (A/B/C/D atau lainnya).           |
+| **Esai**            | Jawaban berupa teks panjang yang harus dikoreksi manual. |
+| **Jawaban Singkat** | Jawaban berupa satu/tiga kata kunci.                     |
+| **Benar-Salah**     | Soal dengan dua opsi jawaban (Benar/Salah).              |
+| **Numerik**         | Soal dengan jawaban angka yang spesifik.                 |
 
 ***
 
-#### 🔢 **Tipe Pilihan (Untuk Pilihan Ganda & Benar-Salah):**
+#### **Tipe Pilihan (Untuk Pilihan Ganda & Benar-Salah):**
 
 * Alfabet Besar → A, B, C, D
 * Alfabet Kecil → a, b, c, d
@@ -59,17 +59,17 @@ Ketika user menekan tombol **+Soal** di halaman Bank Soal, sistem akan membuka h
 
 ***
 
-#### 📝 **Langkah Akhir:**
+#### **Langkah Akhir:**
 
 Setelah seluruh form terisi:
 
 1. Pastikan semua data sudah benar.
-2. Klik tombol **Simpan 💾**.
+2. Klik tombol **Simpan**.
 3. Soal akan otomatis masuk ke Bank Soal dan siap digunakan di Ujian Online.
 
 ***
 
-#### 🎯 **Fungsi Tambah Soal Ini:**
+#### **Fungsi Tambah Soal Ini:**
 
 * Menambah soal baru ke bank soal sesuai kebutuhan ujian.
 * Menentukan bobot nilai dan tipe soal sesuai kurikulum.

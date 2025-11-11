@@ -22,14 +22,14 @@ Fitur **Impor Data Guru** dirancang untuk memudahkan proses entri massal data gu
 
 #### Format File Wajib CSV
 
-> 🔥 **Catatan Penting:**\
+> **Catatan Penting:**\
 > Hanya file dengan ekstensi **`.csv` (Comma Separated Values)** yang bisa digunakan untuk proses impor.
 
 File yang diunggah harus memenuhi struktur yang sudah ditentukan, **tidak bisa dalam format Excel (.xlsx), .ods, atau lainnya.**
 
 ***
 
-#### 📄 Struktur Format CSV
+#### Struktur Format CSV
 
 Berikut adalah struktur kolom yang wajib ada dalam file `.csv`, sesuai gambar:
 

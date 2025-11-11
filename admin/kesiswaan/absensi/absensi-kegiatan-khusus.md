@@ -5,7 +5,7 @@ icon: clipboard-user
 
 # Absensi Kegiatan Khusus
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Absensi Kegiatan Khusus** pada E-SCHOOL Siakad Plus memudahkan guru atau operator kelas dalam mencatat kehadiran harian siswa dengan efisien. Tampilan berbasis daftar lengkap dengan tombol pilihan jenis kehadiran menjadikan proses ini lebih cepat, terstruktur, dan akurat.
 
@@ -54,7 +54,7 @@ Klik tombol radio sesuai status yang ingin diterapkan ke semua siswa:
 
 * Contoh: Klik ⭕ **Hadir** pada bagian bawah (lihat panah merah pada gambar), maka seluruh siswa akan otomatis ditandai sebagai "Hadir".
 
-> !  Anda tetap bisa mengubah status untuk siswa tertentu setelah menerapkan bulk edit.
+> Anda tetap bisa mengubah status untuk siswa tertentu setelah menerapkan bulk edit.
 
 ***
 

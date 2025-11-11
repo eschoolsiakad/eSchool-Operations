@@ -8,7 +8,7 @@ Menu **Tambah Siswa** pada sistem E-SCHOOL Siakad Plus dirancang untuk mempermud
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### 📝 Langkah-langkah Pengisian Form Tambah Siswa
+### Langkah-langkah Pengisian Form Tambah Siswa
 
 #### 1. **No Pendaftaran** _(Otomatis diisi)_
 

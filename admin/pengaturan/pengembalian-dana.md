@@ -4,7 +4,9 @@ icon: money-bill
 
 # Pengembalian Dana
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Menu **Pengembalian Dana** berfungsi untuk mengatur dan menampilkan kebijakan resmi sekolah terkait proses pengembalian sejumlah uang kepada pihak yang berhak, baik siswa maupun wali siswa, dalam kondisi tertentu. Fitur ini memungkinkan pihak sekolah menyampaikan informasi secara jelas, transparan, dan terdokumentasi agar semua pihak memahami prosedur yang berlaku.
 

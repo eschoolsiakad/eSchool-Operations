@@ -4,7 +4,7 @@ icon: circle-plus
 
 # Buat Jadwal
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Setelah ujian berhasil dibuat di menu **Ujian Offline**, tahap selanjutnya adalah **menjadwalkan pelaksanaan ujian**. Proses penjadwalan ini penting agar waktu pelaksanaan, mata pelajaran, dan kriteria penilaian ujian dapat diatur dengan tepat.
 

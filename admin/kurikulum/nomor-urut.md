@@ -11,7 +11,7 @@ icon: list-ol
 
 ***
 
-#### 💡 **Fungsi Utama**
+#### **Fungsi Utama**
 
 * Menampilkan daftar siswa berdasarkan tingkatan dan kelas.
 * Menyunting nomor urut langsung dari tabel secara cepat dan efisien.
@@ -20,7 +20,7 @@ icon: list-ol
 
 ***
 
-#### 🎯 **Kapan Fitur Ini Digunakan?**
+#### **Kapan Fitur Ini Digunakan?**
 
 * Saat melakukan perubahan urutan siswa (misal karena mutasi atau pengelompokan ulang).
 * Saat menyusun daftar kehadiran atau absensi.
@@ -29,7 +29,7 @@ icon: list-ol
 
 ***
 
-#### ⚙️ **Komponen yang Tersedia**
+#### **Komponen yang Tersedia**
 
 * **Dropdown Tingkatan & Kelas:** Untuk memilih data siswa berdasarkan kelas.
 * **Kolom Interaktif “No Urut”:** Dapat diedit dengan menekan ikon pensil pada kolom status.

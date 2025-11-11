@@ -4,18 +4,18 @@ icon: eye
 
 # Pratinjau Soal
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Pratinjau Bank Soal** memungkinkan pengguna melihat tampilan soal sebagaimana yang akan dilihat oleh siswa. Ini adalah langkah penting untuk memastikan bahwa soal sudah tersusun dengan benar, rapi, dan dapat dipahami sebelum digunakan dalam ujian.
 
-#### 🧭 Cara Mengakses
+#### Cara Mengakses
 
 1. Buka menu **Kurikulum > Ujian Online > Bank Soal**.
 2. Temukan soal yang ingin dipratinjau.
 3. Klik **ikon titik tiga (⋮)** di kolom _Aksi_.
 4. Pilih opsi **Pratinjau**.
 
-#### 🖼️ Tampilan Pratinjau
+#### Tampilan Pratinjau
 
 Saat jendela pratinjau muncul, kamu akan melihat:
 
@@ -27,9 +27,9 @@ Saat jendela pratinjau muncul, kamu akan melihat:
   * **Lihat Jawaban**: Menampilkan jawaban yang benar sesuai dengan konfigurasi soal.
   * **Selesai**: Menutup jendela pratinjau.
 
-> 📌 Catatan: Fitur ini hanya bersifat simulasi dan tidak menyimpan jawaban. Tujuannya adalah verifikasi dan validasi soal.
+> Catatan: Fitur ini hanya bersifat simulasi dan tidak menyimpan jawaban. Tujuannya adalah verifikasi dan validasi soal.
 
-#### 🎯 Kapan Digunakan?
+#### Kapan Digunakan?
 
 Gunakan fitur **Pratinjau** sebelum:
 
@@ -37,7 +37,7 @@ Gunakan fitur **Pratinjau** sebelum:
 * Mengedit soal yang sudah ada.
 * Menyusun paket ujian dari kumpulan bank soal.
 
-#### 💡 Tips Profesional
+#### Tips Profesional
 
 * Gunakan pratinjau untuk memastikan gambar, opsi jawaban, dan format teks tampil dengan sempurna.
 * Cek bahwa jawaban benar telah diatur dengan tepat — satu klik pada **Lihat Jawaban** bisa menyelamatkan dari soal jebakan yang tidak disengaja.

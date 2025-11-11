@@ -4,13 +4,13 @@ icon: circle-info
 
 # Informasi Gaji
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Informasi Gaji** memungkinkan admin untuk mengatur dan mengelola detail penghasilan guru, termasuk gaji pokok, tunjangan, pengurangan, hingga perhitungan gaji bersih. Informasi ini bersifat sensitif dan hanya dapat diakses oleh pihak berwenang seperti bendahara sekolah atau admin SDM.
 
 ***
 
-#### 🔍 Cara Mengakses
+#### Cara Mengakses
 
 1. Buka menu **Guru > Daftar Guru**.
 2. Temukan guru yang ingin dilihat atau diatur informasi gajinya.
@@ -20,15 +20,15 @@ Fitur **Informasi Gaji** memungkinkan admin untuk mengatur dan mengelola detail 
 
 ***
 
-#### 📑 Penjelasan Formulir Gaji
+#### Penjelasan Formulir Gaji
 
-**🟢 Bagian Tunjangan**
+**Bagian Tunjangan**
 
 * **Jenis Tunjangan**: Pilih dari daftar (contoh: Hari Raya, Sertifikasi, Jabatan).
 * **Jumlah (Jml)**: Besar nominal tunjangan.
 * Gunakan tombol **+ Tunjangan Baru** untuk menambahkan entri tambahan.
 
-**🔴 Bagian Pengurangan**
+**Bagian Pengurangan**
 
 * **Jenis Pengurangan**: Misalnya _Pajak_, _Potongan Absensi_, atau pengurangan berdasarkan periode.
 * **Persentase**: Persen pengurangan dari gaji pokok atau total.
@@ -36,7 +36,7 @@ Fitur **Informasi Gaji** memungkinkan admin untuk mengatur dan mengelola detail 
 
 ***
 
-#### 📊 Hasil Perhitungan Otomatis
+#### Hasil Perhitungan Otomatis
 
 Setelah semua data dimasukkan, sistem akan secara otomatis menghitung:
 
@@ -47,7 +47,7 @@ Setelah semua data dimasukkan, sistem akan secara otomatis menghitung:
 | **Pengurangan** | Total potongan berdasarkan persentase atau jumlah tetap.                               |
 | **Gaji Bersih** | Gaji akhir yang diterima guru setelah dikurangi pengurangan dan ditambahkan tunjangan. |
 
-> 💡 **Contoh:**\
+> **Contoh:**\
 > Gaji Pokok: 55\
 > Tunjangan: 20.000\
 > Pengurangan: 10% dari 55 = 5.5\
@@ -55,7 +55,7 @@ Setelah semua data dimasukkan, sistem akan secara otomatis menghitung:
 
 ***
 
-#### 📌 Tips Penggunaan
+#### Tips Penggunaan
 
 * Data gaji yang valid akan memperlancar proses pencatatan dan pencairan honor.
 * Pastikan semua angka diisi dengan benar, dan tunjangan/pengurangan tidak tumpang tindih.
@@ -63,7 +63,7 @@ Setelah semua data dimasukkan, sistem akan secara otomatis menghitung:
 
 ***
 
-#### 🚨 Catatan Keamanan
+#### Catatan Keamanan
 
 * Fitur ini hanya bisa diakses oleh pengguna dengan hak istimewa tertentu (Admin / Bendahara / Kepala Sekolah).
 * Informasi ini tidak dapat diakses oleh guru bersangkutan kecuali diberi akses secara khusus.

@@ -12,7 +12,7 @@ Fitur **Reset Password** digunakan untuk membantu siswa yang **lupa password aku
 
 #### Cara Kerja Fitur Ini
 
-1. **Siswa lupa password** ➡️ Klik **"Lupa Password"** saat login.
+1. **Siswa lupa password** Klik **"Lupa Password"** saat login.
 2. Sistem secara otomatis mencatat permintaan dan menampilkannya di **menu Kesiswaan > Reset Password**.
 3. Admin/operator akan melihat daftar siswa yang mengajukan permintaan reset.
 

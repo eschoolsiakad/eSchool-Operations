@@ -8,11 +8,11 @@ icon: pen-circle
 
 Fitur **Edit Guru** memungkinkan admin untuk memperbarui informasi guru yang sudah terdaftar di sistem. Baik karena adanya perubahan data (misalnya nomor HP, alamat, kualifikasi), maupun untuk perbaikan input sebelumnya.
 
-> ✨ **Akses cepat, perubahan instan.** Fitur ini dirancang agar proses pengelolaan data guru tetap rapi dan efisien.
+> **Akses cepat, perubahan instan.** Fitur ini dirancang agar proses pengelolaan data guru tetap rapi dan efisien.
 
 ***
 
-#### 🔓 Cara Mengakses Fitur Edit Guru
+#### Cara Mengakses Fitur Edit Guru
 
 1. Masuk ke menu **Guru > Daftar Guru**.
 2. Temukan guru yang ingin diedit.
@@ -21,7 +21,7 @@ Fitur **Edit Guru** memungkinkan admin untuk memperbarui informasi guru yang sud
 
 ***
 
-#### ✍️ Komponen Form Edit Guru
+#### Komponen Form Edit Guru
 
 | Kolom               | Keterangan                                                            |
 | ------------------- | --------------------------------------------------------------------- |
@@ -38,11 +38,11 @@ Fitur **Edit Guru** memungkinkan admin untuk memperbarui informasi guru yang sud
 | **Gaji**            | Gaji bulanan atau honor sesuai kebijakan.                             |
 | **Reset Password**  | Centang kotak ini untuk mengatur ulang kata sandi akun guru tersebut. |
 
-> 📌 Semua kolom bertanda _wajib diisi_ harus dilengkapi sebelum klik **Simpan**.
+> Semua kolom bertanda _wajib diisi_ harus dilengkapi sebelum klik **Simpan**.
 
 ***
 
-#### 🚨 Catatan Penting
+#### Catatan Penting
 
 * **Email tidak bisa diubah** dari halaman ini. Jika ada kesalahan, admin harus menghapus dan menambahkan ulang guru.
 * Tombol **Reset Password** akan otomatis mengatur ulang kata sandi dan mengirimkan instruksi ke email jika sistem terhubung dengan layanan pengiriman email.
@@ -50,7 +50,7 @@ Fitur **Edit Guru** memungkinkan admin untuk memperbarui informasi guru yang sud
 
 ***
 
-#### 💡 Tips Penggunaan
+#### Tips Penggunaan
 
 * Gunakan fitur edit ini secara berkala untuk memastikan data guru tetap **up-to-date**.
 * Khusus untuk perubahan status seperti _aktif/nonaktif_, lakukan melalui form Tambah/Daftar Guru utama.
