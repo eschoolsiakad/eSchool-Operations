@@ -129,6 +129,7 @@
     * [Monitoring Guru](admin/psdm/monitoring-guru.md)
   * [Bendahara](admin/bendahara/README.md)
     * [Dashboard Keuangan](admin/bendahara/dashboard-keuangan.md)
+    * [Gaji](admin/bendahara/gaji.md)
   * [Tata Usaha](admin/tata-usaha/README.md)
     * [Cuti](admin/tata-usaha/cuti/README.md)
       * [Dashboard Cuti](admin/tata-usaha/cuti/dashboard-cuti.md)
