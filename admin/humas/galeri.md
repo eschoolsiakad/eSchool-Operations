@@ -64,7 +64,7 @@ Masuk ke halaman **Galeri** dari sidebar admin. Terdapat dua bagian utama:
 
 ***
 
-### 📋 Tampilan Daftar Galeri
+### Tampilan Daftar Galeri
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
