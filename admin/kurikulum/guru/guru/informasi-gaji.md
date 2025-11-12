@@ -4,7 +4,7 @@ icon: circle-info
 
 # Informasi Gaji
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Informasi Gaji** memungkinkan admin untuk mengatur dan mengelola detail penghasilan guru, termasuk gaji pokok, tunjangan, pengurangan, hingga perhitungan gaji bersih. Informasi ini bersifat sensitif dan hanya dapat diakses oleh pihak berwenang seperti bendahara sekolah atau admin SDM.
 

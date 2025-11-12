@@ -4,7 +4,7 @@ icon: badge-dollar
 
 # Jenis Biaya
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Jenis Biaya** digunakan untuk mengelola seluruh jenis biaya yang diterapkan di sekolah, seperti biaya rutin, ujian, pembangunan, maupun biaya opsional lainnya. Melalui halaman ini, pengguna dapat menambahkan, mengedit, menonaktifkan, atau menghapus data biaya sesuai kebutuhan.
 

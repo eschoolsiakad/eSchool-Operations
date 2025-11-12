@@ -4,7 +4,7 @@ icon: money-bill-wave
 
 # Biaya Khusus
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Biaya Khusus** digunakan untuk menambahkan, mengelola, dan memantau biaya tertentu yang hanya berlaku bagi siswa tertentu. Fitur ini biasanya digunakan untuk mencatat biaya tambahan atau potongan yang tidak bersifat umum, seperti iuran kegiatan, tabungan qurban, atau keringanan pembayaran tertentu.
 

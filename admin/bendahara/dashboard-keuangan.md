@@ -4,7 +4,7 @@ icon: gauge-low
 
 # Dashboard Keuangan
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Keuangan** menampilkan rangkuman kondisi keuangan sekolah secara keseluruhan dalam satu tampilan. Tujuannya adalah membantu pengguna memahami alur pendapatan, pengeluaran, dan status keuangan terkini tanpa harus membuka laporan satu per satu.
 
