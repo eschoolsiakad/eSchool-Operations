@@ -2,9 +2,9 @@
 icon: screen-users
 ---
 
-# Surat Izin Siswa X
+# Surat Izin Siswa
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Halaman Surat Izin Siswa adalah pusat pengelolaan dan persetujuan permohonan izin tidak masuk sekolah yang diajukan oleh siswa atau wali siswa. Anda dapat melihat, memfilter, dan memproses status perizinan dari halaman ini.
 
@@ -43,7 +43,7 @@ Anda juga dapat memproses beberapa perizinan sekaligus dengan mencentang kotak d
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 #### Detail Perizinan Siswa
 

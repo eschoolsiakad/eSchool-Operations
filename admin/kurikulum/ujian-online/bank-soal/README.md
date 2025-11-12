@@ -4,7 +4,7 @@ icon: books
 
 # Bank Soal
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Bank Soal** adalah pusat penyimpanan seluruh soal yang akan digunakan dalam pembuatan ujian online. Melalui fitur ini, pengguna (guru/admin) dapat mengelola soal dengan mudah, mulai dari **melihat, menambah, hingga mengedit soal** sesuai kebutuhan.
 

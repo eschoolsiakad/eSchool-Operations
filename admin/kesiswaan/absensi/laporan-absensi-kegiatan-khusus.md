@@ -84,3 +84,7 @@ Setiap baris pada tabel memuat informasi:
 * Unduh laporan PDF untuk **arsip resmi sekolah**.
 * Pantau siswa yang sering tidak hadir untuk intervensi **BK/kesiswaan**.
 * Gunakan filter **Jenis Absensi** jika hanya ingin fokus pada siswa yang absen atau hadir.
+
+***
+
+Jika Anda membutuhkan bantuan lebih lanjut, hubungi kami melalui [halaman Bantuan eSchool](https://www.eschool.ac.id/#contact-us).

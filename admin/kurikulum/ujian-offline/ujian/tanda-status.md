@@ -4,7 +4,7 @@ icon: circle-exclamation
 
 # Tanda Status
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Tanda Status** berfungsi untuk menampilkan informasi status pelaksanaan ujian yang telah dijadwalkan sebelumnya. Melalui fitur ini, pengguna dapat memantau apakah ujian telah selesai dilaksanakan sesuai jadwal yang ditetapkan.
 

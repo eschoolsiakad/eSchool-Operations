@@ -4,7 +4,7 @@ icon: pen-circle
 
 # Edit
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Edit Guru** memungkinkan admin untuk memperbarui informasi guru yang sudah terdaftar di sistem. Baik karena adanya perubahan data (misalnya nomor HP, alamat, kualifikasi), maupun untuk perbaikan input sebelumnya.
 

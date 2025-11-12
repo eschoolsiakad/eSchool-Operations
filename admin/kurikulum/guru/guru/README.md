@@ -4,7 +4,7 @@ icon: person-chalkboard
 
 # Guru
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Menu ini digunakan untuk **mengelola data guru** secara menyeluruh, mulai dari proses penambahan guru baru hingga pengelolaan daftar guru yang sudah aktif maupun nonaktif. Fitur ini penting untuk memastikan data kepegawaian selalu akurat, terstruktur, dan siap digunakan dalam berbagai kebutuhan akademik maupun administrasi.
 

@@ -4,7 +4,7 @@ icon: square-envelope
 
 # Template Email
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Menu **Template Email** digunakan untuk membuat, mengubah, dan mengelola format pesan email yang akan dikirim secara otomatis oleh sistem kepada pihak terkait, seperti staf, orang tua, maupun pemohon yang aplikasinya ditolak. Fitur ini memastikan komunikasi resmi dari sekolah memiliki format yang seragam, profesional, dan sesuai kebutuhan.
 

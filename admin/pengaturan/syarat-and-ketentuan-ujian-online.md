@@ -4,7 +4,7 @@ icon: table-cells
 
 # Syarat & Ketentuan Ujian Online
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Menu **Syarat & Ketentuan Ujian Online** digunakan untuk mengatur dan menampilkan peraturan resmi yang wajib dipatuhi oleh seluruh peserta ujian berbasis daring (online). Fitur ini memastikan bahwa pelaksanaan ujian berlangsung secara adil, tertib, dan sesuai dengan standar integritas akademik yang berlaku di sekolah.
 

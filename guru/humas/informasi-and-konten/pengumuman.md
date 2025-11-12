@@ -7,7 +7,7 @@ icon: memo-circle-info
 
 Fitur **Pengumuman** dalam sistem E-SCHOOL Siakad Plus dirancang untuk memudahkan guru, tenaga kependidikan, dan admin sekolah dalam menyebarkan informasi penting kepada peserta didik maupun kelas tertentu. Pengumuman ditampilkan dalam format tabel dan dapat dilampiri file atau dokumen pendukung.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧭 Navigasi Halaman Pengumuman
 
@@ -36,7 +36,7 @@ Untuk membuat pengumuman baru, ikuti langkah berikut:
 
 ### ✏️ Edit & 🗑️ Hapus Pengumuman
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Jika Anda ingin melakukan perubahan atau menghapus pengumuman:
 
@@ -50,7 +50,7 @@ Jika Anda ingin melakukan perubahan atau menghapus pengumuman:
 
 ### 👁️ Melihat Detail Pengumuman
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Untuk melihat isi lengkap pengumuman:
 

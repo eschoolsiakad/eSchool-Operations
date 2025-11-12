@@ -32,7 +32,7 @@ Setelah data mata pelajaran terisi, selanjutnya lakukan pengisian data guru yang
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **3. Menyusun Jadwal Pelajaran (Drag and Drop)**
 

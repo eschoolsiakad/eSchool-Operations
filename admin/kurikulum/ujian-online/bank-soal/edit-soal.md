@@ -4,7 +4,7 @@ icon: pen-to-square
 
 # Edit Soal
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Halaman **Edit Soal** digunakan untuk mengubah isi dari soal yang sudah dibuat dalam Bank Soal. Fitur ini penting untuk memperbarui atau menyempurnakan materi ujian tanpa harus membuat soal baru dari nol.
 

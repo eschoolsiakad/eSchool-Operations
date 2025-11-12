@@ -4,7 +4,7 @@ icon: calendars
 
 # Tahun Ajaran
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Menu **Tahun Ajaran** digunakan untuk mengelola data tahun ajaran yang berlaku di sekolah, termasuk membuat tahun ajaran baru, mengedit, menghapus, dan menetapkannya sebagai bawaan sistem. Fitur ini memastikan seluruh data akademik terhubung dengan periode waktu yang tepat.
 

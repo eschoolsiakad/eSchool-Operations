@@ -4,7 +4,7 @@ icon: eye
 
 # Lihat Jadwal
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Lihat Jadwal Guru** memungkinkan admin atau user yang berwenang untuk menampilkan jadwal mengajar mingguan seorang guru. Dengan tampilan visual berbentuk kalender, pengguna dapat dengan mudah melihat distribusi waktu, mata pelajaran, dan kelas yang diajar oleh guru tersebut.
 
