@@ -4,7 +4,7 @@ icon: sliders-simple
 
 # Pengaturan Cuti
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Menu **Pengaturan Cuti** digunakan untuk mengatur jumlah cuti per bulan, menentukan hari libur, serta menetapkan pengaturan cuti berdasarkan tahun ajaran. Fitur ini membantu sekolah dalam mengelola jadwal kerja dan hari libur secara terstruktur.
 

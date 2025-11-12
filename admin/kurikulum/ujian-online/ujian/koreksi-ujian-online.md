@@ -4,7 +4,7 @@ icon: scroll
 
 # Koreksi Ujian Online
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur **Koreksi Ujian Online** digunakan untuk memeriksa dan memberikan penilaian terhadap **jawaban esai siswa** yang telah mengikuti ujian online. Proses koreksi dilakukan secara manual oleh guru dengan menentukan apakah jawaban yang diberikan siswa **Benar** atau **Salah**, serta memberikan skor sesuai bobot soal.
 
@@ -32,7 +32,7 @@ Fitur **Koreksi Ujian Online** digunakan untuk memeriksa dan memberikan penilaia
 
 #### **Melihat dan Mengoreksi Jawaban Siswa**
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Di bawah **Daftar Soal Ujian**, klik tombol **Lihat Jawaban Siswa** pada soal yang ingin dikoreksi.
 2. Sistem akan menampilkan **modal Koreksi Jawaban Siswa**.

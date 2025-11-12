@@ -30,7 +30,7 @@ Menu **Jadwal Guru** berfungsi untuk menampilkan daftar jadwal mengajar seluruh 
 * Setiap guru pada daftar jadwal dilengkapi dengan **ikon tiga titik (⋮)** di kolom **Aksi**.
 * Jika ikon tersebut diklik, sistem akan menampilkan **detail jadwal lengkap** dalam format grid mingguan.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Detail ini akan menunjukkan secara spesifik:
   * Mata Pelajaran yang diajarkan.
